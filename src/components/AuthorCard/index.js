@@ -1,25 +1,30 @@
 import React from 'react';
-import { useStaticQuery, graphql } from 'gatsby';
+import { useStaticQuery, graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
 
 import { Twitter } from 'styled-icons/boxicons-logos/Twitter';
 import { Github } from 'styled-icons/boxicons-logos/Github';
 import { Linkedin } from 'styled-icons/boxicons-logos/Linkedin';
 
+import { useLocale } from '../../hooks/locale';
+
 import * as S from './styled';
 
 const AuthorCard = () => {
   const { authorPhoto } = useStaticQuery(query);
+  const { locale } = useLocale();
 
   return (
     <S.AuthorCard>
       <div className="container">
         <S.AuthorPhoto>
           {authorPhoto && (
-            <Img
-              fluid={authorPhoto.childImageSharp.fluid}
-              alt="Diogo Rodrigues"
-            />
+            <Link to={locale === 'en' ? '/about' : '/pt/sobre'}>
+              <Img
+                fluid={authorPhoto.childImageSharp.fluid}
+                alt="Diogo Rodrigues"
+              />
+            </Link>
           )}
         </S.AuthorPhoto>
         <S.AuthorInfo>
