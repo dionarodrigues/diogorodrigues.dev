@@ -9,8 +9,11 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { useStaticQuery, graphql } from 'gatsby';
+import { useLocale } from '../hooks/locale';
 
 function SEO({ description, lang, meta, title, image }) {
+  const { locale } = useLocale();
+
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -34,7 +37,7 @@ function SEO({ description, lang, meta, title, image }) {
   return (
     <Helmet
       htmlAttributes={{
-        lang,
+        lang: `${locale}`,
       }}
       title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
@@ -85,7 +88,7 @@ function SEO({ description, lang, meta, title, image }) {
 }
 
 SEO.defaultProps = {
-  lang: `en`,
+  lang: `pt`,
   meta: [],
   description: ``,
   image: '',
