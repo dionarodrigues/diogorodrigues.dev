@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "label": "home", "url": "/" },
+    { "label": "about", "url": "/about" },
+    { "label": "portfolio", "url": "/portfolio" },
+    { "label": "blog", "url": "/blog" },
+    { "label": "contact", "url": "/contact" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+
+  "availableMessage": "Disponível p/ freelas - Entre em contato - ",
+
+  "presentation": "<span>👋</span> Hey, sou Diogo Rodrigues",
+  "jobDescription": "Eu crio <strong>experiências digitais</strong> <br/>através do design e código",
+  "aboutMeShort": "<p> Sou um desenvolvedor front-end com ótimas habilidades em UI/UX design de São Paulo, Brasil. </p>",
+
+  "portfolioPageDescription": "Aqui estão alguns dos meus recentes projetos de web design e desenvolvimento front-end.",
+  "blogPageDescription": "Alguns textos sobre o mundo do desenvolvimento web e mobile. Mas também há experimentos, referências e inspirações sobre carreira e crescimento pessoal.",
+  "contactPageDescription": "Qual é o seu desafio? Eu posso ajudar você e seu negócio com UX/UI design e desenvolvimento front-end para web e mobile.",
+  "brandsListTitle": "Venho ajudando marcas a melhorarem suas histórias",
+
+  "contactTitle":"Contato",
+  "contactSubtitle":"algo sensacional",
+  "contactBeforeSubtitle":"vamos criar",
+  "contactAfterSubtitle":"juntos",
+
+  "home": "Início",
+
+  "turnOn": "Acender",
+  "turnOff": "Apagar",
+
+  "articles": "artigos",
+  "category": "Categoria",
+  "allArticles": "Todos os Artigos",
+  "toRead": "de leitura",
+  "projects": "projetos",
+  "allProjects": "Todos os Projetos",
+
+  "client": "Cliente",
+  "role": "Participação",
+  "technologies": "Tecnologias",
+
+  "next": "Próximo",
+  "prev": "Anterior",
+  "of": "de",
+
+  "copyright": "Todos os direitos reservados. - © Diogo Rodrigues",
+  "siteInfo": "Site desenvolvido com <a href='https://www.gatsbyjs.org/'>Gatsby</a> ❤.",
+  "location": "São Paulo / Brasil"
+}
