@@ -13,7 +13,7 @@ description: ""
 
 ## About me
 
-<p class="text-hilight"><strong>Hi, I'm Diogo Rodrigues</strong>, a front-end developer with UI/UX design skills based in São Paulo, Brazil.</p>
+<p class="text-hilight"><strong>Hi, I'm Diogo Rodrigues</strong>, a <span class='text-line'>web designer</span> front-end developer with UI/UX design skills (<a href='/blog/which-type-of-frontend-devoloper-am-i'><strong>front-end designer</strong></a>) based in São Paulo, Brazil.</p>
 
 Since 2009 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
