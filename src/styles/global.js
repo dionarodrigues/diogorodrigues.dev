@@ -193,6 +193,10 @@ const GlobalStyles = createGlobalStyle`
     padding: var(--space-xlg) var(--space-lg);
   }
 
+  .text-line {
+    text-decoration: line-through;
+  }
+
   /* .has-text-underline {
     display: inline-block;
     border-bottom: 1px solid var(--primary-color);
