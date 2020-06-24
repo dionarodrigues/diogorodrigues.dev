@@ -172,6 +172,10 @@ const GlobalStyles = createGlobalStyle`
     --gradient-end: rgba(#ffffff, 0);
   }
 
+  html {
+    scroll-behavior: smooth;
+  }
+
   .container {
     width: 90%;
     max-width: var(--width-container);
