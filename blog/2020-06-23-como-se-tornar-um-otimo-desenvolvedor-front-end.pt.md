@@ -7,7 +7,7 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/how-to-become-a-great-front-end-developer.jpg'
 ---
 
-De habilidades técnicas à capacidade de planejar seus projetos e comunicar suas ideias, os desenvolvedores front-end preenchem a lacuna entre um designer (que fornece mockups e wireframes) e um desenvolvedor back-end (que fornece bancos de dados e servidores).
+**De habilidades técnicas à capacidade de planejar seus projetos e comunicar suas ideias, os desenvolvedores front-end preenchem a lacuna entre um designer (que fornece mockups e wireframes) e um desenvolvedor back-end (que fornece bancos de dados e servidores).**
 
 E mesmo que hajam muitos [front-end job titles](https://frontendmasters.com/books/front-end-handbook/2019/#3.2), eles basicamente trabalham com o visual das interfaces, ajudando a produzir incríveis experiências interativas na web e em aplicativos móveis e desktop através de HTML, CSS e JavaScript (e várias outras ferramentas).
 

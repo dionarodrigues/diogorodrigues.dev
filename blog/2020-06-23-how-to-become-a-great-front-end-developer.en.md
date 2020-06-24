@@ -7,7 +7,7 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/how-to-become-a-great-front-end-developer.jpg'
 ---
 
-From technical skills to the ability to plan their projects and communicate their ideas, front-end developers bridge the gap between a designer (who provides mockups and wireframes) and a back-end developer (who provides databases and servers).
+**From technical skills to the ability to plan their projects and communicate their ideas, front-end developers bridge the gap between a designer (who provides mockups and wireframes) and a back-end developer (who provides databases and servers).**
 
 And even though there are a lot of [front-end job titles](https://frontendmasters.com/books/front-end-handbook/2019/#3.2), they basically work on the visual of interfaces helping to produce awesome interactive experiences on the web, mobile and desktop applications through HTML, CSS and JavaScript (and a bunch of other tools).
 
