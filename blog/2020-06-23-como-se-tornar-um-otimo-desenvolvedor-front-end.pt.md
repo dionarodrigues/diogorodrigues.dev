@@ -1,5 +1,5 @@
 ---
-title: 'Como ser um ótimo desenvolvedor front-end'
+title: 'Como se tornar um ótimo desenvolvedor front-end'
 date: '2020-06-23 10:00:00'
 description: 'Se você pensa em ser um(a) desenvolvedor(a) front-end ou mesmo se já possui muitos anos de experiência na área de desenvolvimento front-end, as seguintes perguntas podem vir a tona em sua mente de vez em quando: "Como se tornar um ótimo desenvolvedor front-end?" ou "O que preciso aprender para me especializar no desenvolvimento front-end?" Neste artigo mostrarei a você algumas dicas para se obter essas respostas. Vamos lá?'
 category: Career
