@@ -13,18 +13,18 @@ Always remember: you need to practice a lot, instead of just reading the theory.
 
 **This article is divided into 3 sections:**
 
-- [What´s a front-end developer?](#frontend-developer)
-- [**PHASE 01** - Beginner Level](#beginner-level)
-- [**PHASE 02** - Intermediate Level](#intermidiate-level)
-- [**PHASE 03** - Advanced Level](#advanced-level)
+- [What´s a front-end developer?](#what-is-a-front-end-developer)
+- [**PHASE 01** - Beginner Level](#phase-01---beginner-level-of-front-end-development)
+- [**PHASE 02** - Intermediate Level](#phase-02---intermediate-level-of-front-end-development)
+- [**PHASE 03** - Advanced Level](#phase-03---advanced-level-of-front-end-development)
 
-<h2 id="frontend-developer" class="subtitle">What´s a front-end developer?</h2>
+## What is a front-end developer?
 
 **From technical skills to the ability to plan their projects and communicate their ideas, front-end developers bridge the gap between a designer (who provides mockups and wireframes) and a back-end developer (who provides databases and servers).**
 
 And even though there are a lot of [front-end job titles](https://frontendmasters.com/books/front-end-handbook/2019/#3.2), they basically work on the visual of interfaces helping to produce awesome interactive experiences on the web, mobile and desktop applications through HTML, CSS and JavaScript (and a bunch of other tools).
 
-<h2 id="beginner-level" class="subtitle">PHASE 01 - Beginner Level of Front-end development</h2>
+## PHASE 01 - Beginner Level of Front-end development
 
 By learning all the fundamental and basic concepts, you´ll be able to call yourself a front-end developer. At the end of this section, use this [App Ideas Collection repository](https://github.com/florinpop17/app-ideas#tier-1-beginner-projects) to create small projects focused on beginners in order to practice your new skills. Feel free to find other projects that you can also use as references and practice a lot.
 
@@ -90,7 +90,7 @@ Some of important design principles I think every front-end developer needs to k
 - **[Emotional Design by Donald Norman](https://www.interaction-design.org/literature/topics/emotional-design)**: It's about understanding why people love (or hate) our products and services. One of my best readings.
 - And there are many [more design principles](https://principles.design/) that you can learn over time.
 
-<h2 id="intermidiate-level" class="subtitle">PHASE 02 - Intermediate Level of Front-end development</h2>
+## PHASE 02 - Intermediate Level of Front-end development
 
 Once the foundation of front-end development is solid in your mind, it's time to level up your skills and get ready to cover more opportunities in your career.
 
@@ -112,7 +112,7 @@ Building larger projects and working with different teams require you have more 
 
 - **Build tools**: this phase is a little more complex because you will need to go deeper into JavaScript. Learn about [Webpack](https://webpack.js.org/), understand what is [Babel](https://babeljs.io/) and why you should use them. And lastly learn how to lint your code using [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/). For me it's going to be the last step before moving to advanced learning.
 
-<h2 id="advanced-level" class="subtitle">PHASE 03 - Advanced Level of Front-end development</h2>
+## PHASE 03 - Advanced Level of Front-end development
 
 Now it's time to become a great front-end developer and have lots of opportunities around the world. Here, you will be able to cover all trends in terms of front-end development - such as React Framework, Typescript, GraphQL, APIs with NodeJS, Mobile and Desktop applications ...
 

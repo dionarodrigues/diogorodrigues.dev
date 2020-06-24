@@ -118,6 +118,15 @@ module.exports = {
           },
           `gatsby-remark-lazy-load`,
           `gatsby-remark-prismjs`, // It needs to be the last one
+          {
+            resolve: `gatsby-remark-autolink-headers`,
+            options: {
+              offsetY: `100`,
+              maintainCase: false,
+              removeAccents: true,
+              elements: [`h2`],
+            },
+          },
         ],
       },
     },

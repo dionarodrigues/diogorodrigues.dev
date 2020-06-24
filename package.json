@@ -28,6 +28,7 @@
     "gatsby-plugin-sitemap": "^2.2.16",
     "gatsby-plugin-styled-components": "^3.1.8",
     "gatsby-plugin-transition-link": "^1.18.0",
+    "gatsby-remark-autolink-headers": "^2.3.7",
     "gatsby-remark-classes": "^1.0.0",
     "gatsby-remark-custom-blocks": "^2.3.0",
     "gatsby-remark-embedder": "^2.1.1",

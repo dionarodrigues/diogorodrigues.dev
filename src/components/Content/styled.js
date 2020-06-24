@@ -514,4 +514,19 @@ export const Content = styled.section`
       border: none;
     }
   }
+
+  .anchor {
+    padding: 0 10px;
+    background-image: none;
+    margin-left: -15px !important;
+
+    svg {
+      fill: var(--border-color-light);
+      visibility: visible;
+    }
+
+    &:hover svg {
+      fill: var(--primary-color);
+    }
+  }
 `;
