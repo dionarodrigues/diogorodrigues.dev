@@ -1,27 +1,31 @@
 ---
 title: 'Como se tornar um ótimo desenvolvedor front-end'
 date: '2020-06-23 10:00:00'
-description: 'Se você pensa em ser um(a) desenvolvedor(a) front-end ou mesmo se já possui muitos anos de experiência na área de desenvolvimento front-end, as seguintes perguntas podem vir a tona em sua mente de vez em quando: "Como se tornar um ótimo desenvolvedor front-end?" ou "O que preciso aprender para me especializar no desenvolvimento front-end?" Neste artigo mostrarei a você algumas dicas para se obter essas respostas. Vamos lá?'
+description: 'Se você pensa em ser um(a) desenvolvedor(a) front-end ou mesmo se já possui muitos anos de experiência na área de desenvolvimento front-end, as seguintes perguntas podem vir a tona em sua mente de vez em quando: "Como se tornar um ótimo desenvolvedor front-end?" ou "O que preciso aprender para me especializar no desenvolvimento front-end?" Nesse artigo mostrarei a você algumas dicas para se obter essas respostas.'
 category: Career
 background: '#353b48'
 featuredImage: '/assets/img/blog/how-to-become-a-great-front-end-developer.jpg'
 ---
 
+Aqui compartilharei com você alguns pontos-chave para melhorar suas habilidades técnicas com base na minha experiência como desenvolvedor front-end e em algumas ótimas referências que encontrei sobre esse assunto. Aliás, você já deve ter visto esse [front-end RoadMap](https://roadmap.sh/frontend) criado por [Kamranahmedse](https://twitter.com/kamranahmedse). É uma das minhas referências favoritas.
+
+Lembre-se sempre: você precisa praticar muito, em vez de apenas consumir a teoria. E aqui estão apenas algumas dicas que você pode usar para encontrar seu próprio caminho, quero dizer, não há apenas uma única e exclusiva maneira de alcançar uma carreira de sucesso como desenvolvedor. Vamos lá?
+
+**Este artigo está dividido em 4 seções:**
+
+- [O que é um desenvolvedor front-end?](#desenvolvedor-front-end)
+- [**FASE 01** - Nível Iniciante](#nivel-iniciante)
+- [**FASE 02** - Nível Intermediário](#nivel-intermediario)
+- [**FASE 03** - Nível Avançado](#nivel-avancado)
+
+<h2 id="desenvolvedor-front-end" class="subtitle">O que é um desenvolvedor front-end?</h2>
+
 **De habilidades técnicas à capacidade de planejar seus projetos e comunicar suas ideias, os desenvolvedores front-end preenchem a lacuna entre um designer (que fornece mockups e wireframes) e um desenvolvedor back-end (que fornece bancos de dados e servidores).**
 
 E mesmo que hajam muitos [front-end job titles](https://frontendmasters.com/books/front-end-handbook/2019/#3.2), eles basicamente trabalham com o visual das interfaces, ajudando a produzir incríveis experiências interativas na web e em aplicativos móveis e desktop através de HTML, CSS e JavaScript (e várias outras ferramentas).
 
-Então, mostrarei alguns pontos-chave para melhorar suas habilidades técnicas com base na minha experiência como desenvolvedor front-end e em algumas ótimas referências que encontrei sobre esse assunto. Aliás, você já deve ter visto esse [front-end RoadMap](https://roadmap.sh/frontend) criado por [Kamranahmedse](https://twitter.com/kamranahmedse). É uma das minhas referências favoritas.
 
-Lembre-se sempre: você precisa praticar muito, em vez de apenas consumir a teoria. E aqui estão apenas algumas dicas que você pode usar para encontrar seu próprio caminho, quero dizer, não há apenas uma única e exclusiva maneira de alcançar uma carreira de sucesso como desenvolvedor.
-
-**Este artigo está dividido em 3 seções:**
-
-- **FASE 01** - Nível Iniciante
-- **FASE 02** - Nível Intermediário
-- **FASE 03** - Nível Avançado
-
-## FASE 01 - Nível iniciante do desenvolvimento Front-end
+<h2 id="nivel-iniciante" class="subtitle">FASE 01 - Nível iniciante do desenvolvimento Front-end</h2>
 
 Ao aprender todos os conceitos fundamentais e básicos, você já poderá se auto-intitular desenvolvedor front-end. No final desta seção, use este [repositório App Ideas Collection](https://github.com/florinpop17/app-ideas#tier-1-beginner-projects) para criar pequenos projetos voltados para iniciantes e pratique bastante suas novas habilidades. Sinta-se livre para encontrar outros projetos que você também possa usar como referências.
 
@@ -90,7 +94,7 @@ Alguns dos princípios importantes de design que eu penso que todo desenvolvedor
 - **[Design Emocional por Donald Norman](https://www.interaction-design.org/literature/topics/emotional-design)**: trata-se de entender porque as pessoas amam (ou odeiam) nossos produtos e serviços. Uma das minhas melhores leituras.
 - E há muito [mais princípios de design](https://principles.design/) que você pode aprender com o tempo.
 
-## FASE 02 - Nível intermediário do desenvolvimento Front-end
+<h2 id="nivel-intermediario" class="subtitle">FASE 02 - Nível intermediário do desenvolvimento Front-end</h2>
 
 Depois que a base do desenvolvimento front-end estiver sólida em sua mente, é hora de aprimorar suas habilidades e se preparar para abranger mais oportunidades em sua carreira profissional.
 
@@ -112,7 +116,7 @@ Desenvolver projetos maiores e trabalhar com equipes diferentes exigem que você
 
 - **Ferramentas de Build**: essa fase é um pouco mais complexa, pois você precisará se aprofundar no JavaScript. Aprenda sobre o [Webpack](https://webpack.js.org/), entenda o que é [Babel](https://babeljs.io/) e por que você deve usá-los. E, por último, aprenda a fazer lint do código usando [ESLint](https://eslint.org/) e [Prettier](https://prettier.io/). Para mim, esse será o último passo antes de passar para o aprendizado avançado.
 
-## FASE 03 - Nível avançado do desenvolvimento front-end
+<h2 id="nivel-avancado" class="subtitle">FASE 03 - Nível avançado do desenvolvimento front-end</h2>
 
 Agora é hora de se tornar um ótimo desenvolvedor front-end e obter muitas oportunidades em todo o mundo. Aqui, você poderá ficar a par de todas as tendências em termos de desenvolvimento front-end - como React Framework, Typescript, GraphQL, APIs com NodeJS, aplicações Mobile e Desktop...
 
