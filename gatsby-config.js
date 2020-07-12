@@ -3,7 +3,7 @@ module.exports = {
     title: `Diogo Rodrigues`,
     description: `A front-end developer specialized with UX/UI skills. HTML, CSS, JS, ReactJS, Responsive Web Design, Emotional Design and more.`,
     author: `@diogorodrigues`,
-    siteUrl: `https://www.diogorodrigues.dev/`,
+    siteUrl: `https://diogorodrigues.dev`,
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
@@ -67,6 +67,13 @@ module.exports = {
       options: {
         path: `${__dirname}/portfolio`,
         name: `portfolio`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/config/language-mapping`,
+        name: `language-mapping`,
       },
     },
     {

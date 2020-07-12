@@ -1,0 +1,62 @@
+{
+  "languageMapping": [
+    {
+      "en": "/about",
+      "pt": "/sobre"
+    },
+    {
+      "en": "/blog",
+      "pt": "/blog"
+    },
+    {
+      "en": "/portfolio",
+      "pt": "/portfolio"
+    },
+    {
+      "en": "/contact",
+      "pt": "/contato"
+    },
+
+    {
+      "en": "/blog/hello-world",
+      "pt": "/blog/hello-world"
+    },
+    {
+      "en": "/blog/which-type-of-frontend-devoloper-am-i",
+      "pt": "/blog/que-tipo-de-desenvolvedor-frontend-eu-sou"
+    },
+    {
+      "en": "/blog/why-i-decided-to-develop-my-blog-with-gatsbyjs",
+      "pt": "/blog/porque-eu-decidi-desenvolver-meu-blog-com-gatsbyjs"
+    },
+    {
+      "en": "/blog/6-powerful-css-techniques-you-can-use-instead-javascript",
+      "pt": "/blog/6-poderosas-tecnicas-de-css-ao-inves-de-javascript"
+    },
+    {
+      "en": "/blog/how-to-become-a-great-front-end-developer",
+      "pt": "/blog/como-se-tornar-um-otimo-desenvolvedor-front-end"
+    },
+
+    {
+      "en": "/portfolio/code-in-the-dark",
+      "pt": "/portfolio/code-in-the-dark"
+    },
+    {
+      "en": "/portfolio/callsource",
+      "pt": "/portfolio/callsource"
+    },
+    {
+      "en": "/portfolio/hcss",
+      "pt": "/portfolio/hcss"
+    },
+    {
+      "en": "/portfolio/galilee",
+      "pt": "/portfolio/galilee"
+    },
+    {
+      "en": "/portfolio/nike",
+      "pt": "/portfolio/nike"
+    }
+  ]
+}

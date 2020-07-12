@@ -11,6 +11,7 @@ import HeaderOfPage from '../components/HeaderOfPage';
 import FooterOfPage from '../components/FooterOfPage';
 import Menu from '../components/Menu';
 import MenuHighlighted from '../components/MenuHighlighted';
+import LanguagesMenu from '../components/LanguagesMenu';
 
 import * as S from './styled';
 
@@ -50,22 +51,23 @@ const BaseLayout = ({ children, pageContext: { locale } }) => {
       <HeaderOfPage
         locale={locale}
         renderLanguagesMenu={() => (
-          <Menu
-            isNeverVertical
-            color="var(--text-color-light)"
-            listItems={[
-              {
-                label: 'en',
-                url: '/',
-                isActive: locale === 'en',
-              },
-              {
-                label: 'pt',
-                url: '/pt/',
-                isActive: locale === 'pt',
-              },
-            ]}
-          />
+          <LanguagesMenu />
+          // <Menu
+          //   isNeverVertical
+          //   color="var(--text-color-light)"
+          //   listItems={[
+          //     {
+          //       label: 'en',
+          //       url: '/',
+          //       isActive: locale === 'en',
+          //     },
+          //     {
+          //       label: 'pt',
+          //       url: '/pt/',
+          //       isActive: locale === 'pt',
+          //     },
+          //   ]}
+          // />
         )}
         renderMainMenu={() => <Menu listItems={mainMenuListItems} />}
         renderMainMenuMobile={() => (
