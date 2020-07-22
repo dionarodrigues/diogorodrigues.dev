@@ -66,7 +66,6 @@ Let's take a look at the following HTML structure:
   <div class="main-content">Main Content</div>
   <footer class="footer">Footer</footer>
 </main>
-```ain>
 ```
 
 The menu will only be able to stick on the area that its parent covers (main). So `position: sticky` has two main parts:

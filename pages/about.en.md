@@ -19,7 +19,7 @@ Since 2009 I've been living and breathing web development and creating modern an
 
 > "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 
-I'm always trying to grow and learn something new. I lose track of time when I'm playing the violin, studying languages, reading a good book or simply remembering my good time living in Canada.
+I'm always trying to grow and learn something new. I lose track of time when I'm playing the violin, studying languages or simply reading a good book.
 
 ## Experience
 

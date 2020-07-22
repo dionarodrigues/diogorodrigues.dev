@@ -19,7 +19,7 @@ O desenvolvimento web me fascina desde 2009, quando eu iniciei minha carreira co
 
 > "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 
-Estou sempre tentando evoluir e aprender algo novo. Por isso, às vezes me perco no tempo quando estou tocando violino, aprendendo um novo idioma, lendo um bom livro ou simplesmente relembrando a ótima experiência que eu tive morando no Canadá por alguns meses. ✨😍
+Estou sempre tentando evoluir e aprender algo novo. Por isso, às vezes me perco no tempo quando estou tocando violino, aprendendo um novo idioma ou simplesmente lendo um bom livro ✨😍
 
 ## Experiência
 
