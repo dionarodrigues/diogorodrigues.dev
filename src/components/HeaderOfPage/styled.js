@@ -33,7 +33,10 @@ export const Navbar = styled.div`
 `;
 
 export const LanguagesMenu = styled.div`
-  margin-right: var(--space-xlg);
+  margin-right: var(--space);
+  ${media.greaterThan('small')`
+    margin-right: var(--space-xlg);
+  `}
 `;
 
 export const MainMenu = styled.nav`
@@ -57,7 +60,10 @@ export const ButtonMenu = styled.div`
 `;
 
 export const ButtonToggleTheme = styled.div`
-  margin-right: var(--space-xlg);
+  margin-right: var(--space);
+  ${media.greaterThan('small')`
+    margin-right: var(--space-xlg);
+  `}
 `;
 
 export const NavDrawer = styled.div`

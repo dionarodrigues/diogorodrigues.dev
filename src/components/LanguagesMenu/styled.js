@@ -4,15 +4,6 @@ import { Link } from 'gatsby';
 
 export const LanguageWrapper = styled.ul`
   display: flex;
-  position: absolute;
-  top: var(--space-sm);
-  right: var(--space-sm);
-  ${media.greaterThan('medium')`
-    margin-left: 0;
-    position: relative;
-    top: 0;
-    right: 0;
-  `}
 `;
 
 export const LanguageItem = styled.li`
