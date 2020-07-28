@@ -2,7 +2,7 @@
 
 [diogorodrigues.dev](https://www.diogorodrigues.dev/)
 
-<!-- <img src="./static/assets/img/cover.png" style="width:100%"> -->
+<img src="./static/assets/img/cover.png" style="width:100%">
 Made with [GatsbyJS](https://www.gatsbyjs.org/) and hosted on [Netlify](https://www.netlify.com/). 💜
 
 
