@@ -4,8 +4,6 @@ import SEO from '../components/seo';
 import useTranslations from '../components/useTranslations';
 
 import HeroBanner from '../components/HeroBanner';
-// import backgroundImage from '../../static/assets/img/diogo-rodrigues-hero.png';
-import ArrowStroke from '../components/ArrowStroke';
 import ButtonHighlight from '../components/ButtonHighlight';
 import LinksList from '../components/LinksList';
 import BrandsList from '../components/BrandsList';
@@ -61,13 +59,6 @@ const Index = ({ data: { blog, portfolio } }) => {
           locale={locale}
           // background={`url(${backgroundImage})`}
         />
-        <S.ScrollButton>
-          <ArrowStroke
-            direction="bottom"
-            size={40}
-            color="var(--border-color)"
-          />
-        </S.ScrollButton>
       </S.Banner>
       <S.PortfolioSection>
         <div className="container">

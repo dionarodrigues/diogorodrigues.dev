@@ -1,9 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 import media from 'styled-media-query';
 
-import '../../node_modules/slick-carousel/slick/slick.css';
-import '../../node_modules/slick-carousel/slick/slick-theme.css';
-
 const GlobalStyles = createGlobalStyle`
   /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126

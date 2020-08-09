@@ -38,10 +38,10 @@ More benefits when using Gatsby:
 
 I created a [Gatsby Starter called Iceberg](https://www.gatsbyjs.org/starters/diogorodrigues/iceberg-gatsby-multilang/) based on the features of this my site. Feel free to kick off your project with this starter. 👌
 
-![Iceberg Gatsby Starter](https://www.gatsbyjs.org/static/c3a837732020f5ff7a02dc3f01f8b72d/73c85/7610e311782e449224868d751562ec46.png)
+![Iceberg Gatsby Starter](https://www.gatsbyjs.org/static/68a43983f96fb3873c884a5e96e5f138/4ff95/97c55cf17e773c8cdb861e076f1bf9cb.png)
 
 
-## CSS-in-JS com styled components
+## CSS-in-JS with styled components
 
 Another great benefit to using Gatsby in comparison with other tools that are not based on React, is the awesome power of CSS-in-JS by using [Styled Components](https://www.styled-components.com/).
 

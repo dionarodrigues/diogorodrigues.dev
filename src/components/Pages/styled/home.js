@@ -4,15 +4,7 @@ import { bounce } from 'react-animations';
 
 const bounceAnimation = keyframes`${bounce}`;
 
-export const Banner = styled.section`
-  /* position: relative;
-  min-height: 100vh;
-  margin-top: -105px;
-
-  & > div:first-child {
-    min-height: 100vh;
-  } */
-`;
+export const Banner = styled.section``;
 
 export const Title = styled.div`
   opacity: 0.2;
@@ -84,14 +76,3 @@ export const ButtonMore = styled.div`
 `;
 
 export const ArticlesSection = styled.div``;
-
-export const ScrollButton = styled.div`
-  display: inline-flex;
-  justify-content: center;
-  margin-top: calc(var(--space-xlg) * 2);
-  animation: 1.5s ${bounceAnimation} infinite;
-  animation-delay: 2s;
-  position: absolute;
-  bottom: 0;
-  right: var(--space-lg);
-`;
