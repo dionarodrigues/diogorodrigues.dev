@@ -107,11 +107,12 @@ And because of these changes in the way we think about styling and create CSS, s
 
 The point is: **I think the question is not about getting rid of Vanilla CSS, but adding JavaScript to enhance our styles. The traditional CSS way is totally good for small sites and applications, but large projects require a better CSS architecture. And that's why CSS-in-JS is the most popular solution today.**
 
+It's important to note that CSS-in-JS also has disadvantages as you can see [in this article](https://www.freecodecamp.org/news/the-tradeoffs-of-css-in-js-bee5cf926fdb/). The benefits provided by this new way of writing CSS can also be achieved using a set of other tools, such as: preprocessors, CSS Modules... So it's always important to evaluate the project and technologies in order to find the best solution. And keep in mind that the problem can often be the lack of understanding of the purpose of a tool and its misuse. And that in some cases, CSS Vanilla may be the best alternative. ✌
 
 ## Conclusion
 
 I showed a perspective on the current state of CSS, its default problems and some solutions that have been created over time. It's not my intention to convince you that CSS-in-JS is the best solution ever and that you should use it on all projects. But, in my perspective, if you're working with some component-based JS structures (like React, for example), I think this new way of writing CSS might be a good idea to deal with old and complex style problems.
 
-**I love CSS and for me writing CSS is an art. I fully agree that tradicional CSS will still be used depending on the project**.
+**I love CSS and, for me, writing CSS is an art. I fully agree that traditional CSS will still be used extensively depending on the project, after all, many sensational CSS features have emerged (as you can see [in this article](https://www.diogorodrigues.dev/blog/6-powerful-css-techniques-you-can-use-instead-javascript)). But the maintenance of CSS today, which is a critical point and needs to be improved.**.
 
 What about you? What do you think is happening with CSS? Have you ever tried CSS-in-JS?
