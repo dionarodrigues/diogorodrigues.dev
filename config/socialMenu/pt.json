@@ -2,8 +2,8 @@
   "items": [
     { "label": "linkedin", "url": "https://www.linkedin.com/in/diogorodrigues02/" },
     { "label": "github", "url": "https://github.com/diogorodrigues" },
+    { "label": "twitter", "url": "https://twitter.com/_diogorodrigues" },
     { "label": "codepen", "url": "https://codepen.io/diogorodrigues" },
-    { "label": "behance", "url": "https://www.behance.net/user/?username=_diogorodrigues" },
-    { "label": "twitter", "url": "https://twitter.com/_diogorodrigues" }
+    { "label": "dev.to", "url": "https://dev.to/diogorodrigues" }
   ]
 }
