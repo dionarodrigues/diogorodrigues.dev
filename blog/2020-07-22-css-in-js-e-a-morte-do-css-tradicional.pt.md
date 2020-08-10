@@ -108,16 +108,20 @@ Entre todas essas bibliotecas, uma que ganhou muita popularidade é a [Styled Co
 
 Como você pode ver, a arquitetura CSS tradicional não foi projetada para ser usada em projetos grandes. E em um mundo de frameworks como React, Vue, Angular e similares, que vêm sendo amplamente utilizados, precisamos de soluções melhores para resolver alguns problemas dolorosos de CSS.
 
-Os pré-processadores CSS adicionaram muito poder às folhas de estilos e coisas como CSS modularizado, nesting (aniahamento) e variáveis me ajudaram em muitos projetos diferentes - inclusive, eu criei esse [boilerplate usando Gulp e Stylus](https://github.com/diogorodrigues/iceberg-boilerplate) no passado para desenvolver minhas aplicações web. Mas agora o mundo do desenvolvimento front-end é diferente e as soluções baseadas no React (como GatsbyJS, NextJS e React Native) fazem parte da minha rotina diária atual de desenvolvimento e eu preciso de algo mais poderoso.
+Os pré-processadores CSS adicionaram muito poder às folhas de estilos e coisas como CSS modularizado, nesting (aninhamento) e variáveis me ajudaram em muitos projetos diferentes - inclusive, eu criei esse [boilerplate usando Gulp e Stylus](https://github.com/diogorodrigues/iceberg-boilerplate) no passado para desenvolver minhas aplicações web. Mas agora o mundo do desenvolvimento front-end é diferente e as soluções baseadas no React (como GatsbyJS, NextJS e React Native) fazem parte da minha rotina diária atual de desenvolvimento e eu preciso de algo mais poderoso.
 
 E com essas mudanças na maneira como pensamos as estilizações e criamos o CSS, várias discussões vêm surgindo sobre a morte do CSS tradicional como você pode ver nesse [post do Samson Zhang](https://www.samsonzhang.com/2020/05/13/the-artistry-of-css-and-its-death-a-reflection-about-css-and-js-frameworks-and-the-evolution-of-css.html) e nesse outro [post do Chris Coyer](https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/) também.
 
 **O ponto é: eu acho que a questão não é sobre nos livrarmos do CSS Vanilla, mas adicionarmos JavaScript para aprimorar nossos estilos. A maneira tradicional de criar CSS é perfeita para sites e aplicativos pequenos, mas projetos grandes exigem uma arquitetura CSS melhor. E é por isso que CSS-in-JS é a solução mais popular atualmente.**
 
+É importante destacar que CSS-in-JS também possuem desvantagens como você pode ver [neste artigo](https://www.freecodecamp.org/news/the-tradeoffs-of-css-in-js-bee5cf926fdb/). Os benefícios proporcionados por essa nova maneira de se escrever CSS também podem ser alcançados utilizando um conjunto de outras ferramentas, tais como: pré-processadores, CSS Modules... Por isso, é sempre importante avaliar o projeto e as tecnologias a fim de encontrar a melhor solução. E mantenha em mente que em muitas vezes o problema pode estar na falta de entendimento do propósito de uma ferramenta e na sua má utilização. E que em alguns casos, o CSS Vanilla poderá ser a melhor alternativa. ✌
+
 ## Conclusão
 
 Mostrei uma perspectiva sobre o estado atual do CSS, seus problemas nativos e algumas soluções que foram criadas ao longo do tempo. Não é minha intenção convencê-lo de que o CSS-in-JS é a melhor solução de todos os tempos e que você deve usá-lo em todos os seus projetos. Mas, na minha perspectiva, se você estiver trabalhando com alguns frameworks JS baseados em componentes (como React, por exemplo), acho que essa nova maneira de escrever CSS pode ser uma boa ideia para lidar com problemas de estilo antigos e complexos.
 
-**Eu sou apaixonado por CSS e, para mim, escrever CSS é uma arte. Concordo plenamente que o CSS tradicional ainda será usado dependendo do projeto**.
+O grande ponto positivo que eu vejo nessas novas ideias, como o CSS-in-JS, é a questão de se ter tudo em um mesmo lugar, sem muita complexidade de configuração, o que com certeza influenciará no desenvolvimento de novas features do CSS, assim como ocorreu (e vem ocorrendo) com o pré-processadores CSS.
+
+**Eu sou apaixonado por CSS e, para mim, escrever CSS é uma arte. Concordo plenamente que o CSS tradicional ainda será extensivamente usado dependendo do projeto, afinal vêm surgindo muitas features CSS sensacionais (como você pode ver [nesse artigo](https://www.diogorodrigues.dev/pt/blog/6-poderosas-tecnicas-de-css-ao-inves-de-javascript)). Mas a manutenção do CSS hoje que é um ponto crítico e que precisa ser melhorado.**.
 
 E você? O que você acha que está acontecendo com o CSS? Você já experimentou CSS-in-JS?
