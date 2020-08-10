@@ -120,7 +120,7 @@ E com essas mudanças na maneira como pensamos as estilizações e criamos o CSS
 
 Mostrei uma perspectiva sobre o estado atual do CSS, seus problemas nativos e algumas soluções que foram criadas ao longo do tempo. Não é minha intenção convencê-lo de que o CSS-in-JS é a melhor solução de todos os tempos e que você deve usá-lo em todos os seus projetos. Mas, na minha perspectiva, se você estiver trabalhando com alguns frameworks JS baseados em componentes (como React, por exemplo), acho que essa nova maneira de escrever CSS pode ser uma boa ideia para lidar com problemas de estilo antigos e complexos.
 
-O grande ponto positivo que eu vejo nessas novas ideias, como o CSS-in-JS, é a questão de se ter tudo em um mesmo lugar, sem muita complexidade de configuração, o que com certeza influenciará no desenvolvimento de novas features do CSS, assim como ocorreu (e vem ocorrendo) com o pré-processadores CSS.
+O grande ponto positivo que eu vejo nessas novas ideias, como o CSS-in-JS, é a questão de se ter tudo em um mesmo lugar, sem muita complexidade de configuração, o que com certeza influenciará no desenvolvimento de novas features do CSS, assim como ocorreu (e vem ocorrendo) com os pré-processadores CSS.
 
 **Eu sou apaixonado por CSS e, para mim, escrever CSS é uma arte. Concordo plenamente que o CSS tradicional ainda será extensivamente usado dependendo do projeto, afinal vêm surgindo muitas features CSS sensacionais (como você pode ver [nesse artigo](https://www.diogorodrigues.dev/pt/blog/6-poderosas-tecnicas-de-css-ao-inves-de-javascript)). Mas a manutenção do CSS hoje que é um ponto crítico e que precisa ser melhorado.**.
 
