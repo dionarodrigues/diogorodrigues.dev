@@ -8,7 +8,10 @@ export const Container = styled.div`
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 5px;
   ${media.greaterThan('medium')`
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+  `}
+  ${media.greaterThan('large')`
+    grid-template-columns: repeat(5, 1fr);
   `}
 
   & > div {

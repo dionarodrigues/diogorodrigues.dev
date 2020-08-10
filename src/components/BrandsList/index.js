@@ -6,7 +6,7 @@ import PropTypes from 'prop-types';
 import * as S from './styled';
 
 const BrandsList = ({ title }) => {
-  const { logoNike, logoHp, logoHcss, logoCallsource } = useStaticQuery(
+  const { logoNike, logoHp, logoHcss, logoCallsource, logoResoptima } = useStaticQuery(
     graphql`
       {
         logoNike: file(relativePath: { eq: "brands/nike.png" }) {
@@ -40,6 +40,14 @@ const BrandsList = ({ title }) => {
             }
           }
         }
+
+        logoResoptima: file(relativePath: { eq: "brands/resoptima.png" }) {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     `
   );
@@ -49,6 +57,7 @@ const BrandsList = ({ title }) => {
     logoHp.childImageSharp.fluid,
     logoHcss.childImageSharp.fluid,
     logoCallsource.childImageSharp.fluid,
+    logoResoptima.childImageSharp.fluid,
   ];
 
   return (
