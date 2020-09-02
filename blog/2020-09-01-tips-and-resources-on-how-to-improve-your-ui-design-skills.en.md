@@ -9,14 +9,14 @@ featuredImage: '/assets/img/blog/tips-and-resources-on-how-to-improve-your-ui-de
 
 **Have you ever had the feeling of looking at an interface and not knowing what is wrong with it?**
 
-**Maybe you're a developer trying to make a better interface through code, or you're a designer doing a lot of testing with different colors, but you still haven't found what's wrong with the UI. Stay calm, this is totally normal and I will try to help you.** 🐱‍🏍😃✨
+**Maybe you're a developer trying to make a better interface through code, or you're a designer doing a lot of testing with different colors, but you still haven't found what's wrong with the UI. Stay calm, this is totally normal and I will try to help you.** 🐱‍🏍🐱‍👤
 
-Before, it’s important that you notice that there is no secret or magic, it’s all about getting inspiration, practice, consistency and patience. In this article, I'm going to show you some things I used to do as a designer (and I keep doing it until now) to improve my UI design skills. I hope you find them useful.
+Before, it’s important that you notice that there is no secret or magic, it’s all about getting inspiration, practice, consistency and patience. In this article, I'm going to show you some things I used to do as a designer (and I keep doing it until now) to improve my UI design skills. I hope you find them useful. ✨
 
 
 ## 1- Simple visual changes can make a big difference
 
-**Most of the time the solution is in the small details** as [Steve Schoger](https://www.steveschoger.com/) - a visual designer - showed us in his famous project called [Refactoring UI](https://twitter.com/i/events/994601867987619840?s=13) (a collection of small tips to improve our visual design skills).
+**Most of the time the solution is in the small details** as [Steve Schoger](https://www.steveschoger.com/) - a visual designer - showed us in his famous project called [Refactoring UI](https://twitter.com/i/events/994601867987619840?s=13) (a collection of small tips to improve our User Interface skills).
 
 As Steve proved to us, **basic design principles such as contrast, size and spacing are great allies when used correctly**. That’s because sometimes you just need:
 

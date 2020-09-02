@@ -9,20 +9,20 @@ featuredImage: '/assets/img/blog/tips-and-resources-on-how-to-improve-your-ui-de
 
 **Você já teve a sensação de olhar para uma interface e não saber o que há de errado com ela?**
 
-**Talvez você seja um desenvolvedor tentando criar uma interface melhor por meio de código ou um designer fazendo muitos testes com cores diferentes, mas ainda não descobriu o que há de errado com a UI. Fique calmo, isso é totalmente normal e eu tentarei te ajudar.** 🐱‍🏍😃✨
+**Talvez você seja um desenvolvedor tentando criar uma interface melhor por meio de código ou um designer fazendo muitos testes com cores diferentes, mas ainda não descobriu o que há de errado com a UI. Fique calmo, isso é totalmente normal e eu tentarei te ajudar.** 🐱‍🏍🐱‍👤
 
-Antes, é importante que você entenda que não há segredo ou mágica, é tudo sobre como obter inspiração, prática, consistência e paciência. Nesse artigo, vou mostrar a você algumas coisas que eu costumava fazer como designer (e continuo fazendo até hoje) para melhorar minhas habilidades de UI design. Espero que você goste.
+Antes, é importante que você entenda que não há segredo ou mágica, é tudo sobre como obter inspiração, prática, consistência e paciência. Nesse artigo, vou mostrar a você algumas coisas que eu costumava fazer como designer (e continuo fazendo até hoje) para melhorar minhas habilidades de UI design. Espero que você curta. ✨
 
 
 ## 1- Mudanças visuais simples podem fazer uma grande diferença
 
-**Na maioria das vezes a solução está nos pequenos detalhes** como [Steve Schoger](https://www.steveschoger.com/) - um visual designer - nos mostrou em seu famoso projeto chamado [Refactoring UI](https://twitter.com/i/events/994601867987619840?s=13) (uma coleção de pequenas dicas para melhorar nossas habilidades de design visual).
+**Na maioria das vezes a solução está nos pequenos detalhes** como [Steve Schoger](https://www.steveschoger.com/) - um visual designer - nos mostrou em seu famoso projeto chamado [Refactoring UI](https://twitter.com/i/events/994601867987619840?s=13) (uma coleção de pequenas dicas para melhorar nossas habilidades de User Interface).
 
 Como Steve provou para nós, **princípios básicos de design, como contraste, tamanho e espaçamento são grandes aliados quando usados corretamente**. Isso porque às vezes você só precisa:
 
 ### Menos bordas
 
-Embora as bordas sejam ótimas para distinguir dois elementos um do outro, elas podem fazer sua interface parecer muito poluída. Box-shadows, espaçamento extra entre elementos e backgrounds diferentes podem ajudar a melhorar isso.
+Embora as bordas sejam ótimas para distinguir dois elementos um do outro, elas podem fazer sua interface parecer muito poluída. Box-shadows, espaçamentos extras entre elementos e backgrounds diferentes podem ajudar a melhorar isso.
 
 ![Dois exemplos de lista: um com bordas e outro com sombras](https://pbs.twimg.com/media/DHXLem8WAAIFboe?format=png&name=900x900)
 
