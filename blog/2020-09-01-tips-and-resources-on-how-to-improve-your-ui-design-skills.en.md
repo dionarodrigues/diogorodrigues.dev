@@ -135,15 +135,15 @@ https://www.youtube.com/watch?v=3RRgVHd2TXQ&list=PL5e68lK9hEzcZLltZrc3NDlKWS3Xyg
 
 **Adobe XD**
 
-https://www.youtube.com/watch?v=E2RsTm8U2x4&list=PLkiM1tZke4mivrZRPcqp_8oHFxlD8-IP5&index=1
+https://www.youtube.com/watch?v=3aOU9MbITlM
 
-https://www.youtube.com/watch?v=pMr29NGe8_8&list=PLGzHZ3dvEgVKEDVMQOmQV4hMKeEoXhu5C&index=2
+[See more Adobe XD tutorials here](https://www.youtube.com/watch?v=3aOU9MbITlM&list=PLjwm_8O3suyPkIphVrJaebR2qE8jylWBQ).
 
 **Figma**
 
-https://www.youtube.com/watch?v=Vo0sEPqArRQ&list=PL0JGW422F1MnExrhvu9McjOHtw7CIfaRN&index=1
+https://www.youtube.com/watch?v=svXl8ox6cuc
 
-https://www.youtube.com/watch?v=NrKX46DzkGQ&list=PLSyPZcj_R5oc8ZNwDb176jLfC1rsXkC5s&index=1
+[See more Figma tutorials here](https://www.youtube.com/watch?v=svXl8ox6cuc&list=PLWuIAD8xNgJR-csDsJfGk-wac3113eWMY).
 
 ---
 
