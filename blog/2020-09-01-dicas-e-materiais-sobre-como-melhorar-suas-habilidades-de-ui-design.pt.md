@@ -147,7 +147,7 @@ https://www.youtube.com/watch?v=svXl8ox6cuc
 
 ---
 
-**Não se limite por causa da tecnologia, pesquise muito e encontre a melhor maneira de aplicar tudo o que aprendeu e compartilhe seus projetos com outras pessoas**. Ao compartilhar o seu trabalho, você receberá feedbacks que podem ajudá-lo(a) a continuar melhorando suas habilidades.
+**Não se limite por causa da tecnologia, pesquise muito e encontre a melhor maneira de aplicar tudo o que aprendeu. Compartilhe seus projetos com outras pessoas**; ao compartilhar o seu trabalho, você receberá feedbacks que podem ajudá-lo(a) a continuar melhorando suas habilidades.
 
 
 ## Conclusão

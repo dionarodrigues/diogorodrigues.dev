@@ -105,13 +105,13 @@ Bellow are some tips you can use to improve your UI design skills:
 
 ### Learn by copying great interfaces
 
-**This is not plagiarism, it is just to practice**.
+**This is not about plagiarism, it is just to practice**.
 
-By reading and copying other codes, developers learned and improved their skills a lot. In the same way, designers need to look at other designers interfaces to get more inspiration and learn new techniques and approaches.
+By reading and copying other codes, developers learn and improve their skills a lot. In the same way, designers need to look at other designers interfaces to get more inspiration and learn new techniques and approaches.
 
 Feel free to recreate some interfaces. **It will provide you with a smart way to step out of your comfort zone and expand your visual design skills**. When copying some design interfaces you love, you will pay attention to every detail. And there is the magic: check the small details; Do you remember?
 
-Try to identify why you’re using some colors, buttons styles, white spaces, visual hierarchy, typography… Pay attention when spacing is better than borders, how box-shadows are being used, why some texts have negative letter-spacing or different line-height. **There are so many things you can learn from copying other designs. That's awesome**.
+Try to identify why you’re using some colors, buttons styles, white spaces, visual hierarchy, typography… Pay attention when spacing is better than borders, how box-shadows are being used, why some texts have negative letter-spacing or different line-height. **There are so many things you can learn from copying other designs and it's awesome**.
 
 ### Apply your learnings and share your works
 
@@ -154,6 +154,6 @@ https://www.youtube.com/watch?v=svXl8ox6cuc
 
 **As I mentioned at the beginning of this article, it's all about getting inspiration, practice, consistency and patience. Try to make the search for inspiration a lifestyle. Every day, spend some time analyzing some sites, some effects and discovering some UI design decisions. Keep learning and applying what you have learned. Work hard.**
 
-**I’m sure that in a few months, when you look back and see your progress, you'll be happy to spend your time studying design**. Feel free to find other resources, try to study some [design principles](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design?ep=sarah-doody) and don't forget to share your work. 😃
+**I'm sure that in a few months, when you look back and see your progress, you'll be happy to have spent your time studying design**. Feel free to find other resources, try to study some [design principles](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design?ep=sarah-doody) and don't forget to share your work. 😃
 
 And please tell me if this article was useful for you and leave in the comments some other tips and resources that you usually use. See you later! ✌
