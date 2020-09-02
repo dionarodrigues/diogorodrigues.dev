@@ -9,7 +9,7 @@ featuredImage: '/assets/img/blog/tips-and-resources-on-how-to-improve-your-ui-de
 
 **Você já teve a sensação de olhar para uma interface e não saber o que há de errado com ela?**
 
-**Talvez você seja um desenvolvedor tentando criar uma interface melhor por meio de código ou um designer fazendo muitos testes com cores diferentes, mas ainda não descobriu o que há de errado com a UI. Fique calmo, isso é totalmente normal e eu tentarei te ajudar.** 🐱‍🏍🐱‍👤
+**Talvez você seja um(a) desenvolvedor(a) tentando criar uma interface melhor por meio de código ou um(a) designer fazendo muitos testes com cores diferentes, mas ainda não descobriu o que há de errado com a UI. Fique calmo(a), isso é totalmente normal e eu tentarei te ajudar.** 🐱‍🏍🐱‍👤
 
 Antes, é importante que você entenda que não há segredo ou mágica, é tudo sobre como obter inspiração, prática, consistência e paciência. Nesse artigo, vou mostrar a você algumas coisas que eu costumava fazer como designer (e continuo fazendo até hoje) para melhorar minhas habilidades de UI design. Espero que você curta. ✨
 
@@ -52,7 +52,7 @@ Algumas interfaces de usuário dependem quase 100% da tipografia. Portanto, voc�
 
 ### Você não deveria usar texto cinza em fundos coloridos
 
-As cores em tons cinza são boas quando usadas em um fundo branco, mas não ficam bem em fundos coloridos. Nesse caso, escolha uma cor que tenha o mesmo matiz do background, ajustando sua saturação e brilho - você também pode simplesmente diminuir sua opacidade.
+As cores em tons de cinza são boas quando usadas em um fundo branco, mas não ficam bem em fundos coloridos. Nesse caso, escolha uma cor que tenha o mesmo matiz do background, ajustando sua saturação e brilho - você também pode simplesmente diminuir sua opacidade.
 
 ![Dois exemplos de um bloco de texto em um fundo verde: um exibindo texto cinza e outro exibindo texto verde bem claro](https://pbs.twimg.com/media/DCI_eM4XsAAvv-t?format=jpg&name=900x900)
 
@@ -74,7 +74,7 @@ Acredito que sempre podemos aprender com os outros. Portanto, normalmente **pass
 
 Para mim, obter inspiração é a etapa mais fascinante do processo de design. Gosto de buscar soluções criativas e pensar em como também posso criar essas interfaces incríveis. Então, tento identificar cada detalhe que o designer planejou e o porquê que ele preferiu usar isso em vez daquilo.
 
-**Essa é a maneira de treinar nossos olhar para um bom design.**
+**Essa é a maneira de treinar nosso olhar para um bom design.**
 
 #### Sites de padrões de design de UI/UX para referências:
 
@@ -107,7 +107,7 @@ Abaixo estão algumas dicas que você pode usar para melhorar suas habilidades d
 
 **Isso não é sobre plágio, é apenas para praticar**.
 
-Ao ler e copiar outros códigos, os desenvolvedores aprendem e melhoram muito suas habilidades. Da mesma forma, designers precisam olhar para as interfaces de outros designers para obter mais inspiração e aprender novas técnicas e abordagens.
+Ao ler e copiar outros códigos, os(as) desenvolvedores(as) aprendem e melhoram muito suas habilidades. Da mesma forma, designers precisam olhar para as interfaces de outros designers para obter mais inspiração e aprender novas técnicas e abordagens.
 
 Sinta-se à vontade para recriar algumas interfaces. **Isso fornecerá a você uma maneira inteligente de sair da sua zona de conforto e expandir suas habilidades de design visual**. Ao copiar algumas interfaces de usuário que você adora, você prestará atenção em cada detalhe delas. E aí está a mágica: verifique os pequenos detalhes; Você se lembra?
 
@@ -154,6 +154,6 @@ https://www.youtube.com/watch?v=svXl8ox6cuc
 
 **Como mencionei no início do artigo, é tudo sobre como obter inspiração, prática, consistência e paciência. Tente fazer da busca por inspiração um estilo de vida. Todos os dias, passe algum tempo analisando alguns sites, alguns efeitos e descobrindo algumas decisões de design de UI. Continue aprendendo e aplicando o que aprendeu. Work hard.**
 
-**Tenho certeza que em alguns meses, quando você olhar para trás e ver o seu progresso, ficará feliz por dedicar seu tempo ao estudo de design**. Sinta-se à vontade para encontrar outros recursos, tente estudar alguns [princípios de design](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design?ep=sarah-doody) e não se esqueça de compartilhar seu trabalho. 😃
+**Tenho certeza que em alguns meses, quando você olhar para trás e ver o seu progresso, ficará feliz por estar dedicando o seu tempo ao estudo de design**. Sinta-se à vontade para encontrar outros recursos, tente estudar alguns [princípios de design](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design?ep=sarah-doody) e não se esqueça de compartilhar seu trabalho. 😃
 
 E por favor me diga se este artigo foi útil para você e deixe nos comentários algumas outras dicas e materiais que você costuma utilizar. Até logo! ✌
