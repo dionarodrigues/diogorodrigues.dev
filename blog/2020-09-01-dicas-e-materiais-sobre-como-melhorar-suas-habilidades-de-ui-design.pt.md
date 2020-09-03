@@ -156,4 +156,4 @@ https://www.youtube.com/watch?v=svXl8ox6cuc
 
 **Tenho certeza que em alguns meses, quando você olhar para trás e ver o seu progresso, ficará feliz por estar dedicando o seu tempo ao estudo de design**. Sinta-se à vontade para encontrar outros recursos, tente estudar alguns [princípios de design](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design?ep=sarah-doody) e não se esqueça de compartilhar seu trabalho. 😃
 
-E por favor me diga se este artigo foi útil para você e deixe nos comentários algumas outras dicas e materiais que você costuma utilizar. Até logo! ✌
+E por favor me diga se este artigo foi útil para você e deixe nos comentários algumas outras dicas e materiais que você costuma utilizar. Até a próxima! ✌

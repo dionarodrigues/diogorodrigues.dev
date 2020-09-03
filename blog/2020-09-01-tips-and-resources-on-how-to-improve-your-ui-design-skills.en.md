@@ -97,7 +97,7 @@ Keep in mind we don’t have to reinvent the wheel every single time trying to s
 
 ## 3- Practice and share your work
 
-**But practice makes masters, don’t you agree?**
+**Practice makes masters, don’t you agree?**
 
 Some people believe that being a designer involves only talent, but I think that **design is something that can be learned**. Of course, some people have an easier time with codes and others with design, but with patience, dedication and a lot of practice, we can all achieve both skills.
 
@@ -156,4 +156,4 @@ https://www.youtube.com/watch?v=svXl8ox6cuc
 
 **I'm sure that in a few months, when you look back and see your progress, you'll be happy to have spent your time studying design**. Feel free to find other resources, try to study some [design principles](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design?ep=sarah-doody) and don't forget to share your work. 😃
 
-And please tell me if this article was useful for you and leave in the comments some other tips and resources that you usually use. See you later! ✌
+And please tell me if this article was useful for you and leave in the comments some other tips and resources that you usually use. Until the next time! ✌
