@@ -97,7 +97,7 @@ Keep in mind we don’t have to reinvent the wheel every single time trying to s
 
 ## 3- Practice and share your work
 
-**Practice makes perfect, don’t you agree?**
+**But practice makes masters, don’t you agree?**
 
 Some people believe that being a designer involves only talent, but I think that **design is something that can be learned**. Of course, some people have an easier time with codes and others with design, but with patience, dedication and a lot of practice, we can all achieve both skills.
 

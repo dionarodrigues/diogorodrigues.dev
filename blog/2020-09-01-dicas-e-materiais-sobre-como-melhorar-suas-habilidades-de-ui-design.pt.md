@@ -97,7 +97,7 @@ Lembre-se de que não precisamos reinventar a roda toda vez para tentarmos resol
 
 ## 3- Pratique e compartilhe o seu trabalho
 
-**A prática leva à perfeição, não concorda?**
+**A prática faz mestres, não concorda?**
 
 Algumas pessoas acreditam que ser designer envolve apenas talento, mas penso que **design é algo que pode ser aprendido**. Claro, algumas pessoas têm mais facilidade com códigos e outras com design, mas com paciência, dedicação e muita prática, todos podemos alcançar as duas habilidades.
 
