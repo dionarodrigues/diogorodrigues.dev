@@ -1,5 +1,5 @@
 ---
-title: 'Automatizando o workflow do Github para qualquer projeto'
+title: 'Automatizando o workflow do GitHub para qualquer projeto'
 date: '2020-09-08 01:21:23'
 description: "Neste artigo, vou compartilhar com vocês três ferramentas incríveis do GitHub que uso para automatizar processos para todos os meus projetos desde o início. Isso me ajuda a lidar com um dos maiores desafios para desenvolvedores de software: gerenciar alterações de código."
 category: Development
@@ -7,13 +7,13 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/automating-the-github-workflow-for-any-project.jpg'
 ---
 
-**Não importa se você está desenvolvendo um aplicativo rico em recursos ou apenas um pequeno projeto, você sabe que o Github é o melhor lugar para controle de versão do seu código, certo?** Recentemente, comecei a definir um workflow para os meus projetos que me fez economizar muito tempo - além de garantir que o código seja mais confiável, é claro.
+**Não importa se você está desenvolvendo um aplicativo rico em recursos ou apenas um pequeno projeto, você sabe que o GitHub é o melhor lugar para controle de versão do seu código, certo?** Recentemente, comecei a definir um workflow para os meus projetos que me fez economizar muito tempo - além de garantir que o código seja mais confiável, é claro.
 
 **Portanto, existem 3 ferramentas do GitHub para melhorar e automatizar o workflow dos nossos projetos:**
 
 - **GitHub Project Management**: semelhante ao Trello, mas muito mais avançado, é uma ferramenta do Github gratuita para gerenciar todas as tarefas do projeto. E como você deve estar imaginando, essa ferramenta é totalmente integrada com issues e pull requests.
-- **Github Actions**: este é o segredo de todo o fluxo de trabalho automatizado do Github. Ao usar esse recurso, o Github é capaz de testar o código após um pull request e fazer o deploy dele em produção, por exemplo.
-- **Dependabot**: adquirida recentemente pelo Github, esta ferramenta garante que todas as dependências do projeto estejam atualizadas automaticamente através de pull requests.
+- **GitHub Actions**: este é o segredo de todo o fluxo de trabalho automatizado do Github. Ao usar esse recurso, o GitHub é capaz de testar o código após um pull request e fazer o deploy dele em produção, por exemplo.
+- **Dependabot**: adquirida recentemente pelo GitHub, esta ferramenta garante que todas as dependências do projeto estejam atualizadas automaticamente através de pull requests.
 
 A seguir, falarei um pouco mais sobre cada uma dessas ferramentas brilhantes e mostrarei como você pode utilizá-las em seus projetos. Vamos lá?
 
@@ -23,7 +23,7 @@ Eu acredito fortemente que todos os projetos começam com planejamento, certo? (
 
 **A ferramenta [GitHub Project Management](https://github.com/features/project-management/) nos ajuda a relatar bugs, discutir tarefas, propor ideias, priorizar trabalhos e monitorar o progresso de maneira semelhante ao Trello. Mas a diferença aqui é que tudo está integrado as issues e os pull requests.**
 
-### Vantagens do Github Project Management
+### Vantagens do GitHub Project Management
 
 Existem muitas vantagens em usar esta ferramenta e abaixo você poderá algumas das mais importantes:
 
@@ -46,7 +46,7 @@ Automação é uma das melhores maneiras de aumentar a produtividade em um proje
 
 **Cada vez que um evento acontece com o repositório (merge ou pull request, por exemplo), podemos fazer uma trigger para um workflow automatizado: testar o código, fazer deploy do código para produção... É quando [GitHub Actions](https://github.com/features/actions) aparece.**
 
-### Vantagen do Github Actions
+### Vantagen do GitHub Actions
 
 Você já ouviu a frase: “O céu é o limite”? Portanto, ao usar o GitHub Actions, você tem muitas possibilidades. Abaixo estão alguns delas:
 
@@ -54,7 +54,7 @@ Você já ouviu a frase: “O céu é o limite”? Portanto, ao usar o GitHub Ac
 - **Continuous Deployment (CD)**: usando Actions, podemos fazer o deploy do projeto para produção sempre que a master receber um novo merge. Se você já trabalhou com Netlify, ou GitHub Pages, já deve ter tido essa experiência.
 - **Integração com outras ferramentas além do GitHub**: sabe aquela ferramenta de comunicação que você usa? Talvez seja possível integrá-la com o seu projeto do GitHub. Por exemplo, no Slack você pode obter atualizações sobre o que está acontecendo no GitHub sem sair da ferramenta. Você também pode integrar o Jira, Trell... Existem muitas possibilidades aqui.
 
-### Como usar Github Actions
+### Como usar GitHub Actions
 
 Todo o que você precisa fazer é criar um arquivo com a extensão `.yml` no diretório `.github/workflows` contendo as instruções necessárias para as actions. No vídeo abaixo você verá como fazer isso. E você também pode ver a [ documentacão do GitHub Actions aqui](https://docs.github.com/en/actions).
 
