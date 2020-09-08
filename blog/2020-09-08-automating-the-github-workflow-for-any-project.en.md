@@ -4,7 +4,7 @@ date: '2020-09-08 01:21:23'
 description: "In this article, I will share with you three amazing GitHub tools that I use to automate processes for all my projects from the beginning. This helps me deal with one of the biggest challenges for software developers: managing code changes."
 category: Development
 background: '#353b48'
-featuredImage: '/assets/img/blog/tips-and-resources-on-how-to-improve-your-ui-design-skills.jpg'
+featuredImage: '/assets/img/blog/automating-the-github-workflow-for-any-project.jpg'
 ---
 
 **It doesn’t matter if you are developing a feature-rich application or just a small project, you know that Github is the best place for versioning your code, right?** I recently started to define a workflow for my projects that saved me a lot of time - in addition to ensuring that the code is more reliable, of course.
