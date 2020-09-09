@@ -27,7 +27,7 @@ I strongly believe that all projects start with planning, right? (Or should, at 
 
 There are so many advantages of using this tool and below you’ll see some of the most important of them:
 
-- **We can create an automated kanban**. So, when you create a Pull Request, it will automatically move a referenced issue from In progress to To-do column, for example.
+- **We can create an automated kanban**. So, when you create a Pull Request, it will automatically move a referenced issue from In progress to Done column, for example.
 - **Assign issues to a specific person or people** responsible for solving those problems.
 - **Apply custom labels** to an issue to categorize it by feature, priority or any other context.
 - Last but not least, **GitHub tracks the changes you make to the issue itself**, so everything is transparent and complete for historical references and discussions.
