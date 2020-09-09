@@ -19,7 +19,7 @@ Below I talk a little more about each one of those brilliant tools and show you 
 
 ## GitHub Project Management
 
-I strongly believe that all projects start with planning, right? (Or should, at least)
+I strongly believe that all projects start with planning, right? (Or should, at least 😎)
 
 **[GitHub Project Management tool](https://github.com/features/project-management/ ) helps us report bugs, discuss tasks, propose ideas, prioritize work and monitor progress similar to Trello. But the difference here is that everything is integrated with issues and pull requests.**
 
@@ -56,9 +56,11 @@ Have you ever heard the phrase: “The sky's the limit”? So, by using GitHub A
 
 ### How to use GitHub Actions
 
-All you need to do is create a `.yml` extension in `.github/workflows` directory containing the necessary instructions for the actions. In the video below you will see how to do it. And you can also see the [GitHub Actions documentation here](https://docs.github.com/en/actions).
+All you need to do is create a `.yml` extension in `.github/workflows` directory containing the necessary instructions for the actions. In the video below you will see how to do it.
 
 https://www.youtube.com/watch?v=eB0nUzAI7M8&ab_channel=Fireship
+
+[GitHub Actions documentation here](https://docs.github.com/en/actions).
 
 Despite the simplicity of managing Actions, instead of writing your own steps from scratch, you can use some [GitHub Actions developed by the community](https://github.com/marketplace?type=actions ).
 
@@ -72,10 +74,10 @@ Keeping dependencies up to date is very important for better security, performan
 
 Check out the main advantages of this tool below and don't feel surprised to think "Why am I not using this yet?"
 
-- Monitoring project dependencies for vulnerabilities and creating automatic pull requests to fix security vulnerabilities as they are found.
-- It keeps the code up-to-date, which improves performance and bug fixes.
-- Dependabot shares a CI pass rate using a badge on the pull request. So you can check if there is any breaking change before merging the update with more confidence.
-- It currently supports JavaScript, Python, Ruby, PHP, Docker, GitHub Actions and more.
+- **Monitoring project dependencies for vulnerabilities** and creating automatic pull requests to fix security vulnerabilities as they are found.
+- **It keeps the code up-to-date**, which improves performance and bug fixes.
+- **Dependabot shares a CI pass rate using a badge on the pull request**. So you can check if there is any breaking change before merging the update with more confidence.
+- **It currently supports JavaScript**, Python, Ruby, PHP, Docker, GitHub Actions and more.
 
 ### How to use Dependabot
 
@@ -85,7 +87,7 @@ https://www.youtube.com/watch?v=7sHwEN5UNus&ab_channel=EmberMap
 
 ## Conclusion
 
-**Even though there is no universal workflow for code changes management, we can improve many development workflows just by using some excellent, free tools from GitHub to automate some processes and ensure more reliable code, as you can see.**
+**Even though there is no universal workflow for code changes management, we can improve many development workflows just by using some excellent, free tools from GitHub to automate some processes and ensure more reliable code, as you can see.** 😃
 
 I strongly recommend that you try these tools and discover the power that they can bring to your projects.
 
