@@ -7,19 +7,19 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/why-i-decided-to-develop-my-blog-with-gatsbyjs.jpg'
 ---
 
-There are a lot of options to build a site these days - like Wordpress, for example. Yes, WP continue being a famous choice yet (around [35% of all the websites today powered by WordPress](https://w3techs.com/technologies/details/cm-wordpress))
+Nowadays there are several options to build a website, like Wordpress, for example - yes, WP continue being a famous choice yet (around [35% of all the websites today powered by WordPress](https://w3techs.com/technologies/details/cm-wordpress))
 
-I would like to create something easier to maintain, safe against hackers and modern in terms of technology because I'd also like to learn something new. So **I met Gatsby and fell in love with it from the first time**. 💖
+But I would like to create something easier to maintain, safe against hackers and modern in terms of technology because I'd also like to learn something new. So **I met Gatsby and fell in love with it from the first time**. 💖
 
 ![Funny glasses - simpsons](https://media.giphy.com/media/YABz3fRfUFuec/giphy.gif)
 
 ## The amazing world of static site generators
 
-I remember when I built a static version of my personal site years ago, and the fanciest frameworks, libraries or tools that I used were Gulp as task runner, Atomic Design with CSS preprocessors (Ilike Stylus very much) and JS modules with IIFEs and a lot of jQuery.
+I remember when I built a static version of my personal site years ago, and the fanciest frameworks, libraries or tools that I used were Gulp as task runner, Atomic Design with CSS preprocessors (I like Stylus very much) and JS modules with IIFEs and a lot of jQuery.
 
-Nowadays there are a lot of modern tools to help us generating static sites such as Gatsby and NextJS for example, both based on React. There are other popular generators like Jekyll and Hugo as well.
+These days there are a lot of modern tools to help us generating static sites such as Gatsby and NextJS for example, both based on React. There are other popular generators like Jekyll and Hugo as well.
 
-Static site generators focus on generating a complete static HTML-based site that don't rely on database and, because of this, static sites can be served very quickly and come up with several security benefits.
+Static site generators focus on generating a complete static HTML-based site that don't rely on database and, because of this, this kind of solution can be served very quickly and come up with several security benefits.
 
 ## Why did I choose Gatsby to build my site
 
@@ -38,7 +38,7 @@ More benefits when using Gatsby:
 
 I created a [Gatsby Starter called Iceberg](https://www.gatsbyjs.org/starters/diogorodrigues/iceberg-gatsby-multilang/) based on the features of this my site. Feel free to kick off your project with this starter. 👌
 
-![Iceberg Gatsby Starter](https://www.gatsbyjs.org/static/68a43983f96fb3873c884a5e96e5f138/4ff95/97c55cf17e773c8cdb861e076f1bf9cb.png)
+![Iceberg Gatsby Starter](https://dev-to-uploads.s3.amazonaws.com/i/yaue80223l6mllliy0nm.png)
 
 
 ## CSS-in-JS with styled components

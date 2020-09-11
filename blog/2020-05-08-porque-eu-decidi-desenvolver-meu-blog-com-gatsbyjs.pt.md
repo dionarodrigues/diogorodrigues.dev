@@ -7,9 +7,9 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/why-i-decided-to-develop-my-blog-with-gatsbyjs.jpg'
 ---
 
-Atualmente existem muitas opções para criar um blog ou qualquer site utilizando CMS - como o Wordpress, por exemplo. Sim, o WP continua sendo uma famosa ferramenta (aproximadamente [35% de todos os sites atualmente na web foram criados com WordPress](https://w3techs.com/technologies/details/cm-wordpress))
+Atualmente existem muitas opções para criar um blog ou qualquer site utilizando CMS, como o Wordpress, por exemplo - sim, o WP continua sendo uma famosa ferramenta (aproximadamente [35% de todos os sites atualmente na web foram criados com WordPress](https://w3techs.com/technologies/details/cm-wordpress))
 
-Gostaria de criar algo mais fácil de manter, seguro contra hackers e moderno em termos de tecnologia, além de também querer aprender algo novo. Então **eu conheci Gatsby e me apaixonei por esse framework desde a primeira vez**. 💖
+Mas eu estava pensando em criar algo mais fácil de manter, seguro contra hackers e moderno em termos de tecnologia, além de também querer aprender algo novo. Então **eu conheci Gatsby e me apaixonei por esse framework desde a primeira vez**. 💖
 
 ![Funny glasses - simpsons](https://media.giphy.com/media/YABz3fRfUFuec/giphy.gif)
 
@@ -19,7 +19,7 @@ Me lembro de quando criei uma versão estática do meu site pessoal anos atrás,
 
 Atualmente, existem muitas ferramentas modernas para nos ajudar a desenvoler sites estáticos, como GatsbyJS e NextJS, por exemplo, ambos feitos com React. Existem outros geradores populares como Jekyll e Hugo também.
 
-Os geradores de sites estáticos nos entregam um conjunto de arquivos que não dependem de banco de dados. E por causa disso, esses sites podem ser indexados muito mais rápido que as versões dinâmicas, além de serem mais seguros.
+Os geradores de sites estáticos nos entregam um conjunto de arquivos que não dependem de banco de dados. E, por causa disso, esse tipo de solução pode ser indexada muito mais rápida que as versões dinâmicas, além de ser mais segura.
 
 ## Por que escolhi o Gatsby para criar meu site
 
@@ -38,7 +38,7 @@ Mais benefícios ao usar o Gatsby:
 
 Eu criei um [Starter para o Gatsby chamado Iceberg](https://www.gatsbyjs.org/starters/diogorodrigues/iceberg-gatsby-multilang/) com base nos recursos desse meu site. Sinta-se livre para iniciar seu projeto com este starter. 👌
 
-<!-- ![Iceberg Gatsby Starter](https://www.gatsbyjs.org/static/c3a837732020f5ff7a02dc3f01f8b72d/73c85/7610e311782e449224868d751562ec46.png) -->
+![Iceberg Gatsby Starter](https://dev-to-uploads.s3.amazonaws.com/i/yaue80223l6mllliy0nm.png)
 
 ## CSS-in-JS with styled components
 
