@@ -1,7 +1,7 @@
 ---
 title: '6 poderosas técnicas de CSS que você pode usar ao invés de JS'
 date: '2020-06-11 01:21:23'
-description: De variáveis ​​personalizadas a filtros, animações ou operações matemáticas, o CSS vem substituindo muitas funcionalides que costumávamos fazer com javascript e está se tornando uma linguagem incrivelmente poderosa. Vamos dar uma olhada em alguns exemplos que podemos fazer usando apenas CSS.
+description: De variáveis ​​personalizadas a filtros, animações ou operações matemáticas, o CSS vem substituindo muitas funcionalidades que costumávamos fazer com javascript e está se tornando uma linguagem incrivelmente poderosa. Vamos dar uma olhada em alguns exemplos que podemos fazer usando apenas CSS.
 category: CSS
 background: '#353b48'
 featuredImage: '/assets/img/blog/6-powerful-css-techniques-you-can-use-instead-javascript.jpg'
