@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=eB0nUzAI7M8&ab_channel=Fireship
 
 [GitHub Actions documentation here](https://docs.github.com/en/actions).
 
-Despite the simplicity of managing Actions, instead of writing your own steps from scratch, you can use some [GitHub Actions developed by the community](https://github.com/marketplace?type=actions ).
+Despite the simplicity of managing Actions, instead of writing your own steps from scratch, you can use some [GitHub Actions developed by the community](https://github.com/marketplace?type=actions). You can also take a look at this [another GitHub Actions Repository](https://github.com/sdras/awesome-actions).
 
 ## Dependabot
 
@@ -84,6 +84,8 @@ Check out the main advantages of this tool below and don't feel surprised to thi
 You will see how easy it is to configure Dependabot for your projects in the video below. You can also create a custom configuration with more details on how this tool should behave depending on your project needs.
 
 https://www.youtube.com/watch?v=7sHwEN5UNus&ab_channel=EmberMap
+
+Extra tip: to do something similar to Dependabot in the local environment, you can use the `yarn upgrade-interactive --latest` command to check if there are any dependencies to be upgraded and choose which ones you want to upgrade.
 
 ## Conclusion
 

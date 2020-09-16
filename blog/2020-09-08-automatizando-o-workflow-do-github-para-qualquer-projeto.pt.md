@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=eB0nUzAI7M8&ab_channel=Fireship
 
 [Documentacão do GitHub Actions aqui](https://docs.github.com/en/actions).
 
-Apesar da simplicidade da implementação das Actions, em vez de escrever suas próprias regras do zero, você pode usar algumas [GitHub Actions desenvolvidas pela comunidade](https://github.com/marketplace?type=actions ).
+Apesar da simplicidade da implementação das Actions, em vez de escrever suas próprias regras do zero, você pode usar algumas [GitHub Actions desenvolvidas pela comunidade](https://github.com/marketplace?type=actions). Você também pode dar uma olhada nesse [outro repositório de GitHub Actions](https://github.com/sdras/awesome-actions).
 
 ## Dependabot
 
@@ -84,6 +84,8 @@ Confira abaixo as principais vantagens dessa ferramenta e não se surpreenda ao 
 Você verá como é fácil configurar o Dependabot para seus projetos no vídeo abaixo. Você também pode criar uma configuração personalizada com mais detalhes sobre como essa ferramenta deve se comportar, dependendo das necessidades do seu projeto.
 
 https://www.youtube.com/watch?v=7sHwEN5UNus&ab_channel=EmberMap
+
+Dica extra: para um funcionamento parecido com o Dependabot no ambiente local, você pode usar o comando `yarn upgrade-interactive --latest` para checar se há alguma dependência para ser atualizada e escolher quais delas você deseja atualizar.
 
 ## Conclusão
 
