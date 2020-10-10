@@ -63,27 +63,33 @@ const BrandsList = ({ title }) => {
   const logos = [
     {
       img: logoNike.childImageSharp.fluid,
-      link: "https://www.nike.com.br/"
+      link: "https://www.nike.com.br/",
+      label: "Nike"
     },
     {
       img: logoHp.childImageSharp.fluid,
-      link: "https://www.life-global.org/"
+      link: "https://www.life-global.org/",
+      label: "HP Life"
     },
     {
       img: logoHcss.childImageSharp.fluid,
-      link: "https://careers.hcss.com/"
-    },
-    {
-      img: logoCallsource.childImageSharp.fluid,
-      link: "https://www.callsource.com/"
-    },
-    {
-      img: logoResoptima.childImageSharp.fluid,
-      link: "https://resoptima.com/"
+      link: "https://careers.hcss.com/",
+      label: "HCSS"
     },
     {
       img: logoDefinitelyTyped.childImageSharp.fluid,
-      link: "https://github.com/DefinitelyTyped"
+      link: "https://github.com/DefinitelyTyped",
+      label: "Definitely Typed"
+    },
+    {
+      img: logoCallsource.childImageSharp.fluid,
+      link: "https://www.callsource.com/",
+      label: "CallSource"
+    },
+    {
+      img: logoResoptima.childImageSharp.fluid,
+      link: "https://resoptima.com/",
+      label: "Resoptima"
     }
   ];
 
@@ -94,7 +100,7 @@ const BrandsList = ({ title }) => {
         {logos &&
           logos.map((logo, index) => (
             <div key={index}>
-              <Img fluid={logo.img} />
+              <Img fluid={logo.img} alt={`${logo.label} Logo`} title={logo.label} />
             </div>
           ))}
       </S.Container>
