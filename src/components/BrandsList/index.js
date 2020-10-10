@@ -6,7 +6,7 @@ import PropTypes from 'prop-types';
 import * as S from './styled';
 
 const BrandsList = ({ title }) => {
-  const { logoNike, logoHp, logoHcss, logoCallsource, logoResoptima } = useStaticQuery(
+  const { logoNike, logoHp, logoHcss, logoCallsource, logoResoptima, logoDefinitelyTyped } = useStaticQuery(
     graphql`
       {
         logoNike: file(relativePath: { eq: "brands/nike.png" }) {
@@ -48,26 +48,53 @@ const BrandsList = ({ title }) => {
             }
           }
         }
+
+        logoDefinitelyTyped: file(relativePath: { eq: "brands/definitely-typed.png" }) {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     `
   );
 
-  const imgs = [
-    logoNike.childImageSharp.fluid,
-    logoHp.childImageSharp.fluid,
-    logoHcss.childImageSharp.fluid,
-    logoCallsource.childImageSharp.fluid,
-    logoResoptima.childImageSharp.fluid,
+  const logos = [
+    {
+      img: logoNike.childImageSharp.fluid,
+      link: "https://www.nike.com.br/"
+    },
+    {
+      img: logoHp.childImageSharp.fluid,
+      link: "https://www.life-global.org/"
+    },
+    {
+      img: logoHcss.childImageSharp.fluid,
+      link: "https://careers.hcss.com/"
+    },
+    {
+      img: logoCallsource.childImageSharp.fluid,
+      link: "https://www.callsource.com/"
+    },
+    {
+      img: logoResoptima.childImageSharp.fluid,
+      link: "https://resoptima.com/"
+    },
+    {
+      img: logoDefinitelyTyped.childImageSharp.fluid,
+      link: "https://github.com/DefinitelyTyped"
+    }
   ];
 
   return (
     <>
       <S.Title>{title}</S.Title>
       <S.Container>
-        {imgs &&
-          imgs.map((img, index) => (
+        {logos &&
+          logos.map((logo, index) => (
             <div key={index}>
-              <Img fluid={img} />
+              <Img fluid={logo.img} />
             </div>
           ))}
       </S.Container>

@@ -11,7 +11,7 @@ export const Container = styled.div`
     grid-template-columns: repeat(3, 1fr);
   `}
   ${media.greaterThan('large')`
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(6, 1fr);
   `}
 
   & > div {

@@ -191,49 +191,49 @@ export const query = graphql`
     }
     bannerImage: file(relativePath: { eq: $bannerImage }) {
       childImageSharp {
-        fluid(maxWidth: 1500) {
+        fluid(maxWidth: 1500, quality: 95) {
           ...GatsbyImageSharpFluid
         }
       }
     }
     projectImageLarge: file(relativePath: { eq: $projectImageLarge }) {
       childImageSharp {
-        fluid(maxWidth: 1500) {
+        fluid(maxWidth: 1500, quality: 95) {
           ...GatsbyImageSharpFluid
         }
       }
     }
     projectImageMedium01: file(relativePath: { eq: $projectImageMedium01 }) {
       childImageSharp {
-        fluid(maxWidth: 1500) {
+        fluid(maxWidth: 1500, quality: 95) {
           ...GatsbyImageSharpFluid
         }
       }
     }
     projectImageMedium02: file(relativePath: { eq: $projectImageMedium02 }) {
       childImageSharp {
-        fluid(maxWidth: 1500) {
+        fluid(maxWidth: 1500, quality: 95) {
           ...GatsbyImageSharpFluid
         }
       }
     }
     projectImageSmall01: file(relativePath: { eq: $projectImageSmall01 }) {
       childImageSharp {
-        fluid(maxWidth: 1500) {
+        fluid(maxWidth: 1500, quality: 95) {
           ...GatsbyImageSharpFluid
         }
       }
     }
     projectImageSmall02: file(relativePath: { eq: $projectImageSmall02 }) {
       childImageSharp {
-        fluid(maxWidth: 1500) {
+        fluid(maxWidth: 1500, quality: 95) {
           ...GatsbyImageSharpFluid
         }
       }
     }
     projectImageSmall03: file(relativePath: { eq: $projectImageSmall03 }) {
       childImageSharp {
-        fluid(maxWidth: 1500) {
+        fluid(maxWidth: 1500, quality: 95) {
           ...GatsbyImageSharpFluid
         }
       }
