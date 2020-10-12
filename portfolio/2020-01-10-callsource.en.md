@@ -22,7 +22,7 @@ projectImageSmall03: ''
 
 ## About the project
 
-The creation of this site involved a great team and all its content and technologies were very well planned. The company operates in the data area and aimed at a WordPress site that is easy to maintain and that could present all its services in a simple and attractive way.
+The creation of this site involved the agency that I worked at, DYD (based in Houston/USA) and all its content and technologies were very well planned. The company operates in the data area and aimed at a WordPress site that is easy to maintain and that could present all its services in a simple and attractive way.
 
 ## Result
 

@@ -22,7 +22,7 @@ projectImageSmall03: ''
 
 ## Sobre o Projeto
 
-A criação desse site envolveu uma grande equipe e todo o seu conteúdo e tecnologias foram muito bem planejados. A empresa atua na área de dados e tinha como objetivo um site feito em WordPress de fácil manutenção e que pudesse apresentar todos os seus serviços de modo simples e atraente.
+A criação desse site envolveu a agëncia que eu trabalhava, DYD (situada em Houston / EUA) e todo o seu conteúdo e tecnologias foram muito bem planejados. A empresa atua na área de dados e tinha como objetivo um site feito em WordPress de fácil manutenção e que pudesse apresentar todos os seus serviços de modo simples e atraente.
 
 ## Resultado
 
