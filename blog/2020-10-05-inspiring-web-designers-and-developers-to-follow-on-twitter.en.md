@@ -9,16 +9,16 @@ featuredImage: '/assets/img/blog/inspiring-web-designers-and-developers-to-follo
 
 **Although Twitter has been around for a long time, this social media remains one of the popular resources to keep us updated in our professional area.**
 
-Below is a short list of profiles of web designers and front-end developers that I usually follow on twitter. There are people from different areas: UX design, web accessibility, development.. I hope you like it! 👍
+Below is a short list of profiles of web designers and front-end developers that I usually follow on Twitter. There are people from different areas: UX design, web accessibility, development.. I hope you like it! 👍
 
 ### Donald Norman - [@jnd1er](https://twitter.com/jnd1er)
-Don is one of the most important UX designers of the world. Besides he coined the term “user experience”, he's also the author of the famous book called “The Design of Everyday Things”. He’s not very active on his personal twitter but you can follow some profiles related to him: [@interacting](https://twitter.com/interacting) and [@NNgroup](https://twitter.com/NNgroup).
+Don is one of the most important UX designers of the world. Besides he coined the term “user experience”, he's also the author of the famous book called “The Design of Everyday Things”. He’s not very active on his personal Twitter but you can follow some profiles related to him: [@interacting](https://twitter.com/interacting) and [@NNgroup](https://twitter.com/NNgroup).
 
 ### Lea Verou - [@LeaVerou](https://twitter.com/LeaVerou)
-See how she describes herself on her twitter: “I ♥ standards, code, design, UX, life!”. I had the pleasure of speaking with her at a conference on front-end development in Brazil and she is really passionate about CSS and the web. She is a researcher at [MIT CSAIL](https://www.csail.mit.edu/) and has given over 100 talks at web design/web development conferences around the world.
+See how she describes herself on her Twitter: “I ♥ standards, code, design, UX, life!”. I had the pleasure of speaking with her at a conference on front-end development in Brazil and she is really passionate about CSS and the web. She is a researcher at [MIT CSAIL](https://www.csail.mit.edu/) and has given over 100 talks at web design/web development conferences around the world.
 
 ### Chris Coyier - [@chriscoyier](https://twitter.com/chriscoyier)
-Co-founder of [CodePen](https://codepen.io/), creator of the awesome [CSS Tricks](https://css-tricks.com/) and podcaster at [ShopTalk Show](https://shoptalkshow.com/), Chris is a well known person of the web design/development world and his twitter account is very active.
+Co-founder of [CodePen](https://codepen.io/), creator of the awesome [CSS Tricks](https://css-tricks.com/) and podcaster at [ShopTalk Show](https://shoptalkshow.com/), Chris is a well known person of the web design/development world and his Twitter account is very active.
 
 ### Debra Ruh - [@debraruh](https://twitter.com/debraruh)
 Expertise with standards and legislation including the United Nations Convention of Rights for Persons with Disabilities, Debra shares many important content about web accessibility on her Twitter.
@@ -39,16 +39,16 @@ Sara is a design engineer, author and speaker all over the world. Her passion is
 Zeno is a front-end developer who really makes a difference. He likes to share knowledge and build fantastic tools for the community - such as the [Drácula Theme](https://draculatheme.com/), for example. He also has spoken in over 110 conferences all over the world and recently he released a great ebook called [14 Habits of Highly Productive Developers](https://14habits.com/).
 
 ### Ire Aderinokun - [@ireaderinokun](https://twitter.com/ireaderinokun)
-She co-founded [BuyCoins](https://buycoins.africa/), a cryptocurrency exchange for Africa. Ire is a frontend developer and user interface designer specialized in the core frontend technologies (HTML, CSS, and JavaScript) and passionate about all aspects of technology. On your twitter you will see several useful content about front-end development in general.
+She co-founded [BuyCoins](https://buycoins.africa/), a cryptocurrency exchange for Africa. Ire is a frontend developer and user interface designer specialized in the core frontend technologies (HTML, CSS, and JavaScript) and passionate about all aspects of technology. On your Twitter you will see several useful content about front-end development in general.
 
 ### Brad Frost - [@brad_frost](https://twitter.com/brad_frost)
 He’s a web designer and the author of [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) (a famous scalable way to create and maintain robust design systems). In his profile, he shares many things related with web design in general.
 
 ### Denise Jacobs - [@denisejacobs](https://twitter.com/denisejacobs)
-Author of [The CSS Detective Guide](https://cssdetectiveguide.com/), she is also a speaker and creativity evangelist. As Denise is interested in the science of creativity, we can find a lot about this subject on her twitter.
+Author of [The CSS Detective Guide](https://cssdetectiveguide.com/), she is also a speaker and creativity evangelist. As Denise is interested in the science of creativity, we can find a lot about this subject on her Twitter.
 
 ### Eric Elliott - [@_ericelliott](https://twitter.com/_ericelliott)
-Eric is a veteran javascript developer. He is the author of famous books on JS - such as [Programming JavaScript Applications](https://www.oreilly.com/library/view/programming-javascript-applications/9781491950289/) - and his twitter contains a lot of excellent content about this programming language.
+Eric is a veteran javascript developer. He is the author of famous books on JS - such as [Programming JavaScript Applications](https://www.oreilly.com/library/view/programming-javascript-applications/9781491950289/) - and his Twitter contains a lot of excellent content about this programming language.
 
 ### Léonie - [@LeonieWatson](https://twitter.com/LeonieWatson)
 Léonie is totally involved with accessibility and inclusive design. She’s a member of the W3C Advisory Board and co-Chair of the W3C Web Applications Working Group. If you're looking for technical and inspirational content about accessibility, take a look at her profile.
