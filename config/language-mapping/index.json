@@ -53,6 +53,10 @@
       "en": "/blog/inspiring-web-designers-and-developers-to-follow-on-twitter",
       "pt": "/blog/web-designers-e-desenvolvedores-front-end-para-seguir-no-twitter"
     },
+    {
+      "en": "/blog/automating-ui-tests-with-jest-and-react-testing-library",
+      "pt": "/blog/automatizando-testes-de-ui-com-jest-e-react-testing-library"
+    },
 
     {
       "en": "/portfolio/code-in-the-dark",
