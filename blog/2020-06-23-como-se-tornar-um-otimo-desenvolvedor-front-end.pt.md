@@ -7,7 +7,7 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/how-to-become-a-great-front-end-developer.jpg'
 ---
 
-Aqui compartilharei com você alguns pontos-chave para melhorar suas habilidades técnicas com base na minha experiência como desenvolvedor front-end e em algumas ótimas referências que encontrei sobre esse assunto. Aliás, você já deve ter visto esse [front-end RoadMap](https://roadmap.sh/frontend) criado por [Kamranahmedse](https://twitter.com/kamranahmedse). É uma das minhas referências favoritas.
+Aqui compartilharei com você alguns pontos-chave para melhorar suas habilidades técnicas com base na minha experiência como desenvolvedor front-end e em algumas ótimas referências que encontrei sobre esse assunto. Aliás, você já deve ter visto esse [front-end RoadMap](https://roadmap.sh/frontend) criado por [Kamran Ahmed](https://twitter.com/kamranahmedse). É uma das minhas referências favoritas.
 
 Lembre-se sempre: você precisa praticar muito, em vez de apenas consumir a teoria. E aqui estão apenas algumas dicas que você pode usar para encontrar seu próprio caminho, quero dizer, não há apenas uma única e exclusiva maneira de alcançar uma carreira de sucesso como desenvolvedor. Vamos lá?
 

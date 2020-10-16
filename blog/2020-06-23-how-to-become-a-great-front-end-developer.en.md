@@ -7,7 +7,7 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/how-to-become-a-great-front-end-developer.jpg'
 ---
 
-I‘ll share with you some key points to improve your technical skills based on my experience as a front-end developer and some great references I've found on that. Btw, you may have already seen this [front-end RoadMap](https://roadmap.sh/frontend) created by [Kamranahmedse](https://twitter.com/kamranahmedse). It's one of my favorite references.
+I‘ll share with you some key points to improve your technical skills based on my experience as a front-end developer and some great references I've found on that. Btw, you may have already seen this [front-end RoadMap](https://roadmap.sh/frontend) created by [Kamran Ahmed](https://twitter.com/kamranahmedse). It's one of my favorite references.
 
 Always remember: you need to practice a lot, instead of just reading the theory. And here are just a few tips you can use to find your own path, I mean, there is not just one way to achieve your successful career as a developer. Let's go?
 
