@@ -15,7 +15,7 @@ featuredImage: '/assets/img/blog/automating-ui-tests-with-jest-and-react-testing
 
 ## Overview about testing
 
-Although front-end testing is growing with React's popularity, I don't see it as a trend, but as a part that should be mandatory in any type of project that involves end user interaction coding.
+Although front-end testing is growing with React's popularity, I don't see it as a trend, but as a part that should be mandatory in any type of project that involves code and user interaction.
 
 ### Advantages of writing tests
 
@@ -64,7 +64,7 @@ In this article, we will focus on two of these testing tools that are very succe
 
 **[Jest](https://jestjs.io/) is a test runner that executes many tasks by using a few functionalities**. If you already worked with Gulp you can imagine something similar when we refer to jest but much easier to configure and focused on testing.
 
-This library is open source, maintained by Facebook (the same creator of React) and can be used to test not only React components but any kind of JavaScript code: Typescript, Node, Vue...
+This library is open source, maintained by Facebook (the same creator of React) and can be used to test not only React components but any kind of JavaScript code.
 
 #### Advantages of using Jest on React projects:
 
@@ -93,9 +93,9 @@ If you've worked with Enzyme (another test library created by AirBnb), you can p
 
 - RTL encourages us to write better components through accessibility approaches
 - Focus on how components look and behave in the DOM instead of props and states
-- Great integration with Jest (by the way, Jest is the React team’s recommendation to use, as this library needs to work with a test runner)
+- Great integration with Jest
 
-RTL is awesome, we can create tests based on DOM elements using several different [queries](https://testing-library.com/docs/dom-testing-library/api-queries), then create a snapshot of the component to prevent any unexpected UI changes. Therefore, whenever the running test identifies any changes, the tests will fail. Thus, you can make the decision to update the snapshot or correct your code so that no differences are found. We can also use events to simulate user interactions: such as clicks and form fills, for example. Isn’t it awesome?
+RTL is awesome, we can create tests based on DOM elements using several different [queries](https://testing-library.com/docs/dom-testing-library/api-queries), then create a snapshot of the component to prevent any unexpected user interface changes. Therefore, whenever the running test identifies any changes, the tests will fail. Thus, you can make the decision to update the snapshot or correct your code so that no differences are found. In addition, we can also use events to simulate user interactions: such as clicks and form fills, for example. Isn’t it awesome?
 
 #### Watch the tutorial video below to better understand the React Testing Library through practical examples
 
@@ -109,8 +109,8 @@ RTL is built on top of [DOM Testing Library](https://github.com/kentcdodds/dom-t
 
 ## Conclusion
 
-**As you can see, when using tests in React, we can be sure that the UI code does what we expect and they will be designed to focus first on needs (TDD) and user behavior (accessibility).**
+**When using tests in React, we can be sure that the user interface code will do what we expect, focusing on functionality first (TDD) and ensuring better accessibility.**
 
-I realize that many developers and companies see testing as just a lovely idea. But I think we need to **stop wasting time on debugging and take advantage of testing to gain more confidence, keep the code consistent across the team, and improve our code by following best practices and conventions**. ✌😁✨
+I realize that many developers and companies see testing as just a lovely idea. But I think we need to **stop wasting time debugging and take advantage of the tests to gain more confidence, improve our code by following best practices and conventions, and keep it consistent across the team**. ✌😁✨
 
-Have you already tried these tools or not yet? Are you using a different approach to apply testing to React projects?
+Leave in the comments if you have used these testing tools or if you are using a different approach to apply tests to React projects. Until the next! 👋
