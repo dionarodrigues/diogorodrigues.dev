@@ -4,7 +4,7 @@
 
   "presentation": "<span>👋</span>Hey, I'm Diogo Rodrigues",
   "jobDescription": "I create <strong>digital experiences</strong> <br/>through design & code",
-  "aboutMeShort": "<p> I’m a <span class='text-line'>web designer</span> front-end developer with UI/UX design skills from São Paulo, Brazil.",
+  "aboutMeShort": "<p> I’m a <span class='text-line'>web designer</span> front-end developer with UI/UX design skills based in Dublin, Ireland.",
 
   "portfolioPageDescription": "Some of the UX/UI & Front-end projects that I’m proud of.",
   "blogPageDescription": "Some texts about the world of web and mobile development. But there are also experiments, references and inspirations about career and personal growth.",
@@ -37,5 +37,5 @@
 
   "copyright": "All rights reserved. © Diogo Rodrigues",
   "siteInfo": "Site made using <a href='https://www.gatsbyjs.org/'>Gatsby</a> ❤.",
-  "location": "São Paulo / Brazil"
+  "location": "Dublin / Ireland"
 }

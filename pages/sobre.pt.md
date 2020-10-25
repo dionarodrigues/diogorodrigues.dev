@@ -13,7 +13,7 @@ description: ""
 
 ## Sobre mim
 
-<p class="text-hilight"><strong>Oi, sou Diogo Rodrigues</strong>, um <span class='text-line'>web designer</span> desenvolvedor front-end com ótimos conhecimentos em UI/UX design (<a href='/pt/blog/que-tipo-de-desenvolvedor-frontend-eu-sou'><strong>front-end designer</strong></a>). Moro em São Paulo, Brasil..</p>
+<p class="text-hilight"><strong>Oi, sou Diogo Rodrigues</strong>, um <span class='text-line'>web designer</span> desenvolvedor front-end com ótimos conhecimentos em UI/UX design (<a href='/pt/blog/que-tipo-de-desenvolvedor-frontend-eu-sou'><strong>front-end designer</strong></a>). Moro em Dublin, Irlanda.</p>
 
 O desenvolvimento web me fascina desde 2009, quando eu iniciei minha carreira como web designer. Desde então eu venho criando interfaces modernas e amigáveis focadas na usabilidade e no design emocional. Eu também tive a change de participar de diversos projetos, contribuindo para um mundo um melhor através do design e do código.
 
