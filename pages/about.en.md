@@ -23,7 +23,7 @@ I'm always trying to grow and learn something new. I lose track of time when I'm
 
 I speak Portuguese (as a native language, Brazil) and English.
 
-[__Download my CV.__](diogo-rodrigues-frontend-designer-cv.pdf)
+[__Download my CV.__](https://www.diogorodrigues.dev/diogo-rodrigues-frontend-designer-cv.pdf)
 
 ## Experience
 
@@ -51,4 +51,4 @@ I also have participated in amazing open source projects such as [Definitely Typ
 
 ---
 
-[__Download my CV.__](diogo-rodrigues-frontend-designer-cv.pdf)
+[__Download my CV.__](https://www.diogorodrigues.dev/diogo-rodrigues-frontend-designer-cv.pdf)

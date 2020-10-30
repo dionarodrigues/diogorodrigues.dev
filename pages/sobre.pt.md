@@ -23,7 +23,7 @@ Estou sempre tentando evoluir e aprender algo novo. Por isso, às vezes me perco
 
 Falo Português (como língua nativa, Brasil) e Inglês.
 
-[__Baixe meu CV.__](diogo-rodrigues-frontend-designer-cv-pt.pdf)
+[__Baixe meu CV.__](https://www.diogorodrigues.dev/diogo-rodrigues-frontend-designer-cv-pt.pdf)
 
 ## Experiência
 
@@ -51,5 +51,5 @@ Além disso, também participei de fantásticos projetos open sources, como [Def
 
 ---
 
-[__Baixe meu CV.__](diogo-rodrigues-frontend-designer-cv-pt.pdf)
+[__Baixe meu CV.__](https://www.diogorodrigues.dev/diogo-rodrigues-frontend-designer-cv-pt.pdf)
 
