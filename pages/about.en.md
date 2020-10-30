@@ -23,6 +23,8 @@ I'm always trying to grow and learn something new. I lose track of time when I'm
 
 I speak Portuguese (as a native language, Brazil) and English.
 
+[__Download my CV.__](diogo-rodrigues-frontend-designer-cv.pdf)
+
 ## Experience
 
 I've collaborated on great products for <strong>Nike Brazil</strong>, <strong>HP Brazil and International</strong>, HCSS and Call Source. Previously, <strong>I worked for Via Varejo - owner of large Brazilian ecommerces</strong>, such as Casas Bahia, Pão de Açúcar and Ponto Frio.
@@ -48,3 +50,5 @@ I also have participated in amazing open source projects such as [Definitely Typ
 - Adobe XD, In Vision, Photoshop, Illustrator...
 
 ---
+
+[__Download my CV.__](diogo-rodrigues-frontend-designer-cv.pdf)

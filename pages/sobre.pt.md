@@ -23,6 +23,8 @@ Estou sempre tentando evoluir e aprender algo novo. Por isso, às vezes me perco
 
 Falo Português (como língua nativa, Brasil) e Inglês.
 
+[__Baixe meu CV.__](diogo-rodrigues-frontend-designer-cv-pt.pdf)
+
 ## Experiência
 
 Durante a minha carreira eu colaborei para o sucesso de grandes produtos como <strong>Nike Brasil</strong>, <strong>HP Brasil e internacional</strong>, HCSS e Call Source. Também  <strong>trabalhei para a Via Varejo (proprietária dos maiores ecommerces do Brasil</strong>, como Casas Bahia, Pão de Açúcar e Ponto Frio.
@@ -48,3 +50,6 @@ Além disso, também participei de fantásticos projetos open sources, como [Def
 - Adobe XD, In Vision, Photoshop, Illustrator...
 
 ---
+
+[__Baixe meu CV.__](diogo-rodrigues-frontend-designer-cv-pt.pdf)
+
