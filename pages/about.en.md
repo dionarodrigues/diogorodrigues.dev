@@ -21,6 +21,8 @@ Since 2009 I've been living and breathing web development and creating modern an
 
 I'm always trying to grow and learn something new. I lose track of time when I'm playing the violin, studying languages or simply reading a good book.
 
+I speak Portuguese (as a native language, Brazil) and English.
+
 ## Experience
 
 I've collaborated on great products for <strong>Nike Brazil</strong>, <strong>HP Brazil and International</strong>, HCSS and Call Source. Previously, <strong>I worked for Via Varejo - owner of large Brazilian ecommerces</strong>, such as Casas Bahia, Pão de Açúcar and Ponto Frio.

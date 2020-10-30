@@ -69,7 +69,7 @@ const Project = props => {
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description}
-        image={post.frontmatter.featuredImage}
+        image={props.data.featuredImage.childImageSharp.fluid.src}
       />
 
       <S.Header>

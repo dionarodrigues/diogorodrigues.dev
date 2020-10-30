@@ -21,6 +21,8 @@ O desenvolvimento web me fascina desde 2009, quando eu iniciei minha carreira co
 
 Estou sempre tentando evoluir e aprender algo novo. Por isso, às vezes me perco no tempo quando estou tocando violino, aprendendo um novo idioma ou simplesmente lendo um bom livro ✨😍
 
+Falo Português (como língua nativa, Brasil) e Inglês.
+
 ## Experiência
 
 Durante a minha carreira eu colaborei para o sucesso de grandes produtos como <strong>Nike Brasil</strong>, <strong>HP Brasil e internacional</strong>, HCSS e Call Source. Também  <strong>trabalhei para a Via Varejo (proprietária dos maiores ecommerces do Brasil</strong>, como Casas Bahia, Pão de Açúcar e Ponto Frio.
