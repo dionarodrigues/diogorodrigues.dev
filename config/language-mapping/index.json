@@ -1,86 +1,86 @@
 {
   "languageMapping": [
     {
-      "en": "/about",
-      "pt": "/sobre"
+      "en": "about",
+      "pt": "sobre"
     },
     {
-      "en": "/blog",
-      "pt": "/blog"
+      "en": "blog",
+      "pt": "blog"
     },
     {
-      "en": "/portfolio",
-      "pt": "/portfolio"
+      "en": "portfolio",
+      "pt": "portfolio"
     },
     {
-      "en": "/contact",
-      "pt": "/contato"
-    },
-
-    {
-      "en": "/blog/hello-world",
-      "pt": "/blog/hello-world"
-    },
-    {
-      "en": "/blog/which-type-of-frontend-devoloper-am-i",
-      "pt": "/blog/que-tipo-de-desenvolvedor-frontend-eu-sou"
-    },
-    {
-      "en": "/blog/why-i-decided-to-develop-my-blog-with-gatsbyjs",
-      "pt": "/blog/porque-eu-decidi-desenvolver-meu-blog-com-gatsbyjs"
-    },
-    {
-      "en": "/blog/6-powerful-css-techniques-you-can-use-instead-javascript",
-      "pt": "/blog/6-poderosas-tecnicas-de-css-ao-inves-de-javascript"
-    },
-    {
-      "en": "/blog/how-to-become-a-great-front-end-developer",
-      "pt": "/blog/como-se-tornar-um-otimo-desenvolvedor-front-end"
-    },
-    {
-      "en": "/blog/css-in-js-and-the-death-of-traditional-css",
-      "pt": "/blog/css-in-js-e-a-morte-do-css-tradicional"
-    },
-    {
-      "en": "/blog/tips-and-resources-on-how-to-improve-your-ui-design-skills",
-      "pt": "/blog/dicas-e-materiais-sobre-como-melhorar-suas-habilidades-de-ui-design"
-    },
-    {
-      "en": "/blog/automating-the-github-workflow-for-any-project",
-      "pt": "/blog/automatizando-o-workflow-do-github-para-qualquer-projeto"
-    },
-    {
-      "en": "/blog/inspiring-web-designers-and-developers-to-follow-on-twitter",
-      "pt": "/blog/web-designers-e-desenvolvedores-front-end-para-seguir-no-twitter"
-    },
-    {
-      "en": "/blog/automating-ui-tests-with-jest-and-react-testing-library",
-      "pt": "/blog/automatizando-testes-de-ui-com-jest-e-react-testing-library"
+      "en": "contact",
+      "pt": "contato"
     },
 
     {
-      "en": "/portfolio/code-in-the-dark",
-      "pt": "/portfolio/code-in-the-dark"
+      "en": "blog/hello-world",
+      "pt": "blog/hello-world"
     },
     {
-      "en": "/portfolio/callsource",
-      "pt": "/portfolio/callsource"
+      "en": "blog/which-type-of-frontend-devoloper-am-i",
+      "pt": "blog/que-tipo-de-desenvolvedor-frontend-eu-sou"
     },
     {
-      "en": "/portfolio/hcss",
-      "pt": "/portfolio/hcss"
+      "en": "blog/why-i-decided-to-develop-my-blog-with-gatsbyjs",
+      "pt": "blog/porque-eu-decidi-desenvolver-meu-blog-com-gatsbyjs"
     },
     {
-      "en": "/portfolio/galilee",
-      "pt": "/portfolio/galilee"
+      "en": "blog/6-powerful-css-techniques-you-can-use-instead-javascript",
+      "pt": "blog/6-poderosas-tecnicas-de-css-ao-inves-de-javascript"
     },
     {
-      "en": "/portfolio/nike",
-      "pt": "/portfolio/nike"
+      "en": "blog/how-to-become-a-great-front-end-developer",
+      "pt": "blog/como-se-tornar-um-otimo-desenvolvedor-front-end"
     },
     {
-      "en": "/portfolio/hp-life",
-      "pt": "/portfolio/hp-life"
+      "en": "blog/css-in-js-and-the-death-of-traditional-css",
+      "pt": "blog/css-in-js-e-a-morte-do-css-tradicional"
+    },
+    {
+      "en": "blog/tips-and-resources-on-how-to-improve-your-ui-design-skills",
+      "pt": "blog/dicas-e-materiais-sobre-como-melhorar-suas-habilidades-de-ui-design"
+    },
+    {
+      "en": "blog/automating-the-github-workflow-for-any-project",
+      "pt": "blog/automatizando-o-workflow-do-github-para-qualquer-projeto"
+    },
+    {
+      "en": "blog/inspiring-web-designers-and-developers-to-follow-on-twitter",
+      "pt": "blog/web-designers-e-desenvolvedores-front-end-para-seguir-no-twitter"
+    },
+    {
+      "en": "blog/automating-ui-tests-with-jest-and-react-testing-library",
+      "pt": "blog/automatizando-testes-de-ui-com-jest-e-react-testing-library"
+    },
+
+    {
+      "en": "portfolio/code-in-the-dark",
+      "pt": "portfolio/code-in-the-dark"
+    },
+    {
+      "en": "portfolio/callsource",
+      "pt": "portfolio/callsource"
+    },
+    {
+      "en": "portfolio/hcss",
+      "pt": "portfolio/hcss"
+    },
+    {
+      "en": "portfolio/galilee",
+      "pt": "portfolio/galilee"
+    },
+    {
+      "en": "portfolio/nike",
+      "pt": "portfolio/nike"
+    },
+    {
+      "en": "portfolio/hp-life",
+      "pt": "portfolio/hp-life"
     }
   ]
 }

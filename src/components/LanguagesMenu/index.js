@@ -30,7 +30,7 @@ const LanguagesMenu = () => {
       return hasUrl;
     });
 
-    if (!associatedUrls) return navigate('/');
+    if (!associatedUrls) return lang === 'en' ? navigate(`/`) : navigate(`/${lang}`);
 
     return lang === 'en'
       ? navigate(`/${associatedUrls[lang]}`)
