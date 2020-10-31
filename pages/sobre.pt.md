@@ -36,6 +36,10 @@ Além disso, também participei de fantásticos projetos open sources, como [Def
 - Soluções cross-browser, performance e SEO.
 - Desenvolvimento web e mobile - React, React Native e Node JS.
 - Mais tecnologias, como:
+  - Sotrybook
+  - Typescript
+  - REST and GraphQL
+  - Testing tools (Jest, Testing react library...)
   - GatsbyJS, NextJS e Wordpress
   - Webpack e Tasks Runners como Gulp
   - Vanilla JS e jQuery também
