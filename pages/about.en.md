@@ -36,7 +36,7 @@ I also have participated in amazing open source projects such as [Definitely Typ
 - Cross-browser solutions, performance and SEO.
 - Web and mobile solutions - React, React Native and Node JS.
 - More technologies, such as:
-  - Sotrybook
+  - Storybook
   - Typescript
   - REST and GraphQL
   - Testing tools (Jest, Testing react library...)
