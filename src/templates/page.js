@@ -136,6 +136,12 @@ const Page = props => {
             </a>
           </Text>
           <br />
+          <Text sizeSmall={2} sizeMedium={3} sizeLarge={4.5}>
+            <a href="tel:+353830932951">
+              +353 83 093 2951
+            </a>
+          </Text>
+          <br />
           <br />
           <LinksList listItems={socialMenuListItems} />
         </div>
