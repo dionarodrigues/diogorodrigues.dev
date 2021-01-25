@@ -7,7 +7,7 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/how-to-apply-emotional-design-in-your-projects.jpg'
 ---
 
-__When I started working with web development, I tried to learn a lot about design to create beautiful and attractive interfaces. And in the midst of these studies I came across a famous book called [Emotional Design: Why We Love (or Hate) Everyday Things](https://www.nngroup.com/books/emotional-design/) by [Donald Norman](https://jnd.org/about/), the person who coined the term “User Experience”. And this book has become the basis of all my projects since that time.__
+__When I started working with web development, I tried to learn a lot about design in order to create beautiful and attractive interfaces. And in the midst of these studies I came across a famous book called [Emotional Design: Why We Love (or Hate) Everyday Things](https://www.nngroup.com/books/emotional-design/) by [Donald Norman](https://jnd.org/about/), the person who coined the term “User Experience”. And this book has become the basis of all my projects since that time.__
 
 And I only made that book the foundation of my career because of emotions. Because I felt extremely happy to discover something really new for me at that time, because I was happy and completely connected with the book’s idea of making people happy through design.
 

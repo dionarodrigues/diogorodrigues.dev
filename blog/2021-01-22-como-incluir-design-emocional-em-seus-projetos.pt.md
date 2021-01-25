@@ -45,7 +45,7 @@ Baseado-se nos três níveis de Design Emocional, um bom produto digital precisa
 - __Crie uma marca forte e consistente__: use um tema exclusivo para destacar o design e oferecer uma ótima primeira impressão do produto. Crie um guia de estilo contendo as cores, ícones e fontes corretos para toda a comunicação visual do produto. [Veja alguns exemplos de guias de estilo aqui](http://styleguides.io/).
 - __Use humor e storytelling__: usando o bom humor, você pode transformar uma experiência negativa em positiva. Portanto, compartilhe informações de forma visual que estabeleça o entendimento e promova o engajamento. Use também a narrativa para despertar o desejo nos usuários: mostre uma parte do projeto antes do usuário se cadastrar, inclua depoimentos, números de sucesso...
 - __Preste atenção aos detalhes, especialmente em mensagens de erro__: encontre maneiras de evitar o tédio e a frustração dos usuários. Mostre mensagens educadas e bem-humoradas para aliviar quaisquer problemas.
-- __Coloque o usuário no controle da IU__: diferentes usuários têm personalidades diferentes, é por isso que os aplicativos personalizados fazem sucesso dependendo do produto. Portanto, dê poder aos usuários, permitindo que personalizem a interface. Mostre conteúdo personalizado de acordo com seus perfis, deixe-os decidir o que aparecerá na dashboard, deixe-os personalizar suas informações pessoais, mudar as cores do sistema... Manter os usuários no controle os deixa confortáveis.
+- __Coloque o usuário no controle da UI__: diferentes usuários têm personalidades diferentes, é por isso que os aplicativos personalizados fazem sucesso dependendo do produto. Portanto, dê poder aos usuários, permitindo que personalizem a interface. Mostre conteúdo personalizado de acordo com seus perfis, deixe-os decidir o que aparecerá na dashboard, deixe-os personalizar suas informações pessoais, mudar as cores do sistema... Manter os usuários no controle os deixa confortáveis.
 
 ## Conclusão
 
@@ -53,7 +53,7 @@ Baseado-se nos três níveis de Design Emocional, um bom produto digital precisa
 
 _Tradução: "Aprendi que as pessoas vão esquecer o que você disse, vão esquecer o que você fez, mas nunca vão esquecer como você as fez sentir."_
 
-A experiência é claramente importante. É tudo sobre emoções e como os usuários se sentem ao interagir com os produtos. E as emoções comandam a atenção, afetam a memória e dominam a tomada de decisões. Elas também comunicam personalidade e criam significado. Portanto, __design emocional é como as emoções podem desempenhar um papel importante no design__.
+A experiência, certamente, importa. É tudo sobre emoções e como os usuários se sentem ao interagir com os produtos. E as emoções comandam a atenção, afetam a memória e dominam a tomada de decisões. Elas também comunicam personalidade e criam significado. Portanto, __design emocional é como as emoções podem desempenhar um papel importante no design__.
 
 __Como front-end designers, é nossa responsabilidade entender os usuários e suas necessidades para fornecer boas experiências a eles__. Como projetar produtos que evocam emoções positivas e fazem o usuário se sentir bem é um grande desafio e espero que você tenha tido um bom entendimento inicial sobre este importante assunto.
 
