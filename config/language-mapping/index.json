@@ -69,6 +69,10 @@
       "en": "blog/what-i-have-learned-by-working-remotely-in-this-pandemic-period",
       "pt": "blog/o-que-aprendi-trabalhando-remotamente-neste-periodo-de-pandemia"
     },
+    {
+      "en": "blog/modern-starter-for-nextjs-applications-written-in-typescript-and-more",
+      "pt": "blog/moderno-boilerplate-para-projetos-nextjs-escritos-em-typescript-e-mais"
+    },
 
     {
       "en": "portfolio/code-in-the-dark",
