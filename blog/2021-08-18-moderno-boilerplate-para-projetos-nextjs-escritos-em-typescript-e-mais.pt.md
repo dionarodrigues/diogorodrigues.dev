@@ -7,7 +7,7 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/modern-starter-for-nextjs-applications-written-in-typescript-and-more.jpg'
 ---
 
-**Comecei a trabalhar com o React há alguns anos e ele ainda é minha tecnologia favorita para quase todos os sites que desenvolvo. Meu blog é desenvolvido com Gatsby (outro framework fantástico baseado em React), mas desde que tive minha primeira experiência com [Next.js](https://nextjs.org/) percebi que esta ferramenta faria parte de meus projetos futuros. E por causa disso eu criei este [moderno boilerplate para projetos Next.js](https://github.com/diogorodrigues/nextjs-typescript-starter)**
+**Comecei a trabalhar com o React há alguns anos e ele ainda é minha tecnologia favorita para quase todos os sites que desenvolvo. [Meu blog é desenvolvido com Gatsby](https://www.diogorodrigues.dev/pt/blog/porque-eu-decidi-desenvolver-meu-blog-com-gatsbyjs) (outro framework fantástico baseado em React), mas desde que tive minha primeira experiência com [Next.js](https://nextjs.org/) percebi que esta ferramenta faria parte de meus projetos futuros. E por causa disso eu criei este [moderno boilerplate para projetos Next.js](https://github.com/diogorodrigues/nextjs-typescript-starter)**
 
 ## Por que Next.js?
 
@@ -128,6 +128,6 @@ Verifique toda a configuração do Plop em `./generators`.
 
 ## Conclusão
 
-**Criar este boilerplate moderno para Next.js me fez aprender muito e tentei garantir que todas as configurações e ferramentas importantes que gosto de usar em meus projetos estão aqui. Espero que este starter seja útil para você também. Depois me diga se gostou, se pretende usar e se tem alguma sugestão.**
+**Criar este [boilerplate moderno para Next.js](https://github.com/diogorodrigues/nextjs-typescript-starter) me fez aprender muito e tentei garantir que todas as configurações e ferramentas importantes que gosto de usar em meus projetos estão aqui. Espero que este starter seja útil para você também. Depois me diga se gostou, se pretende usar e se tem alguma sugestão.**
 
 Até a próxima. 😁

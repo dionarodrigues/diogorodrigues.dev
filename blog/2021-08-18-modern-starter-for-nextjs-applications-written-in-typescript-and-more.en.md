@@ -7,7 +7,7 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/modern-starter-for-nextjs-applications-written-in-typescript-and-more.jpg'
 ---
 
-**I started working with React some years ago and it is still my go-to for almost every website that I build. My blog is developed with Gatsby (another fantastic framework based on React), but since I had my first experience with [Next.js](https://nextjs.org/) I realized that this tool would be part of my future projects. And because of this I created this [modern starter for Next.js applications](https://github.com/diogorodrigues/nextjs-typescript-starter).**
+**I started working with React some years ago and it is still my go-to for almost every website that I build. [My blog is developed with Gatsby](https://www.diogorodrigues.dev/blog/why-i-decided-to-develop-my-blog-with-gatsbyjs) (another fantastic framework based on React), but since I had my first experience with [Next.js](https://nextjs.org/) I realized that this tool would be part of my future projects. And because of this I created this [modern starter for Next.js applications](https://github.com/diogorodrigues/nextjs-typescript-starter).**
 
 ## Why Next.js?
 
@@ -124,6 +124,6 @@ Check all the configuration for Plop in `./generators`.
 
 ## Conclusion
 
-**Creating this modern boilerplate for Next.js made me learn a lot and I tried to ensure that all the important settings and tools I like to use in my projects are here. I hope this starter is useful for you too. Tell me if you liked it, if you intend to use it and if you have any suggestions.**
+**Creating this [modern boilerplate for Next.js](https://github.com/diogorodrigues/nextjs-typescript-starter) made me learn a lot and I tried to ensure that all the important settings and tools I like to use in my projects are here. I hope this starter is useful for you too. Tell me if you liked it, if you intend to use it and if you have any suggestions.**
 
 See you next time. 😁
