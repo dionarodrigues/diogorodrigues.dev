@@ -30,7 +30,7 @@
     "gatsby-plugin-transition-link": "^1.18.0",
     "gatsby-remark-autolink-headers": "^2.3.7",
     "gatsby-remark-classes": "^1.0.0",
-    "gatsby-remark-custom-blocks": "^2.3.0",
+    "gatsby-remark-custom-blocks": "^2.10.0",
     "gatsby-remark-embedder": "^2.1.1",
     "gatsby-remark-images": "^3.1.25",
     "gatsby-remark-lazy-load": "^1.0.2",
