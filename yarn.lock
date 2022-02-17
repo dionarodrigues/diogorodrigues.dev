@@ -3919,10 +3919,10 @@ babel-plugin-remove-graphql-queries@^2.9.20:
   resolved "https://registry.yarnpkg.com/babel-plugin-remove-graphql-queries/-/babel-plugin-remove-graphql-queries-2.9.20.tgz#69ad42efdb3b4340992080afba101d2d1a2843b2"
   integrity sha512-FB4tIvdXaGFBFhHAzlqB0NxVA5BcjzVYbY8ut7ProStW3cjv208ADMlfzmPdSP/I1Z0wl2MrXgHNCrL1TQ/Mew==
 
-babel-plugin-root-import@^6.4.1:
-  version "6.5.0"
-  resolved "https://registry.yarnpkg.com/babel-plugin-root-import/-/babel-plugin-root-import-6.5.0.tgz#ac4016426b5d36c48127c73ad199fa72c9ff8817"
-  integrity sha512-PTD8fPl4v1kwn01u9d4rgRavDs5Z+jv4qa4/y6iYtoSgM4/xmjwMqo66j5A/BTZQEMA6OV5iFgyZ1PIhroJqqg==
+babel-plugin-root-import@^6.4.1, babel-plugin-root-import@^6.5.0:
+  version "6.6.0"
+  resolved "https://registry.yarnpkg.com/babel-plugin-root-import/-/babel-plugin-root-import-6.6.0.tgz#85940840f308a8c292f66ca0b5bdd314046273ed"
+  integrity sha512-SPzVOHd7nDh5loZwZBxtX/oOu1MXeKjTkz+1VnnzLWC0dk8sJIGC2IDQ2uWIBjE5mUtXlQ35MTHSqN0Xn7qHrg==
   dependencies:
     slash "^3.0.0"
 
@@ -8383,11 +8383,13 @@ gatsby-plugin-styled-components@^3.1.8:
   dependencies:
     "@babel/runtime" "^7.11.2"
 
-gatsby-plugin-transition-link@^1.18.0:
-  version "1.20.2"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-transition-link/-/gatsby-plugin-transition-link-1.20.2.tgz#f40b36e19352e62d092b2c5e3304a53f2ca556fa"
-  integrity sha512-WrztqNuWfm/t3QOOPckN61BqL2zmyYHqBo3AYc5o609hwVA+v5bZb4APy2mppCBX6B6Bs3wvr25vMFSvmj87iA==
+gatsby-plugin-transition-link@^1.20.5:
+  version "1.20.5"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-transition-link/-/gatsby-plugin-transition-link-1.20.5.tgz#c4e8ca7b69dee029436b67964f8915f2a46090ee"
+  integrity sha512-0Hm//+hgVv3fDpKtZiTVfNqaVBrYwbVeE22auCwqBgaoluGkRZbr9IrOrJyhM5OZU5hIjuZmxvHNuLu4UfagQg==
   dependencies:
+    "@babel/plugin-proposal-private-methods" "^7.12.1"
+    babel-plugin-root-import "^6.5.0"
     babel-preset-gatsby-package "^0.1.2"
     color-convert "^1.9.3"
     json-bump "^0.1.3"
