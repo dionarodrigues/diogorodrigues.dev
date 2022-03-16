@@ -118,7 +118,7 @@ Essa costumava ser uma extensão útil para arquivos JS porque ela adicionava co
 
 **Melhorar a produtividade talvez seja a principal preocupação dos desenvolvedores e aqui mostrei todas as extensões do VSCode que tenho usado para qualquer projeto que eu trabalho.**
 
-Você usa alguma outra extensão do VSCode?
+**Você usa alguma outra extensão do VSCode?**
 
 Por favor, sinta-se à vontade para deixar um comentário se você gostou deste artigo e também se você tiver outras sugestões.
 

@@ -7,13 +7,13 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/best-vscode-extensions-i-use-for-any-project.jpg'
 ---
 
-**I recently changed my old dell laptop for a Macbook pro (I'm writing an article about it) and decided to take the opportunity to review all the extensions I've been using in VSCode and create a post to help you who are looking for ways to also improve your code editor well.**
+**I recently changed my old dell laptop for a Macbook pro (I'm writing an article about it) and decided to take the opportunity to review all the extensions I've been using in VSCode and create a post to help you who are looking for ways to also improve your code editor too.**
 
 ## List of the best VSCode extensions I use to improve my productivity
 
 ### [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-Nowadays we are developing projects built on tools like react and angular that use Node to run them, but **sometimes we just want a server to handle static files. And because of this, Live Server is one of my favorite VS Code extensions to improve my productivity**.
+Nowadays we are developing projects built on tools like react and angular that use Node to run them, but **sometimes we just want a server to handle static files. And because of this, Live Server is one of my favorite VSCode extensions to improve my productivity**.
 
 And besides allowing you to open static HTML files on a local server, it also works as a live reload server, which means that as soon as you change and save any file in your application, the browser will automatically refresh.
 
@@ -43,9 +43,9 @@ I really recommend you to watch this [video to understand how to configure Prett
 
 ### [Advanced new file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file)
 
-**This VS Code extension really helps me a lot to improve my productivity by providing a way to create files anywhere in my project workspace from my keyboard.** So by pressing Ctrl/Cmd + N instead of just creating a new file to be saved somewhere later, the editor first asks me which directory I want to put this new file in, then I set a name for the file and consequently it will already be created in the correct place.
+**This VS Code extension really helps me a lot to improve my productivity by providing a way to create files anywhere in my project workspace from my keyboard.** So by pressing `Ctrl/Cmd + N` instead of just creating a new file to be saved somewhere later, the editor first asks me which directory I want to put this new file in, then I set a name for the file and consequently it will already be created in the correct place.
 
-Note: to enable this feature in the Ctrl/Cmd + N command, you must change the keyboard shortcuts named 'New Advanced File' in the editor settings. If not, you need to check the default command in the extension's documentation.
+Note: to enable this feature in the `Ctrl/Cmd + N` command, you must change the keyboard shortcuts named 'New Advanced File' in the editor settings. If not, you need to check the default command in the extension's documentation.
 
 ### [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
@@ -69,7 +69,7 @@ Dark theme makes my life much easier and there are a lot of benefits using it: i
 
 **This isn't an extension, but it's another great thing I like to do: change my editor's font family.** There are two wonderful and functional fonts I like best for this: [Fira Code](https://github.com/tonsky/FiraCode) and [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) - both free and open source. The best thing about these fonts is that they are monospaced fonts that contain ligatures for combinations of various common programming characters.
 
-After downloading and installing any of the above fonts (.ttf format), you just need to add the following configuration in the editor's setting.json file:
+After downloading and installing any of the above fonts (.ttf format), you just need to add the following configuration in the editor's `setting.json` file:
 
 ```
   "editor.fontFamily": "JetBrains Mono",
@@ -116,7 +116,7 @@ This used to be a useful extension for JS files because it colorizes the bracket
 
 **Improving productivity is perhaps the main concern of developers and here I have shown all the VSCode extensions that I have been using for any project I work on.**
 
-Do you use any other VSCode extension?
+**Do you use any other VSCode extension?**
 
 Please feel free to leave a comment if you liked this article and also if you have other suggestions.
 
