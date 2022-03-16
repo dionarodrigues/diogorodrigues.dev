@@ -37,7 +37,7 @@ On [editorconfig.org](https://editorconfig.org/) you can read how you can use it
 
 ### [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-Another great way to format your code and maintain consistency between files is by using this extension. **Prettier can works together with [EditorConfig](<(https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)>) adding many other configurations such as removing unnecessary spaces and ensuring the use of single or double quotes through the code, for example.**
+Another great way to format your code and maintain consistency between files is by using this extension. **Prettier can works together with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) adding many other configurations such as removing unnecessary spaces and ensuring the use of single or double quotes through the code, for example.**
 
 I really recommend you to watch this [video to understand how to configure Prettier in VSCode](https://www.youtube.com/watch?v=h3PJjP0nE98&ab_channel=JamesQQuick). And make sure you set this extension to work on saving the files.
 

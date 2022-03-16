@@ -37,7 +37,7 @@ Em [editorconfig.org](https://editorconfig.org/) você pode ver como você pode 
 
 ### [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-Outra ótima maneira de formatar seu código e manter a consistência entre os arquivos é usando essa extensão. **Prettier pode funcionar em conjunto com o [EditorConfig](<(https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)>) adicionando muitas outras configurações, como remover espaços desnecessários e garantir o uso de aspas simples ou duplas no código, por exemplo.**
+Outra ótima maneira de formatar seu código e manter a consistência entre os arquivos é usando essa extensão. **Prettier pode funcionar em conjunto com o [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) adicionando muitas outras configurações, como remover espaços desnecessários e garantir o uso de aspas simples ou duplas no código, por exemplo.**
 
 Eu realmente recomendo que você assista este [vídeo para entender como configurar o Prettier no VSCode](https://www.youtube.com/watch?v=h3PJjP0nE98&ab_channel=JamesQQuick). E certifique-se de definir esta extensão para funcionar no salvamento dos arquivos.
 
