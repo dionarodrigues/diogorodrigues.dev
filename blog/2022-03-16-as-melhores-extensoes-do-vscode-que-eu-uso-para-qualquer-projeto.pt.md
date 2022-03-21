@@ -101,7 +101,7 @@ Então, divirta-se muito. 😁
 
 Depois de instalar essa extensão você só precisa abrir sua paleta de comandos (`Ctrl/Cmd + Shift + P`) e procurar por “Polacode”. Uma vez aberto, tudo o que você precisa fazer é selecionar algum código em seu arquivo e essa ferramenta mostrará uma captura de tela que você poderá modificar alguns de seus atributos e gerar uma imagem a partir dela.
 
-### DotENV
+### [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 
 **Alguns projetos possuem um arquivo chamado `.env` para gerenciar suas variáveis de ambiente, então essa extensão adiciona alguns estilos a esse tipo de arquivo tornando-o mais legível.**
 
