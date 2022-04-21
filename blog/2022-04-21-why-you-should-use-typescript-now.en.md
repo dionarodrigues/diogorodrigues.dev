@@ -1,7 +1,7 @@
 ---
 title: 'Why you should use Typescript now'
 date: '2022-04-21 01:21:23'
-description: I just finished a crash course to update my knowledge on the main features of Typescript and I really want to share with you why all javascript developers should use this language as soon as possible. And I hope to make you as fascinated by TS as I am.
+description: I just finished a crash course to update my knowledge on the main features of Typescript and I really want to share with you why all JavaScript developers should use this language as soon as possible. And I hope to make you as fascinated by TS as I am.
 category: 'Development'
 background: '#353b48'
 featuredImage: '/assets/img/blog/why-you-should-learn-typescript.jpg'

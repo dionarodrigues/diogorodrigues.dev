@@ -1,7 +1,7 @@
 ---
 title: 'Porque você deveria usar Typescript agora'
 date: '2022-04-21 01:21:23'
-description: Acabei de terminar um curso rápido para atualizar meus conhecimentos sobre os principais recursos do Typescript e quero compartilhar com vocês porque todos os desenvolvedores de javascript devem usar essa linguagem o mais rápido possível. E espero deixá-los tão fascinados por TS quanto eu sou.**
+description: Acabei de terminar um curso rápido para atualizar meus conhecimentos sobre os principais recursos do Typescript e quero compartilhar com vocês porque todos os desenvolvedores de JavaScript devem usar essa linguagem o mais rápido possível. E espero deixá-los tão fascinados por TS quanto eu sou.**
 category: 'Development'
 background: '#353b48'
 featuredImage: '/assets/img/blog/why-you-should-learn-typescript.jpg'
