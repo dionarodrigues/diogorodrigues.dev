@@ -1,7 +1,7 @@
 ---
-title: 'Porque você deveria aprender Typescript agora'
+title: 'Porque você deveria use Typescript agora'
 date: '2022-04-21 01:21:23'
-description: Acabei de terminar um curso rápido para atualizar meus conhecimentos sobre os principais recursos do Typescript e quero compartilhar com vocês porque todos os desenvolvedores de javascript devem aprender essa linguagem o mais rápido possível. E espero deixá-los tão fascinados por TS quanto eu sou.**
+description: Acabei de terminar um curso rápido para atualizar meus conhecimentos sobre os principais recursos do Typescript e quero compartilhar com vocês porque todos os desenvolvedores de javascript devem usar essa linguagem o mais rápido possível. E espero deixá-los tão fascinados por TS quanto eu sou.**
 category: 'Development'
 background: '#353b48'
 featuredImage: '/assets/img/blog/why-you-should-learn-typescript.jpg'
@@ -51,11 +51,11 @@ Além disso, o TS também vem com vários outros recursos que facilitam muito no
 
 Bem, em 2019 [AirBnb afirmou que 38% dos bugs poderiam ter sido evitados pelo TypeScript](https://twitter.com/swyx/status/1093670844495089664).
 
-De acordo com a [pesquisa State of JS de 2021](https://2021.stateofjs.com/en-US/other-tools/#javascript_flavors) (e também de [2022](https://2020.stateofjs.com/en-US/technologies/javascript-flavors/#javascript_flavors_experience_ranking)), Typescript tem sido um grande sucesso entre os desenvolvedores JS.
+De acordo com a [pesquisa State of JS de 2021](https://2021.stateofjs.com/en-US/other-tools/#javascript_flavors) (e também de [2020](https://2020.stateofjs.com/en-US/technologies/javascript-flavors/#javascript_flavors_experience_ranking)), Typescript tem sido um grande sucesso entre os desenvolvedores JS.
 
 A [pesquisa do StackOverflow de 2021](https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-programming-scripting-and-markup-languages) mostra que Typescript é uma das linguagens mais amadas.
 
-Esse outro [relatório de 2021 feito pelo Github](https://octoverse.github.com/#geographical-distribution-of-active-users) mostra Typescript como uma das principais linguagens ao longo dos anos.
+Esse outro [relatório de 2021 feito pelo Github](https://octoverse.github.com/#top-languages-over-the-years) mostra Typescript como uma das principais linguagens ao longo dos anos.
 
 Mês passado, a [Microsoft publicou uma proposta para adicionar sintaxe de tipo diretamente ao JavaScript](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/). E aqui você pode conferir sua [proposta de tipos em formato de comentários no Github](https://github.com/tc39/proposal-type-annotations).
 

@@ -1,7 +1,7 @@
 ---
-title: 'Why you should learn Typescript now'
+title: 'Why you should use Typescript now'
 date: '2022-04-21 01:21:23'
-description: I just finished a crash course to update my knowledge on the main features of Typescript and I really want to share with you why all javascript developers should learn this language as soon as possible. And I hope to make you as fascinated by TS as I am.
+description: I just finished a crash course to update my knowledge on the main features of Typescript and I really want to share with you why all javascript developers should use this language as soon as possible. And I hope to make you as fascinated by TS as I am.
 category: 'Development'
 background: '#353b48'
 featuredImage: '/assets/img/blog/why-you-should-learn-typescript.jpg'
@@ -47,11 +47,11 @@ And in addition, TS also comes with a bunch of other features that make our life
 
 Well, in 2019 [AirBnb claimed 38% of bugs could have been prevented by TypeScript](https://twitter.com/swyx/status/1093670844495089664).
 
-According to [2021 State of JS survey](https://2021.stateofjs.com/en-US/other-tools/#javascript_flavors) (and [2022](https://2020.stateofjs.com/en-US/technologies/javascript-flavors/#javascript_flavors_experience_ranking)), Typescript has been highly successful among JS developers.
+According to [2021 State of JS survey](https://2021.stateofjs.com/en-US/other-tools/#javascript_flavors) (and [2020](https://2020.stateofjs.com/en-US/technologies/javascript-flavors/#javascript_flavors_experience_ranking)), Typescript has been highly successful among JS developers.
 
 The [StackOverflow survey of 2021](https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-programming-scripting-and-markup-languages) shows Typescript is one of the most loved languages.
 
-This another [report of 2021 from Github](https://octoverse.github.com/#geographical-distribution-of-active-users) shows Typescript as one of the top languages over the years.
+This another [report of 2021 from Github](https://octoverse.github.com/#top-languages-over-the-years) shows Typescript as one of the top languages over the years.
 
 Last month, [Microsoft published a proposal to add type sintaxe directly to JavaScript](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/). And here you can check its [proposal of types as comments on Github](https://github.com/tc39/proposal-type-annotations).
 
@@ -74,7 +74,7 @@ Taking the course above I developed this [small project to try out all the Types
 
 **The bigger the project, the greater the need to use Typescript.**
 
-As a Typescript fan, I think it is a language that is being mandatory for most of the larger JavaScript projects nowadays because of the benefits I explained in this article. If you know JS, the learning curve will be minimal and I'm sure you'll see how amazing it is.
+As a fan of Typescript, I think it's a language that's being mandatory for most big JavaScript projects these days because of the benefits explained in this article. If you know JavaScript, the learning curve will be minimal and I'm sure you'll see how amazing it is to use.
 
 Using Typescript doesn't mean that the code will never have bugs, but most of them will be caught before runtime, which will greatly improve the productivity of the team.
 
