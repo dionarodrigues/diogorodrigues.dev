@@ -43,7 +43,7 @@ And in addition, TS also comes with a bunch of other features that make our life
 [[media]]
 | ![Typescript compiler infographic](/assets/img/blog/typescrit-compiler.jpg)
 
-## Why should you learn Typescript?
+## Why should you start using Typescript now?
 
 Well, in 2019 [AirBnb claimed 38% of bugs could have been prevented by TypeScript](https://twitter.com/swyx/status/1093670844495089664).
 
@@ -66,9 +66,9 @@ Last month, [Microsoft published a proposal to add type sintaxe directly to Java
 - IDE support with code navigation and autocompletion
 - And more
 
-I really recommend [learn more about Typescript by reading its documentation](https://www.typescriptlang.org/docs/handbook/intro.html) and taking this [crash TS course](https://www.udemy.com/course/understanding-typescript/) if you prefer learn on this way.
+I hope I have convinced you that TS is very powerful and useful. But if you haven't learned this language yet, I really recommend [learn more about Typescript by reading its documentation](https://www.typescriptlang.org/docs/handbook/intro.html) and taking this [crash TS course](https://www.udemy.com/course/understanding-typescript/) if you prefer learn on this way.
 
-Taking the course above I developed this [small project to try out all the Typescript features I learned and also explored a lot of Class and Decorators](https://github.com/diogorodrigues/labs/tree/master/typescript). Feel free to take a look at my Github.
+Taking the course above I developed this [small project to try out all the Typescript features I learned and also explored a lot of Classes and Decorators](https://github.com/diogorodrigues/labs/tree/master/typescript). Feel free to take a look at it on my Github.
 
 ## Conclusion
 

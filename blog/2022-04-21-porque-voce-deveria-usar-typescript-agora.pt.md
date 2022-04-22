@@ -47,7 +47,7 @@ Além disso, o TS também vem com vários outros recursos que facilitam muito no
 [[media]]
 | ![Typescript compiler infographic](/assets/img/blog/typescrit-compiler.jpg)
 
-## Por que você deveria aprender Typescript?
+## Por que você deveria começar a usar Typescript agora?
 
 Bem, em 2019 [AirBnb afirmou que 38% dos bugs poderiam ter sido evitados pelo TypeScript](https://twitter.com/swyx/status/1093670844495089664).
 
@@ -70,9 +70,9 @@ Mês passado, a [Microsoft publicou uma proposta para adicionar sintaxe de tipo 
 - Suporte ao IDE com code navigation e autocompletion
 - E mais
 
-Eu fortemente recomendo [aprender mais sobre o Typescript lendo sua documentação](https://www.typescriptlang.org/docs/handbook/intro.html) e fazendo esse [curso rárpido de TS](https://www.udemy.com/course/understanding-typescript/) se você preferir aprender desta forma.
+Espero tê-lo convencido de que o TS é muito poderoso e útil. Mas se você ainda não aprendeu essa linguagem, eu fortemente recomendo [aprender mais sobre o Typescript lendo sua documentação](https://www.typescriptlang.org/docs/handbook/intro.html) e fazendo esse [curso rárpido de TS](https://www.udemy.com/course/understanding-typescript/) se você preferir aprender desta forma.
 
-Fazendo o curso acima, desenvolvi este [pequeno projeto para experimentar todos os recursos do Typescript que aprendi e também explorei muito Class e Decorators](https://github.com/diogorodrigues/labs/tree/master/typescript). Fique a vontade para dar uma olhada no meu Github.
+Fazendo o curso acima, desenvolvi este [pequeno projeto para experimentar todos os recursos do Typescript que aprendi e também explorei muito Classes e Decorators](https://github.com/diogorodrigues/labs/tree/master/typescript). Fique a vontade para dar uma olhada nele no meu Github.
 
 ## Conclusão
 
