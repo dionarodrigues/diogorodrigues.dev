@@ -1,6 +1,6 @@
 ---
 title: 'How to become a great front-end developer'
-date: '2020-06-23 10:00:00'
+date: '2022-04-26 10:00:00'
 description: "If you think about being a front-end developer or even if you have many years of experience in the front-end development area, the following questions may sometimes come to your mind: 'How to become a great front-end developer?' or 'What do I need to learn to specialize in front-end development'? In this article, I’ll show you a few things to keep in mind to get those answers."
 category: Career
 background: '#353b48'
@@ -54,7 +54,7 @@ This is certainly a great advice from [Front-end Developer Handbook 2019](https:
 
 There are a lot of ways to learn it. You can use free or payed platforms, such as:
 
-- [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#4)
+- [Web.dev](https://web.dev/)
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - [Pluralsight](https://www.pluralsight.com/codeschool)
@@ -68,7 +68,6 @@ You can learn JavaScript from [Mozilla docs](https://developer.mozilla.org/en-US
 
 If you are someone who loves reading from books then [EloquentJavaScript](https://eloquentjavascript.net/) will be a great choice.
 
-
 ### Learn some basic design principles
 
 It may be a controversial point because some front-end developers don´t believe they are able to learn design or some think that they don´t need design skills. But I have the following thought about it:
@@ -81,13 +80,12 @@ You should be able to question the logic behind a UI and UX decision because you
 
 > “[Design principles](https://www.interaction-design.org/literature/topics/design-principles) are fundamental pieces of advice for you to make easy-to-use, pleasurable designs.” - IDF
 
-
 Some of important design principles I think every front-end developer needs to know:
 
 - **[Gestalt](https://www.interaction-design.org/literature/topics/gestalt-principles)**: this is a set of psychology principles that focus on how human minds organize complex images when we perceive objects and how they help us to understand the world. We can use it to organize the content on the interfaces in order to create a pleasant aesthetic and something easy to understand.
 - **[Don’t Make Me Think by Steve Krung](https://www.interaction-design.org/literature/article/don-t-make-me-think-key-learning-points-for-ux-design-for-the-web)**: it´s not necessarily a design principle, but it's a great guide for user experience improvements in a very simple and accessible way.
 - **[Visual Hierarchy](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)**: an important part of effective design is being able to guide users' eyes in order to help them find what they’re looking for easily.
-- **[Emotional Design by Donald Norman](https://www.interaction-design.org/literature/topics/emotional-design)**: It's about understanding why people love (or hate) our products and services. One of my best readings.
+- **[Emotional Design by Donald Norman](https://www.diogorodrigues.dev/blog/how-to-apply-emotional-design-in-your-projects)**: It's about understanding why people love (or hate) our products and services. One of my best readings.
 - And there are many [more design principles](https://principles.design/) that you can learn over time.
 
 ## PHASE 02 - Intermediate Level of Front-end development
@@ -106,25 +104,25 @@ Building larger projects and working with different teams require you have more 
 
 - **Package Managers**: learn what´s [npm](https://www.npmjs.com/) and [yarn](https://yarnpkg.com/) and how to use them into your projects will give you much more power. 😎
 
-- **Write better CSS**: the state of how to work with CSS is changing because of modern frameworks and CSS-in-JS, but it's important you learn  about CSS Architecture like [BEM](http://getbem.com/introduction/) (or [OOCSS](http://oocss.org/)) and CSS Preprocessors (such as [Sass](https://sass-lang.com/) and [PostCSS](https://postcss.org/)). You´ll still use them for building simple websites.
+- **Write better CSS**: the state of how to work with CSS is changing because of modern frameworks and CSS-in-JS, but it's important you learn about CSS Architecture like [BEM](http://getbem.com/introduction/) (or [OOCSS](http://oocss.org/)) and CSS Preprocessors (such as [Sass](https://sass-lang.com/) and [PostCSS](https://postcss.org/)). You´ll still use them for building simple websites.
 
-- **CSS Frameworks**: Creating a responsive design from scratch for every project can be time-consuming. For this reason and because it's always important having good documentation about the code, CSS frameworks help us a lot. My suggestion is to play with [Bootstrap](https://getbootstrap.com/), [Material UI](https://material.io/) and [Bulma](https://bulma.io/) frameworks. Just have fun building amazing interfaces and share them in your Github 👌.
+- **CSS Frameworks**: Creating a responsive design from scratch for every project can be time-consuming. For this reason and because it's always important having good documentation about the code, CSS frameworks help us a lot. My suggestion is to play with [Tailwind CSS](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/) and [Material UI](https://material.io/) frameworks. Just have fun building amazing interfaces and share them in your Github 👌.
 
-- **Build tools**: this phase is a little more complex because you will need to go deeper into JavaScript. Learn about [Webpack](https://webpack.js.org/), understand what is [Babel](https://babeljs.io/) and why you should use them. And lastly learn how to lint your code using [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/). For me it's going to be the last step before moving to advanced learning.
+- **Build tools**: this phase is a little more complex because you will need to go deeper into JavaScript. Learn about [Webpack](https://webpack.js.org/) and also how to lint your code using [ESLint](https://eslint.org/) and format it using [Prettier](https://prettier.io/). For me it's going to be the last step before moving to advanced learning.
 
 ## PHASE 03 - Advanced Level of Front-end development
 
-Now it's time to become a great front-end developer and have lots of opportunities around the world. Here, you will be able to cover all trends in terms of front-end development - such as React Framework, Typescript, GraphQL, APIs with NodeJS, Mobile and Desktop applications ...
+Now it's time to become a great front-end developer and have lots of opportunities around the world. Here, you will be able to cover all trends in terms of front-end development - such as React Framework, Typescript, GraphQL, APIs with NodeJS, Mobile and Desktop applications...
 
 At this point, there are many things to learn and my advice is: stay calm. I know you want to learn everything quickly, but keep enjoying the journey. :)
 
 ### Learn advanced Javascript first
 
-According to [StackOverflow survey](https://insights.stackoverflow.com/survey/2020#most-popular-technologies), JavaScript is the most popular programming language in 2020:
+According to [StackOverflow survey of 2021](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-programming-scripting-and-markup-languages), JavaScript is the most popular programming language:
 
->“Unsurprisingly, for the eighth year in a row, JavaScript has maintained it's stronghold as the most commonly used programming language.” -[StackOverflow survey](https://insights.stackoverflow.com/survey/2020#most-popular-technologies)
+> “JavaScript completes its ninth year in a row as the most commonly used programming language. For most developers, programming is web programming.” -[StackOverflow survey](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-programming-scripting-and-markup-languages)
 
-[JavaScript is also the language with the most active repositories in Github](https://githut.info/).
+[JavaScript is also the language with the most active repositories in Github](https://githut.info/). And this another [Github report called Octoverse](https://octoverse.github.com/#top-languages-over-the-years), JavaScript also proves to be one of the top languages over the years.
 
 This means that you, as a front-end developer, must learn advanced JavaScript, because there is much more to front-end development than building simple websites.
 
@@ -134,11 +132,11 @@ You can create amazing interactions on websites using JS - like sliders, tabs, m
 
 ### Pick a modern JS framework
 
-Now it’s time to get involved with certain frameworks. There are multiple options but [one of the most famous web frameworks of these days is React](https://insights.stackoverflow.com/survey/2020#technology-web-frameworks) (but you can also learn Angular or Vue).
+Now it’s time to get involved with certain frameworks. There are multiple options but [one of the most famous web frameworks of these days is React](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks) (but you can also learn Angular or Vue).
 
-[React](https://reactjs.org/) allows you to write reusable components for modern interactive web applications.  So, learn React fundamentals, then learn about [CSS-in-JS](https://cssinjs.org/), [Styled Components](https://styled-components.com/) and [CSS modules](https://programmingwithmosh.com/react/css-modules-react/).
+[React](https://reactjs.org/) allows you to write reusable components for modern interactive web applications. So, learn React fundamentals, then learn about [CSS-in-JS](https://cssinjs.org/), [Styled Components](https://styled-components.com/) and [CSS modules](https://programmingwithmosh.com/react/css-modules-react/).
 
-React is a huge system and you will be able to be on the top of the most used tools of this time: [GatsbyJS](https://www.gatsbyjs.org/), [NextJS](https://nextjs.org/) and Mobile Apps with [React Native](https://reactnative.dev/), for instance.
+React is a huge system and you will be able to be on the top of the most used tools of this time: [NextJS](https://nextjs.org/), [GatsbyJS](https://www.gatsbyjs.org/) and Mobile Apps with [React Native](https://reactnative.dev/), for instance.
 
 ### Keep learning
 
@@ -151,11 +149,10 @@ Some things I find very interesting:
 - Learn [PWA (Progressive Web Apps)](https://web.dev/progressive-web-apps/)
 - Master [TypeScript](https://www.typescriptlang.org/)
 - Understand what´s [GraphQL](https://graphql.org/)
-- Play with [GatsbyJS](https://www.gatsbyjs.org/) and [NextJS](https://nextjs.org/)
+- Play with [NextJS](https://nextjs.org/) and [GatsbyJS](https://www.gatsbyjs.org/)
 
 Some links to help you:
 
-- [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Stack Overflow Survey](https://insights.stackoverflow.com/survey/)
 - [CSS Survey](https://stateofcss.com/)
 - [JS Survey](https://stateofjs.com/)
@@ -163,11 +160,10 @@ Some links to help you:
 Here is a [complete roadmap](https://roadmap.sh/frontend) you can use as reference:
 
 [[media]]
-| ![Front-end roadmap](/assets/img/blog/how-to-become-a-great-front-end-developer-roadmap.png)
+| ![Front-end roadmap](/assets/img/blog/frontend-development-rodamap-2022.png)
 
 Don't be intimidated and, again: stay calm and enjoy the trip.
 
 ✨Get involved with open source projects and make sure that you practice a lot instead of just reading the theory. ✌
 
 Thanks for reading this article so far and let me know if you have more tips about the fantastic journey to be a great front-end developer. 😍
-
