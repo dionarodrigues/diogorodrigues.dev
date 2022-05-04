@@ -19,6 +19,8 @@ Before we jump into the Fetch API, let’s understand some JavaScript concepts (
 
 By default, **JavaScript works synchronously as a single-threaded programming language**, which means that one process must complete before another starts. **However, there are a few ways to ensure processes work together at the same time in JS by making our code asynchronous.**
 
+For ease of understanding, let's imagine that you go to a pizzeria to order a pizza. The attendant takes your order and delivers it to the kitchen. **Synchronously**, the attendant have to wait until your pizza is cooked, bring it to you, and then go to another customer to take another order, waiting for their pizza get ready and so on. As you can see, it’s not a good approach. On another hand, **asynchronously**, the attendant doesn’t need to wait for the pizza get ready to move to the next customer, they just simply moves to another customer taking more orders and delivering them to the kitchen as the pizzas get ready to be delivered to customers. This is the difference between a synchronous and asynchronous systems.
+
 ### Callback functions
 
 One of the oldest and most common ways of dealing with asynchronous code in JS is to use callback functions. **It's a JS concept to say a function: "wait to run in the future, not now".** And there are many ways to implement it, for example when we need to get some external data and wait for the server to respond then do another thing. This is where AJAX comes into play, and jQuery makes it easy by using its library's `$.ajax()` method.
