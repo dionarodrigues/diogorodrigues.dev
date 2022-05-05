@@ -19,6 +19,9 @@ Antes de entrarmos na Fetch API, vamos entender alguns conceitos de JavaScript (
 
 Por padrão, **JavaScript funciona de forma síncrona como uma linguagem de programação de thread único**, o que significa que um processo deve ser concluído antes que outro seja iniciado. **No entanto, existem algumas maneiras de garantir que os processos funcionem juntos ao mesmo tempo em JS, tornando nosso código assíncrono.**
 
+[[media]]
+| ![Async Javascript Illustration](/assets/img/blog/async-javascript-illustration.jpg)
+
 Para facilitar o entendimento, vamos imaginar que você vá a uma pizzaria pedir uma pizza. O atendente pega seu pedido e entrega na cozinha. **Sincronicamente**, o atendente tem que esperar até que sua pizza esteja assada, trazê-la até você, e então vai até outro cliente para fazer outro pedido, então aguardar a pizza ficar pronta e assim por diante. Como você pode ver, não é uma boa abordagem. Por outro lado, **de forma assíncrona**, o atendente não precisa esperar a pizza ficar pronta para passar para o próximo cliente, ele simplesmente vai para outro cliente recebendo mais pedidos e entregando na cozinha conforme as pizzas ficam prontas para serem entregues aos clientes. Esta é a diferença entre um sistema síncrono e assíncrono.
 
 ### Funções de Callback
