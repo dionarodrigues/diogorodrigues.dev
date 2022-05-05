@@ -113,14 +113,12 @@ Outra maneira de usar try/catch com funções assíncronas é manipular o `catch
 
 ```js
 async function getUserData() {
-    const response = await fetch('https://api.github.com/users/diogorodrigues')
-    const data = await response.json()
-    console.log(data)
+  const response = await fetch('https://api.github.com/users/diogorodrigues');
+  const data = await response.json();
+  console.log(data);
 }
 
-getUserData.catch(err) {
-    console.log(err)
-  }
+getUserData.catch(err => console.log(err));
 ```
 
 ## Referências
