@@ -26,7 +26,11 @@ For ease of understanding, let's imagine that you go to a pizzeria to order a pi
 
 ### Callback functions
 
-One of the oldest and most common ways of dealing with asynchronous code in JS is to use callback functions. **It's a JS concept to say a function: "wait to run in the future, not now".** And there are many ways to implement it, for example when we need to get some external data and wait for the server to respond then do another thing. This is where AJAX comes into play, and jQuery makes it easy by using its library's `$.ajax()` method.
+One of the oldest and most common ways of dealing with asynchronous code in JS is to use callback functions. **It's a JS concept to say a function: "wait to run in the future, not now".**
+
+> A callback function is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action. -[MDN](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
+
+There are many ways to implement this, for example when we need to get some external data and wait for the server to respond then do another thing. This is where AJAX comes into play, and jQuery makes it easy by using its library's `$.ajax()` method.
 
 But the problem with callbacks starts when we need to nest them to execute different processes - which is called [callback hell](http://callbackhell.com/) - making our code very difficult to read and maintain.
 
@@ -59,7 +63,7 @@ myPromise.then(
 );
 ```
 
-_The example above is from W3School._
+_The example above is from W3Schools._
 
 ## What’s Fetch API in JavaScript and how to use it?
 
@@ -69,7 +73,7 @@ Before any explanation about Fetch API, I want to show you its syntax:
 fetch('/https://api.github.com/users/diogorodrigues');
 ```
 
-The code above will simply make an HTTP request to the GitHub API domain to get some `.json` data. What a wonderful and concise code, isn't it!
+The code above will simply make an HTTP request to the GitHub API domain to get some JSON data. What a wonderful and concise code, isn't it!
 
 **Also introduced in ES2015, the Fetch API emerged as a modern successor to `XMLHttpRequest` and the `fetch()` method takes a path to a resource as input and returns a Promise, making it possible to execute a function if resolved or rejected.**
 

@@ -26,7 +26,11 @@ Para facilitar o entendimento, vamos imaginar que você vá a uma pizzaria pedir
 
 ### Funções de Callback
 
-Uma das maneiras mais antigas e comuns de lidar com código assíncrono em JS é usar funções de callback. **É um conceito de JS para dizer a uma função: "espere para executar no futuro, não agora".** E há muitas maneiras de implementá-lo, por exemplo, quando precisamos obter alguns dados externos e esperar que o servidor responda para então fazer outra coisa. É aqui que o AJAX entra em ação e o jQuery facilitou isso com o uso do método `$.ajax()` de sua biblioteca.
+Uma das maneiras mais antigas e comuns de lidar com código assíncrono em JS é usar funções de callback. **É um conceito de JS para dizer a uma função: "espere para executar no futuro, não agora".**
+
+> Uma função callback é uma função passada a outra função como argumento, que é então invocado dentro da função externa para completar algum tipo de rotina ou ação. -[MDN](https://developer.mozilla.org/pt-BR/docs/Glossary/Callback_function)
+
+Há muitas maneiras de implementar isso, por exemplo, quando precisamos obter alguns dados externos e esperar que o servidor responda para então fazer outra coisa. É aqui que o AJAX entra em ação e o jQuery facilitou isso com o uso do método `$.ajax()` de sua biblioteca.
 
 Mas o problema com os callbacks começa quando precisamos aninhá-los para executar diferentes processos - o que é chamado de [callback hell](http://callbackhell.com/) - tornando nosso código muito difícil de ler e manter.
 
@@ -34,9 +38,7 @@ Mas o problema com os callbacks começa quando precisamos aninhá-los para execu
 
 O ES2015 introduziu Promise, uma moderna alternativa de evitar callback hells.
 
-> "The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value." -[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-
-_Tradução: O objeto Promise representa a eventual conclusão (ou falha) de uma operação assíncrona e seu valor resultante."_
+> "Promise é um objeto usado para processamento assíncrono. Um Promise (de "promessa") representa um valor que pode estar disponível agora, no futuro ou nunca." -[MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 **Em poucas palavras, uma Promise atua como um proxy para um valor desconhecido que eventualmente se tornará disponível em algum momento, terminando como um estado resolvido se tudo correr bem, ou um estado rejeitado se algo der errado.**
 
@@ -61,7 +63,7 @@ myPromise.then(
 );
 ```
 
-_O exemplo acima é da W3School._
+_O exemplo acima é da W3Schools._
 
 ## O que é Fetch API em JavaScript e como usá-lo?
 
@@ -71,7 +73,7 @@ Antes de qualquer explicação sobre a Fetch API, quero mostrar sua sintaxe:
 fetch('/https://api.github.com/users/diogorodrigues');
 ```
 
-O código acima simplesmente fará uma solicitação HTTP ao domínio da API do GitHub para obter alguns dados `.json`. Que código maravilhoso e conciso, não é?!
+O código acima simplesmente fará uma solicitação HTTP ao domínio da API do GitHub para obter alguns dados JSON. Que código maravilhoso e conciso, não é?!
 
 **Também introduzida no ES2015, a Fetch API surgiu como uma sucessora moderna de `XMLHttpRequest` e o método `fetch()` espera um caminho para um recurso como entrada e retorna uma Promise, possibilitando a execução de uma função se resolvida ou rejeitada.**
 
