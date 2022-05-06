@@ -1,7 +1,7 @@
 ---
 title: 'Tips and resources on how to improve your UI design skills'
 date: '2020-09-01 01:21:23'
-description: "I’ve put together some design tips and resources that can guide you in training your eyes for good visual design based on techniques I found and used in my career as a front-end designer."
+description: 'I’ve put together some design tips and resources that can guide you in training your eyes for good visual design based on techniques I found and used in my career as a front-end designer.'
 category: Design
 background: '#353b48'
 featuredImage: '/assets/img/blog/tips-and-resources-on-how-to-improve-your-ui-design-skills.jpg'
@@ -13,7 +13,6 @@ featuredImage: '/assets/img/blog/tips-and-resources-on-how-to-improve-your-ui-de
 
 Before, it’s important that you notice that there is no secret or magic, it’s all about getting inspiration, practice, consistency and patience. In this article, I'm going to show you some things I used to do as a designer (and I keep doing it until now) to improve my UI design skills. I hope you find them useful. ✨
 
-
 ## 1- Simple visual changes can make a big difference
 
 **Most of the time the solution is in the small details** as [Steve Schoger](https://www.steveschoger.com/) - a visual designer - showed us in his famous project called [Refactoring UI](https://twitter.com/i/events/994601867987619840?s=13) (a collection of small tips to improve our User Interface skills).
@@ -24,45 +23,43 @@ As Steve proved to us, **basic design principles such as contrast, size and spac
 
 While borders are great for distinguishing two elements from one another, they can make your interface look very busy. Box shadows, extra spacing between elements and different background colors can help to clear this up.
 
-![Two list examples: one with borders and one with shadows](https://pbs.twimg.com/media/DHXLem8WAAIFboe?format=png&name=900x900)
+![Two list examples: one with borders and one with shadows](/assets/img/blog/ui-design-tips-less-borders.png)
 
 In addition, box shadows do a great job of outlining an element as a border and can be more subtle and less distracting.
 
-![Three image list columns: one borderless and one bordered and one with shadows](https://pbs.twimg.com/media/DsYBNsAWwAAPd9o?format=png&name=900x900)
+![Three image list columns: one borderless and one bordered and one with shadows](/assets/img/blog/ui-design-tips-less-borders-02.png)
 
 ### Think outside the database
 
 There are many more ways to display information than simple lists and tables. Try to find creative solutions for common visual elements.
 
-![Two examples of cards: one displaying the information without much style and the other displaying the information using the font weight, different font sizes, avatar...](https://pbs.twimg.com/media/DdZ_wQuX4AA0vrF?format=png&name=900x900)
+![Two examples of cards: one displaying the information without much style and the other displaying the information using the font weight, different font sizes, avatar...](/assets/img/blog/ui-design-tips-database.png)
 
-![Two table examples: one in common form and the other using an avatar, bold fonts and colored labels](https://pbs.twimg.com/media/DkvLkrtV4AA6MIC?format=png&name=900x900)
+![Two table examples: one in common form and the other using an avatar, bold fonts and colored labels](/assets/img/blog/ui-design-tips-database-02.png)
 
-![Two examples of radio button list: one displaying common radio buttons and the other displaying radio buttons as small independent cards with font weight, different colors and font sizes...](https://pbs.twimg.com/media/DjiJZzvXsAAidEy?format=png&name=900x900)
-
-
+![Two examples of radio button list: one displaying common radio buttons and the other displaying radio buttons as small independent cards with font weight, different colors and font sizes...](/assets/img/blog/ui-design-tips-database-03.png)
 
 ### Focus on typography
 
 Some user interfaces depend almost 100% on typography. So you should spend some time playing with font weight, size, color and other font attributes in order to improve the typographic hierarchy and its readability. As well as borders versus shadows, there are a few tricks you can do to build better interfaces by just changing the way you display textual content.
 
-![Two examples of cards: one displaying the texts using different font sizes and the other using the font weight](https://pbs.twimg.com/media/DKGK-IBUEAE58Ll?format=png&name=900x900)
+![Two examples of cards: one displaying the texts using different font sizes and the other using the font weight](/assets/img/blog/ui-design-tips-typography.png)
 
-![Two examples of a text block: one showing a common style and the other showing how to use line height to improve text styles and readability](https://pbs.twimg.com/media/DXDeaUVUQAIR2hu?format=png&name=900x900)
+![Two examples of a text block: one showing a common style and the other showing how to use line height to improve text styles and readability](/assets/img/blog/ui-design-tips-typography-02.png)
 
 ### You shouldn’t use grey text on colored backgrounds
 
 Gray colors are good when used on a white background, but don’t look good on colored backgrounds. In that case, choose a color that has the same hue as the background, adjusting its saturation and brightness - you can also simply decrease its opacity.
 
-![Two examples of a text block on a green background: one displaying gray text and one displaying extra light green text](https://pbs.twimg.com/media/DCI_eM4XsAAvv-t?format=jpg&name=900x900)
+![Two examples of a text block on a green background: one displaying gray text and one displaying extra light green text](/assets/img/blog/ui-design-tips-gray-text.jpeg)
 
-![Example of text with opacity on colored background](https://pbs.twimg.com/media/DCN9c3FW0AAyPyq?format=jpg&name=900x900)
+![Example of text with opacity on colored background](/assets/img/blog/ui-design-tips-gray-text-02.jpeg)
 
 ### The alignment doesn’t need to be perfect all the time
 
 Each effect is emulated just by choosing the correct technique. We can improve the elevated elements by combining a slightly offsetting with shadows.
 
-![Two examples of drop-down box: one displays a box aligned to the main content on the right side and another shows the box slightly misaligned, shifted a little more to the right of the main content.](https://pbs.twimg.com/media/EPnw2BMWoAAby8-?format=jpg&name=900x900)
+![Two examples of drop-down box: one displays a box aligned to the main content on the right side and another shows the box slightly misaligned, shifted a little more to the right of the main content.](/assets/img/blog/ui-design-tips-alignment.jpeg)
 
 And there are many more tips [here](https://twitter.com/i/events/994601867987619840?s=13).
 
@@ -148,7 +145,6 @@ https://www.youtube.com/watch?v=svXl8ox6cuc
 ---
 
 **Don’t be limited because of the technology, search a lot and find the best way to apply all you’ve learned and share your projects with others**. By sharing your work you’ll get feedback that can help you continue improving your skills.
-
 
 ## Conclusion
 

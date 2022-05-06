@@ -1,7 +1,7 @@
 ---
 title: 'Dicas e materiais sobre como melhorar suas habilidades de UI Design'
 date: '2020-09-01 01:21:23'
-description: "Reuni algumas dicas de design e materiais que podem guiá-lo a treinar seu olhar para um bom design visual com base em técnicas que encontrei e usei em minha carreira como designer front-end."
+description: 'Reuni algumas dicas de design e materiais que podem guiá-lo a treinar seu olhar para um bom design visual com base em técnicas que encontrei e usei em minha carreira como designer front-end.'
 category: Design
 background: '#353b48'
 featuredImage: '/assets/img/blog/tips-and-resources-on-how-to-improve-your-ui-design-skills.jpg'
@@ -13,7 +13,6 @@ featuredImage: '/assets/img/blog/tips-and-resources-on-how-to-improve-your-ui-de
 
 Antes, é importante que você entenda que não há segredo ou mágica, é tudo sobre como obter inspiração, prática, consistência e paciência. Nesse artigo, vou mostrar a você algumas coisas que eu costumava fazer como designer (e continuo fazendo até hoje) para melhorar minhas habilidades de UI design. Espero que você curta. ✨
 
-
 ## 1- Mudanças visuais simples podem fazer uma grande diferença
 
 **Na maioria das vezes a solução está nos pequenos detalhes** como [Steve Schoger](https://www.steveschoger.com/) - um visual designer - nos mostrou em seu famoso projeto chamado [Refactoring UI](https://twitter.com/i/events/994601867987619840?s=13) (uma coleção de pequenas dicas para melhorar nossas habilidades de User Interface).
@@ -24,45 +23,44 @@ Como Steve provou para nós, **princípios básicos de design, como contraste, t
 
 Embora as bordas sejam ótimas para distinguir dois elementos um do outro, elas podem fazer sua interface parecer muito poluída. Box-shadows, espaçamentos extras entre elementos e backgrounds diferentes podem ajudar a melhorar isso.
 
-![Dois exemplos de lista: um com bordas e outro com sombras](https://pbs.twimg.com/media/DHXLem8WAAIFboe?format=png&name=900x900)
+![Dois exemplos de lista: um com bordas e outro com sombras](/assets/img/blog/ui-design-tips-less-borders.png)
 
 Além disso, box-shadows fazem um ótimo trabalho ao delinear um elemento como uma borda e podem ser mais sutis e causar menos distrações.
 
-![Três colunas com lista de imagens: uma sem borda, outra com borda e outra com sombras](https://pbs.twimg.com/media/DsYBNsAWwAAPd9o?format=png&name=900x900)
+![Três colunas com lista de imagens: uma sem borda, outra com borda e outra com sombras](/assets/img/blog/ui-design-tips-less-borders-02.png)
 
 ### Pense fora do banco de dados
 
 Existem muitas outras maneiras de exibir informações do que simples listas e tabelas. Tente encontrar soluções criativas para elementos visuais comuns.
 
-![Dois exemplos de cards: um exibindo as informações sem muito estilo e outro exibindo as informações usando o font-weight, diferentes tamanhos de fonte, avatar...](https://pbs.twimg.com/media/DdZ_wQuX4AA0vrF?format=png&name=900x900)
+![Dois exemplos de cards: um exibindo as informações sem muito estilo e outro exibindo as informações usando o font-weight, diferentes tamanhos de fonte, avatar...](/assets/img/blog/ui-design-tips-database.png)
 
-![Dois exemplos de tabela: um de maneira comum e outro usando avatar, fontes em negrito e lables coloridas](https://pbs.twimg.com/media/DkvLkrtV4AA6MIC?format=png&name=900x900)
+![Dois exemplos de tabela: um de maneira comum e outro usando avatar, fontes em negrito e lables coloridas](/assets/img/blog/ui-design-tips-database-02.png)
 
-![Dois exemplos de lista de radio buttons: um exibindo radio buttons comuns e o outro exibindo radio buttons como pequenos cards independentes com font-weight, cores e font-size diferentes ...](https://pbs.twimg.com/media/DjiJZzvXsAAidEy?format=png&name=900x900)
-
-
+![Dois exemplos de lista de radio buttons: um exibindo radio buttons comuns e o outro exibindo radio buttons como pequenos cards independentes com font-weight, cores e font-size diferentes ...](/assets/img/blog/ui-design-tips-database-03.png)
 
 ### Atenção na tipografia
 
 Algumas interfaces de usuário dependem quase 100% da tipografia. Portanto, você deve gastar algum tempo brincando com o peso, tamanho, cor e outros atributos da fonte para melhorar a hierarquia tipográfica e sua legibilidade. Assim como bordas versus sombras, existem alguns truques que você pode fazer para criar interfaces melhores apenas mudando a maneira como você exibe o conteúdo textual.
 
-![Dois exemplos de cartões: um exibindo os textos usando diferentes tamanhos de fonte e outro usando o peso da fonte](https://pbs.twimg.com/media/DKGK-IBUEAE58Ll?format=png&name=900x900)
+![Dois exemplos de cartões: um exibindo os textos usando diferentes tamanhos de fonte e outro usando o peso da fonte](/assets/img/blog/ui-design-tips-typography.png)
 
-![Dois exemplos de bloco de texto: um mostrando um estilo comum e outro mostrando como usar o espaçamento entre as linhas para melhorar os estilos e a legibilidade do texto](https://pbs.twimg.com/media/DXDeaUVUQAIR2hu?format=png&name=900x900)
+![Dois exemplos de bloco de texto: um mostrando um estilo comum e outro mostrando como usar o espaçamento entre as linhas para melhorar os estilos e a legibilidade do texto](![Dois exemplos de cartões: um exibindo os textos usando diferentes tamanhos de fonte e outro usando o peso da fonte](/assets/img/blog/ui-design-tips-typography-02.png)
+)
 
 ### Você não deveria usar texto cinza em fundos coloridos
 
 As cores em tons de cinza são boas quando usadas em um fundo branco, mas não ficam bem em fundos coloridos. Nesse caso, escolha uma cor que tenha o mesmo matiz do background, ajustando sua saturação e brilho - você também pode simplesmente diminuir sua opacidade.
 
-![Dois exemplos de um bloco de texto em um fundo verde: um exibindo texto cinza e outro exibindo texto verde bem claro](https://pbs.twimg.com/media/DCI_eM4XsAAvv-t?format=jpg&name=900x900)
+![Dois exemplos de um bloco de texto em um fundo verde: um exibindo texto cinza e outro exibindo texto verde bem claro](/assets/img/blog/ui-design-tips-gray-text.jpeg)
 
-![Exemplo de texto com opacidade em fundo colorido](https://pbs.twimg.com/media/DCN9c3FW0AAyPyq?format=jpg&name=900x900)
+![Exemplo de texto com opacidade em fundo colorido](/assets/img/blog/ui-design-tips-gray-text-02.jpeg)
 
 ### O alinhamento não precisa ser perfeito o tempo todo
 
 Cada efeito é emulado apenas escolhendo a técnica correta. Podemos melhorar os elementos sobrepostos combinando um sutil deslocamento com sombras.
 
-![Dois exemplos de dropbox: um exibe uma caixa alinhada ao conteúdo principal no lado direito e outro mostra a caixa um pouco desalinhada, deslocada um pouco mais para a direita do conteúdo principal.](https://pbs.twimg.com/media/EPnw2BMWoAAby8-?format=jpg&name=900x900)
+![Dois exemplos de dropbox: um exibe uma caixa alinhada ao conteúdo principal no lado direito e outro mostra a caixa um pouco desalinhada, deslocada um pouco mais para a direita do conteúdo principal.](/assets/img/blog/ui-design-tips-alignment.jpeg)
 
 E tem muito mais dicas [aqui](https://twitter.com/i/events/994601867987619840?s=13).
 
@@ -148,7 +146,6 @@ https://www.youtube.com/watch?v=svXl8ox6cuc
 ---
 
 **Não se limite por causa da tecnologia, pesquise muito e encontre a melhor maneira de aplicar tudo o que aprendeu. Compartilhe seus projetos com outras pessoas**; ao compartilhar o seu trabalho, você receberá feedbacks que podem ajudá-lo(a) a continuar melhorando suas habilidades.
-
 
 ## Conclusão
 
