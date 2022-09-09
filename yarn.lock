@@ -1040,10 +1040,10 @@
     core-js-pure "^3.20.2"
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.10.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.4", "@babel/runtime@^7.12.0", "@babel/runtime@^7.12.1", "@babel/runtime@^7.12.13", "@babel/runtime@^7.12.5", "@babel/runtime@^7.13.10", "@babel/runtime@^7.15.4", "@babel/runtime@^7.16.3", "@babel/runtime@^7.2.0", "@babel/runtime@^7.3.1", "@babel/runtime@^7.3.4", "@babel/runtime@^7.5.0", "@babel/runtime@^7.5.5", "@babel/runtime@^7.6.3", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.6", "@babel/runtime@^7.8.4", "@babel/runtime@^7.8.7", "@babel/runtime@^7.9.2":
-  version "7.17.2"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.17.2.tgz#66f68591605e59da47523c631416b18508779941"
-  integrity sha512-hzeyJyMA1YGdJTuWU0e/j4wKXrU4OMFvY2MSlaI9B7VQb0r5cxTE3EAIS2Q7Tn2RIcDkRvTA/v2JsAEhxe99uw==
+"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.10.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.4", "@babel/runtime@^7.12.0", "@babel/runtime@^7.12.1", "@babel/runtime@^7.12.13", "@babel/runtime@^7.12.5", "@babel/runtime@^7.13.10", "@babel/runtime@^7.15.4", "@babel/runtime@^7.16.3", "@babel/runtime@^7.19.0", "@babel/runtime@^7.2.0", "@babel/runtime@^7.3.1", "@babel/runtime@^7.3.4", "@babel/runtime@^7.5.0", "@babel/runtime@^7.5.5", "@babel/runtime@^7.6.3", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.6", "@babel/runtime@^7.8.4", "@babel/runtime@^7.8.7", "@babel/runtime@^7.9.2":
+  version "7.19.0"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.19.0.tgz#22b11c037b094d27a8a2504ea4dcff00f50e2259"
+  integrity sha512-eR8Lo9hnDS7tqkO7NsV+mKvCmv5boaXFSZ70DnfhcgiEne8hv9oCEd36Klw74EtizEqLsy4YnW8UWwpBVolHZA==
   dependencies:
     regenerator-runtime "^0.13.4"
 
@@ -1155,7 +1155,7 @@
   resolved "https://registry.yarnpkg.com/@emotion/hash/-/hash-0.8.0.tgz#bbbff68978fefdbe68ccb533bc8cbe1d1afb5413"
   integrity sha512-kBJtf7PH6aWwZ6fka3zQ0p6SBYzx4fl1LoZXE2RrnYST9Xljm7WfKJrU4g/Xr3Beg72MLrp1AWNUmuYJTL7Cow==
 
-"@emotion/is-prop-valid@0.8.8", "@emotion/is-prop-valid@^0.8.1", "@emotion/is-prop-valid@^0.8.3":
+"@emotion/is-prop-valid@0.8.8", "@emotion/is-prop-valid@^0.8.1":
   version "0.8.8"
   resolved "https://registry.yarnpkg.com/@emotion/is-prop-valid/-/is-prop-valid-0.8.8.tgz#db28b1c4368a259b60a97311d6a952d4fd01ac1a"
   integrity sha512-u5WtneEAr5IDG2Wv65yhunPSMLIpuKsbuOktRojfrEiEvRyC85LgPMZI63cr7NUqT8ZIGdSVg8ZKGxIug4lXcA==
@@ -2340,6 +2340,301 @@
     store2 "^2.7.1"
     telejson "^3.2.0"
     util-deprecate "^1.0.2"
+
+"@styled-icons/bootstrap@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/bootstrap/-/bootstrap-10.46.0.tgz#fc70c883a3ee94038a873f6cd4484e9623f41579"
+  integrity sha512-Lbf65X45/M+I8j2czmR79+qmA2IK5XqihF7zH32XXN62+V+cgDxDNXlkz6xGkUk0TK/DVx7BxIfIx1EG5kyUhg==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/boxicons-logos@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/boxicons-logos/-/boxicons-logos-10.46.0.tgz#2e829b6c664a8de179648ee31bef43703e31c62a"
+  integrity sha512-+i85m0XqTN1VJPWqQuBgELuh0fljE5vrFtoXSlBNXLuRDSFXg587S+3SzoqgD5q0b/lkP9hNUUTJtKi7zjfOnA==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/boxicons-regular@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/boxicons-regular/-/boxicons-regular-10.46.0.tgz#4b1cbccaec01cae908194ba289343573949a9612"
+  integrity sha512-lru8i8Q62gC5UZchdpSC0gJgov7cCU114YBhK8JRdLJ8gQFPJgxOafSnqHtcHf3e4TvuSMcXBH9Z/gOjUzEb7g==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/boxicons-solid@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/boxicons-solid/-/boxicons-solid-10.46.0.tgz#d2ba65b4ea3dc2e34557e8f8c44c3a066cc2a108"
+  integrity sha512-fXbuFeXmrcHquTqYzRl7a9ZNSqPlr4vgAEItpb8bk/81G3Jo//TJKC0QOtwDtWkeqisx5WFFfpd/7H8D82CSIg==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/crypto@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/crypto/-/crypto-10.46.0.tgz#ce5441f92ba5303456798dc5e9c4ee4379309e8f"
+  integrity sha512-V0vxzm2mJv0iECLC+cBVowqnKHSeAjaY5I7rvpN7UETuggM3kEBznNo45PBJB2hxbjUfKARfjWm5GDVNYwCf0Q==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/entypo-social@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/entypo-social/-/entypo-social-10.46.0.tgz#6a6fc6aa102c03c43df0e87710eec8218c0ce42e"
+  integrity sha512-DWbUK7JkuAu4TPIBeeYfxys3cP8M4/q/XG2JVruDHa18viCEcDR1JXfn1p3TVYZCvlciKev+Vr1yrgcamTwVkg==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/entypo@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/entypo/-/entypo-10.46.0.tgz#64f16e26fa9a559280cb990e1abe1fa38b5b370a"
+  integrity sha512-0ChIqx3EMlMeout4Aa5AwEYtKsgTqrY/NnVQGvhlGfMYq9mC7jq7JuaKvt5SJ9/0cEnVhgW5zwAe4LeyrsJl5g==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/evaicons-outline@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/evaicons-outline/-/evaicons-outline-10.46.0.tgz#47f0af9926f9f99f998feeb723fd18c71f4b8161"
+  integrity sha512-+tHb/Ir6G1e+rSJ2YKgm2vzjF80JoXWEmoC48exFrQEKQkJPSWtsqKdROkfANKrY9AFnRKhJQ+9fHhnjS+V/OA==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/evaicons-solid@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/evaicons-solid/-/evaicons-solid-10.46.0.tgz#37ca0af3d18f898bc1db081082f5893a24a39865"
+  integrity sha512-tRw2/TkmRNV4N2badKPFnnRy+WbVtUkrloNo94CgF5rpxoL0eK+ki3OYZYqbl0T66bJ07hqduqTc3rbxvT/vfw==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/evil@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/evil/-/evil-10.46.0.tgz#882980fe2cb28ec2d844998920ba9776e022e539"
+  integrity sha512-r1g2jZmz84XGLgJbAPkMDmuToUF+KyNWkS6GNoP+ygzriNgzgoHkcEvIb/bx/I2/UUHeotRMOknvhvh5C2CwFg==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/fa-brands@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/fa-brands/-/fa-brands-10.46.0.tgz#af11fd39d00616cb74a6925c1bff36f19621bb24"
+  integrity sha512-SAxmTrec9FlXQMrAD4h+BakyRfLeiebjcbkdnmM0kU+PTQ+EazPPtb4eAnkB2wYBgLEbXjXItAiMi0BcRZw6iw==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/fa-regular@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/fa-regular/-/fa-regular-10.46.0.tgz#65954f0970d62b946a0fb98e00f11cc85c1be3c9"
+  integrity sha512-VdjLeXxJeymmlL+Rt2vub5ZsJHuQJYsi3E7svEiec/f7U73kK4DyQ3l0dgQS6hhfAhn6unoOwpsV1URsrb+skA==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/fa-solid@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/fa-solid/-/fa-solid-10.46.0.tgz#58cb396955db9b9f19fa1982f52e7d7bfad5af13"
+  integrity sha512-P6WxqPaBp9EbgPOlfOw9vFKie/+3D51AzFwgeTDs/7CWUpyoDjpRE2dFsPwxAHo0qbF/nspkkrpn+qft2Rdkvg==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/feather@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/feather/-/feather-10.46.0.tgz#404c7c37ba2bba9c0c6a2cbb953ae9451820be0d"
+  integrity sha512-Pluic9wCJENvuhc/QXwmnJ/VP575k+c3BGdEZRzI7uBfZcSvG9hXoLWaLrxQNIWI46hCZFSlkZQGTKZ7dAxC9Q==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/fluentui-system-filled@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/fluentui-system-filled/-/fluentui-system-filled-10.46.0.tgz#2f29105472eb8e124d838c96cdca0ad63cf0b817"
+  integrity sha512-qo05JapoosiGwMLtgmQNREydNudMiNKFdj2XgauvAz71X5x591gPMwIzHn4ssoYnk2kMRswN8/ohJZAnEW/Tnw==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/fluentui-system-regular@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/fluentui-system-regular/-/fluentui-system-regular-10.46.0.tgz#16c4cff965ddf96f37c133b17f59e9ca228266d8"
+  integrity sha512-Ojn2nGx2NY2QnELYG07k7uPXQ6jZ4MKeloby3wNgyncmcMikANPeMs0IJXWeUlW3YcOGMjnVYPq/A8v7QPJ0dQ==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/foundation@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/foundation/-/foundation-10.46.0.tgz#f68eaad4b404a88b7aaf9ab04e07d70cf5abcda9"
+  integrity sha512-RZqNVxStjvboGg6+X1By9pE0j7FuzUkfgbu9SgOkSzMrHTvnTOu0JiQ7nNw+CY46rXhT8JTwRCgk2OLTk+anGA==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/heroicons-outline@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/heroicons-outline/-/heroicons-outline-10.46.0.tgz#ddd4f5f8e240743f028f5446c789b54b6b2496fa"
+  integrity sha512-VRzbF7jMUxpZsPaYOpbRZ5uIIlQgyA63/1E74jNxcH5USqp87Ukr7+GXStDbgR+0rNMFfBiBUbeWBnkVlDhRsw==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/heroicons-solid@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/heroicons-solid/-/heroicons-solid-10.46.0.tgz#56682bf988797d21847fb6a90e996091ce32c19e"
+  integrity sha512-cm2TxlYdW4WhQmDxDj+bVgY74WQglwwFpb6FWVX752+ZCY7ljedujCDYpShj9IYX8F56jFQCg9/Ijd46LpjoRQ==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/icomoon@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/icomoon/-/icomoon-10.46.0.tgz#961e2c4ca8659e5061ffe6fa1a57c104ce3478d0"
+  integrity sha512-3KcTTuswDrC03byyr9G9v5aWDTrhO6PbbN5O7CtU4/NXY4AaOkTQ8GUfvRjZ8yG/aEYRH4VYkWFpYu1CdsZxNg==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/ionicons-outline@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/ionicons-outline/-/ionicons-outline-10.46.0.tgz#829a5d47c08503524030c901013cb03c97b1d589"
+  integrity sha512-BEFEBGQDhPssEshbHyrsAXbEb7hNsrsHa0Zh0zLlfCIB3Vxc2GrQU9Qibto443ZRVw5qgF7iBdSwQHiwY8dQJw==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/ionicons-sharp@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/ionicons-sharp/-/ionicons-sharp-10.46.0.tgz#78b99fcac82cbfb87379de1f1e41ee42139caeb6"
+  integrity sha512-ZMkS+zBe04odi/4llkKMZkNEz8K3whta7Chzk81vvCTtR7jMnGEyw+tMUZbARliOOyaELBeTbgeUwNRNTibiSA==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/ionicons-solid@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/ionicons-solid/-/ionicons-solid-10.46.0.tgz#57909df67c7cdb710623fc9a58c20732f3520f81"
+  integrity sha512-agiuzQzqrrRWHrGfswC6EciKVjt/XSZuQFbvP/s6qU2oYkQuJRdhmAZQldTaj9Xb2GyAmEjM0cmkWG3+JzV7CQ==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/material-outlined@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/material-outlined/-/material-outlined-10.46.0.tgz#ee14a81e26ac0d7780be5109b14456772d79529a"
+  integrity sha512-4TTzv/R/V7yUeO1n4xjlcipLIDBs6RzpMeiF5jrzC2hnaLhF304bV3rPlCPzmlTi433CCWo7cadb0p+tePsvzQ==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/material-rounded@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/material-rounded/-/material-rounded-10.46.0.tgz#b2cd05c0a1d1753d458192b51c36f321e7c59698"
+  integrity sha512-XVdZLoa1ETblaojgbKfDiCWXqfSpcGdnaXd1kc2jKTtS0gp4brje9mndsXnvRLjpUw1H4WhOI4ty9/Cmz1Hvig==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/material-sharp@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/material-sharp/-/material-sharp-10.46.0.tgz#e310193318cb057d9d32a1efe1182b8199e66a50"
+  integrity sha512-cbUPayb4wd967hDZFeNdnWbfaaLa1MaUEqsejLx6hVtW1+mz2+jZKvB897sVUvFbRF0CjIjEtuV6sxB64VWO9g==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/material-twotone@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/material-twotone/-/material-twotone-10.46.0.tgz#e09427cc2ee9bf2c99872df0710a136b38ef2012"
+  integrity sha512-aTI0f1YrwY5b0nbxHXi5/0784hty3OjxQeiyViC6C7IpbYqvwEmfpS2VMZC+MzOTNW3mNFGhiT2nZXpzuUDZGQ==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/material@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/material/-/material-10.46.0.tgz#394814fcb2afa8c9dfdaeedc92ffcb82713d83b5"
+  integrity sha512-kE4G51Y4YxNf+6jtnKrQl8+xYVwhOiOmJWkAPtY2DYOKYszMEZzH7qUcQzhLvGQuj12/h+oSpBDP/IEPcDIyXQ==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/octicons@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/octicons/-/octicons-10.46.0.tgz#f4ca06a2aa19c2baf3b18eb45e3d410fac800561"
+  integrity sha512-lso641QwWs+BF4KTSCMDWP3vTbd5yLcmaSnyfE5CNu9dHG4TDCvos3xNSeTuIUchyRXvsaYu7pHaxLwYqdoTmA==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/open-iconic@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/open-iconic/-/open-iconic-10.46.0.tgz#ddaa4ead799eae861ee21abea9d2b1484e2b6089"
+  integrity sha512-v7wrHcUACQeSfJrLan/jXxgz7RSlJJXSc2u33UR82ewkOSBhaXp/zZxKF1tFCT2spvth0NBl6OkZUCw9ctgyrA==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/remix-editor@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/remix-editor/-/remix-editor-10.46.0.tgz#81c0d3f174ff5fb1900a019acbeb4fc1f68318a1"
+  integrity sha512-oOrt6wj5//4LrZkm40bXcsFpTgXbdOkixu6RHuE3O82+Hqtw1bYR/smm5MbLOJ+Kz62SEjDF3sxqFO23ITDeUQ==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/remix-fill@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/remix-fill/-/remix-fill-10.46.0.tgz#4477b1927e99faec55747bd92102b85e979ac203"
+  integrity sha512-D2rWGJ9/7BR+3TMvmIoWGASMfyhWT4lTF+we8h9Pya5Ye+69cftvp817DMuaR/6czCugXTrB++HTQX0XJfoBFw==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/remix-line@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/remix-line/-/remix-line-10.46.0.tgz#8c66a18f951895f3e082a60b5a6a4f43b3c7b998"
+  integrity sha512-TkbtXdgcuM7VpE/51k8+sxfReFjSQpAFVnjJi8/gxwcTzjdOG7Plkgsaixi2+hiLk/Coj/+67KbntBoSevROsw==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/simple-icons@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/simple-icons/-/simple-icons-10.46.0.tgz#fbb8f73686dbb40e482356a5fdc23e895e2b8468"
+  integrity sha512-zHkbGqAqFOwpqDjbhKTKsAXNxtBOXb7Ot2eKoDaDFckJGr2shAXRchclUS6wSixSPwQIPGAUcdO7Cq744Ollng==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/styled-icon@10.7.0", "@styled-icons/styled-icon@^10.7.0":
+  version "10.7.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/styled-icon/-/styled-icon-10.7.0.tgz#d6960e719b8567c8d0d3a87c40fb6f5b4952a228"
+  integrity sha512-SCrhCfRyoY8DY7gUkpz+B0RqUg/n1Zaqrr2+YKmK/AyeNfCcoHuP4R9N4H0p/NA1l7PTU10ZkAWSLi68phnAjw==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+
+"@styled-icons/typicons@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/typicons/-/typicons-10.46.0.tgz#b72c381941fbe66d3a34dbf2979611d25579cb2e"
+  integrity sha512-yCJnVggGsbxOyuIPEmD+9IYRvB5w41hpJKdpI0ErasYG9Izt/lGqUaaDaxR39u9s28Q54Fq/v+Ni17dFCs8FOw==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/zondicons@10.46.0":
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/zondicons/-/zondicons-10.46.0.tgz#bc0d11da7c6e7602d78218e1d55c40b61d061c02"
+  integrity sha512-DUlww6TeFsFjHD/1qd+DtMutm44r3ssOYtPiMJrOVolX1NqdW6XzrJ5dTbVCA2s7Ucd+Vp25cWfXnLcJBfas3w==
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
 
 "@svgr/babel-plugin-add-jsx-attribute@^4.2.0":
   version "4.2.0"
@@ -17698,13 +17993,49 @@ styled-components@^4.4.0:
     stylis-rule-sheet "^0.0.10"
     supports-color "^5.5.0"
 
-styled-icons@^8.4.2:
-  version "8.6.0"
-  resolved "https://registry.yarnpkg.com/styled-icons/-/styled-icons-8.6.0.tgz#e5b7183b2ca569fe414e913adaa9f67f6e45142b"
-  integrity sha512-qxHyIIVzy9AKAlKSoH3FjfugwIwdOO/gzMZwJTy/ltE+jQQeF+rvJ1RG6rDrK0ZTp+2sY/S6tvnMiR7LIVFBjA==
+styled-icons@^10.46.0:
+  version "10.46.0"
+  resolved "https://registry.yarnpkg.com/styled-icons/-/styled-icons-10.46.0.tgz#5e27514f6498dd4a9de899b0093fe3e3daa018dd"
+  integrity sha512-1Sd129fFy8j/fHgMnnxZPq1gyj8qX8TCbhGxsHG6SiQMXB6idYdOpq3ni06kiCVbinM1kqslhdNXKED4Ze+LJg==
   dependencies:
-    "@emotion/is-prop-valid" "^0.8.3"
-    tslib "^1.9.3"
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/bootstrap" "10.46.0"
+    "@styled-icons/boxicons-logos" "10.46.0"
+    "@styled-icons/boxicons-regular" "10.46.0"
+    "@styled-icons/boxicons-solid" "10.46.0"
+    "@styled-icons/crypto" "10.46.0"
+    "@styled-icons/entypo" "10.46.0"
+    "@styled-icons/entypo-social" "10.46.0"
+    "@styled-icons/evaicons-outline" "10.46.0"
+    "@styled-icons/evaicons-solid" "10.46.0"
+    "@styled-icons/evil" "10.46.0"
+    "@styled-icons/fa-brands" "10.46.0"
+    "@styled-icons/fa-regular" "10.46.0"
+    "@styled-icons/fa-solid" "10.46.0"
+    "@styled-icons/feather" "10.46.0"
+    "@styled-icons/fluentui-system-filled" "10.46.0"
+    "@styled-icons/fluentui-system-regular" "10.46.0"
+    "@styled-icons/foundation" "10.46.0"
+    "@styled-icons/heroicons-outline" "10.46.0"
+    "@styled-icons/heroicons-solid" "10.46.0"
+    "@styled-icons/icomoon" "10.46.0"
+    "@styled-icons/ionicons-outline" "10.46.0"
+    "@styled-icons/ionicons-sharp" "10.46.0"
+    "@styled-icons/ionicons-solid" "10.46.0"
+    "@styled-icons/material" "10.46.0"
+    "@styled-icons/material-outlined" "10.46.0"
+    "@styled-icons/material-rounded" "10.46.0"
+    "@styled-icons/material-sharp" "10.46.0"
+    "@styled-icons/material-twotone" "10.46.0"
+    "@styled-icons/octicons" "10.46.0"
+    "@styled-icons/open-iconic" "10.46.0"
+    "@styled-icons/remix-editor" "10.46.0"
+    "@styled-icons/remix-fill" "10.46.0"
+    "@styled-icons/remix-line" "10.46.0"
+    "@styled-icons/simple-icons" "10.46.0"
+    "@styled-icons/styled-icon" "10.7.0"
+    "@styled-icons/typicons" "10.46.0"
+    "@styled-icons/zondicons" "10.46.0"
 
 styled-media-query@^2.1.2:
   version "2.1.2"
