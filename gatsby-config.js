@@ -123,6 +123,13 @@ module.exports = {
               },
             },
           },
+          {
+            resolve: `gatsby-remark-copy-linked-files`,
+            options: {
+              destinationDir: `${__dirname}/public/assets/img/blog`,
+              ignoreFileExtensions: [`png`, `jpg`, `jpeg`, `bmp`, `tiff`],
+            },
+          },
           `gatsby-remark-lazy-load`,
           `gatsby-remark-prismjs`, // It needs to be the last one
           {
