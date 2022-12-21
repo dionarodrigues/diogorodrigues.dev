@@ -50,7 +50,7 @@
     "react-animations": "^1.0.0",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
-    "react-slick": "^0.25.2",
+    "react-slick": "^0.29.0",
     "styled-components": "^4.4.0",
     "styled-icons": "^8.4.2",
     "styled-media-query": "^2.1.2"
