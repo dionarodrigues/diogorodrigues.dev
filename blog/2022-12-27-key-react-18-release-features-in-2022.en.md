@@ -60,7 +60,7 @@ As Maximilian mentioned in the video above, **React Concurrency is still in its 
 
 ## State Update Batching
 
-For better performance, React groups multiple state update calls within a running process into a single render. For example, you have an event handler that, when executed, will call 3 separate `setState()`. Instead of 3 re-renders, React will perform the update of all states and then re-render the component. This is called a batch.
+For better performance, React groups multiple state update calls within a running process into a single render. For example, you have an event handler that, when executed, will call 3 separate `setState()`. Instead of 3 re-renders, React will perform the update of all states and then re-render the component. That's batching!
 
 **State Update Batching is not a new feature in the library, however it only worked for React event handlers prior to this release. This [version 18 now automates batches for promises, setTimeout, native event handlers, or any other event not batched in React by default](https://reactjs.org/blog/2022/03/29/react-v18.html#new-feature-automatic-batching).**
 
@@ -82,7 +82,7 @@ This is another existing feature that has been improved in this new version of R
 
 Take a look at the [code below from the React docs](https://beta.reactjs.org/reference/react/Suspense) to see how it can be implemented:
 
-```javascript
+```JSX
 <Suspense fallback={<Loading />}>
   <ChildrenComponent />
   <AnotherChildrenComponent />
@@ -93,7 +93,7 @@ So, assuming each children component is processing some data fetching, `<Suspens
 
 **While React 17 only allows it to be used together with [React.lazy](https://beta.reactjs.org/reference/react/lazy), it can now also be used to fetch data from opinionated frameworks like Relay, Next.js, Hydrogen or Remix. But the idea for the future is to extend this functionality to other data resources, such as images for example.**
 
-[Learn more about `<Suspense>` in the React documentation](https://beta.reactjs.org/reference/react/Suspense) or watching the video below.
+[Learn more about `<Suspense>` in the React documentation](https://beta.reactjs.org/reference/react/Suspense) or watch the video below.
 
 https://www.youtube.com/watch?v=pkFA_5-qyHk&ab_channel=TheAdimar
 
