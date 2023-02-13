@@ -7,7 +7,7 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/the-future-of-css-is-now.jpg'
 ---
 
-**If you, like me, started working with web development more than a decade ago, you probably remember the success of CSS version 3 when it arrived, right? Well, that release really improved the way we develop using CSS forever, but a lot has changed since then and now CSS is going to a new level again.**
+**If you, like me, started working with web development more than a decade ago, you probably remember the successful arrival of CSS version 3, right? Well, that release really improved the way we develop using CSS forever, but a lot has changed since then and now CSS is going to a new level again.**
 
 In this article I'll show how projects like [Interop](https://wpt.fyi/interop-2023) and [The State of CSS survey](https://2022.stateofcss.com/en-US/) have contributed a lot to this new phase of CSS. Here you will also see that many features we dreamed of before are now coming true. So, grab your cup of tea/coffee and follow me.
 
