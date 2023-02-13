@@ -115,7 +115,7 @@ Primeiro precisamos escolher um elemento para ser o container definindo duas pro
 
 Dê uma olhada na [documentação](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Subgrid) para entender mais sobre subgrid e seu poder.
 
-### Nesting?
+### [Nesting](https://developer.chrome.com/blog/help-css-nesting/)
 
 Todas as funcionalidades anteriores já são uma realidade e, com exceção de `@layers`, que já é suportada por todos os principais navegadores, as outras estão planejadas para funcionarem e serem implementadas em vários navegadores ainda este ano.
 
