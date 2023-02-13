@@ -1,6 +1,6 @@
 ---
 title: 'Como se tornar um ótimo desenvolvedor front-end'
-date: '2022-04-26 10:00:00'
+date: '2023-02-13 10:00:00'
 description: 'Se você pensa em ser um(a) desenvolvedor(a) front-end ou mesmo se já possui muitos anos de experiência na área de desenvolvimento front-end, as seguintes perguntas podem vir a tona em sua mente de vez em quando: "Como se tornar um ótimo desenvolvedor front-end?" ou "O que preciso aprender para me especializar no desenvolvimento front-end?" Nesse artigo mostrarei a você algumas dicas para se obter essas respostas.'
 category: Career
 background: '#353b48'
@@ -108,7 +108,7 @@ Desenvolver projetos maiores e trabalhar com equipes diferentes exigem que você
 
 - **Gerenciadores de Pacotes**: aprender o que são [npm](https://www.npmjs.com/) e [yarn](https://yarnpkg.com/) e como usá-los em seus projetos fornecerá muito mais poder a você. 😎
 
-- **Escreva melhor o seu CSS**: a maneira que trabalhamos com CSS está mudando devido à modernos frameworks e CSS-in-JS, mas é importante que você aprenda sobre arquitetura CSS como [BEM](http://getbem.com/introduction/) (ou [OOCSS](http://oocss.org/)) e pré-processadores CSS (como [Sass](https://sass-lang.com/) e [PostCSS](https://postcss.org/)). Você ainda os usará para criar sites simples.
+- **Escreva melhor o seu CSS**: a maneira que trabalhamos com CSS está mudando devido à modernos frameworks e CSS-in-JS, mas é importante que você aprenda sobre arquitetura CSS como [BEM](http://getbem.com/introduction/)) e pré-processadores CSS (como [Sass](https://sass-lang.com/) e [PostCSS](https://postcss.org/)). Você ainda os usará para criar sites simples.
 
 - **Frameworks CSS**: Criar um design responsivo a partir do zero para cada projeto pode ser demorado. Por esse motivo e porque é sempre importante ter uma boa documentação sobre o código, os frameworks CSS nos ajudam muito. Minha sugestão é brincar com os frameworks [Tailwind CSS](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/) and [Material UI](https://material.io/). Apenas divirta-se criando interfaces incríveis e depois as compatilhe em seu Github 👌.
 
@@ -168,7 +168,7 @@ Alguns links para ajudá-lo:
 Aqui há um [completo roadmap](https://roadmap.sh/frontend) que você pode usar como referência:
 
 [[media]]
-| ![Front-end roadmap](/assets/img/blog/frontend-development-rodamap-2022.png)
+| ![Front-end roadmap](/assets/img/blog/frontend-development-rodamap-2023.png)
 
 Não se deixe intimidar e, novamente: fique calmo e aproveite a jornada.
 

@@ -1,6 +1,6 @@
 ---
 title: 'How to become a great front-end developer'
-date: '2022-04-26 10:00:00'
+date: '2023-02-13 10:00:00'
 description: "If you think about being a front-end developer or even if you have many years of experience in the front-end development area, the following questions may sometimes come to your mind: 'How to become a great front-end developer?' or 'What do I need to learn to specialize in front-end development'? In this article, I’ll show you a few things to keep in mind to get those answers."
 category: Career
 background: '#353b48'
@@ -104,7 +104,7 @@ Building larger projects and working with different teams require you have more 
 
 - **Package Managers**: learn what´s [npm](https://www.npmjs.com/) and [yarn](https://yarnpkg.com/) and how to use them into your projects will give you much more power. 😎
 
-- **Write better CSS**: the state of how to work with CSS is changing because of modern frameworks and CSS-in-JS, but it's important you learn about CSS Architecture like [BEM](http://getbem.com/introduction/) (or [OOCSS](http://oocss.org/)) and CSS Preprocessors (such as [Sass](https://sass-lang.com/) and [PostCSS](https://postcss.org/)). You´ll still use them for building simple websites.
+- **Write better CSS**: the state of how to work with CSS is changing because of modern frameworks and CSS-in-JS, but it's important you learn about CSS Architecture like [BEM](http://getbem.com/introduction/)) and CSS Preprocessors (such as [Sass](https://sass-lang.com/) and [PostCSS](https://postcss.org/)). You´ll still use them for building simple websites.
 
 - **CSS Frameworks**: Creating a responsive design from scratch for every project can be time-consuming. For this reason and because it's always important having good documentation about the code, CSS frameworks help us a lot. My suggestion is to play with [Tailwind CSS](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/) and [Material UI](https://material.io/) frameworks. Just have fun building amazing interfaces and share them in your Github 👌.
 
@@ -160,7 +160,7 @@ Some links to help you:
 Here is a [complete roadmap](https://roadmap.sh/frontend) you can use as reference:
 
 [[media]]
-| ![Front-end roadmap](/assets/img/blog/frontend-development-rodamap-2022.png)
+| ![Front-end roadmap](/assets/img/blog/frontend-development-rodamap-2023.png)
 
 Don't be intimidated and, again: stay calm and enjoy the trip.
 
