@@ -38,7 +38,7 @@ That said, this type of survey can be a valuable resource for browsers to unders
 
 > "I predict that the stars of 2023 will be native Nesting, and color manipulation. Nesting is currently the primary reason people still use preprocessors, so being able to rely on it natively will be incredibly freeing." - Lea Verou
 
-## Some CSS features to prove why the future is now
+## 5 CSS features to prove why the future is now
 
 I could say that grid and flexbox are the two main features I would add to the list, but they are common nowadays as everyone has heard so much about them. So **I decided to focus on other CSS features that I think are changing the way we develop using CSS now (or in the near future)**.
 
