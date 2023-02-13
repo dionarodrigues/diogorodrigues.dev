@@ -119,7 +119,7 @@ Dê uma olhada na [documentação](https://developer.mozilla.org/en-US/docs/Web/
 
 Todas as funcionalidades anteriores já são uma realidade e, com exceção de `@layers`, que já é suportada por todos os principais navegadores, as outras estão planejadas para funcionarem e serem implementadas em vários navegadores ainda este ano.
 
-**Mas isso ainda não é uma realidade para o Nesting, mas assim como Lea Verou, também acredito que pode ser um recurso nativo inovador que trará muito mais liberdade para nós desenvolvedores. Assim que o tivermos, alguns pré-processadores não terão mais poder sobre nós. Vamos ver o que acontecerá este ano e mantenham seus dedos cruzados comigo para que tenhamos uma discussão sobre esse recurso nativamente.**
+**Infelizmente isso ainda não é uma realidade para o Nesting, mas assim como Lea Verou, também acredito que pode ser um recurso nativo inovador que trará muito mais liberdade para nós desenvolvedores. Assim que o tivermos, alguns pré-processadores não terão mais poder sobre nós. Vamos ver o que acontecerá este ano e mantenham seus dedos cruzados comigo para que tenhamos uma discussão sobre esse recurso nativamente.**
 
 ## Conclusão
 
