@@ -115,11 +115,17 @@ Primeiro precisamos escolher um elemento para ser o container definindo duas pro
 
 Dê uma olhada na [documentação](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Subgrid) para entender mais sobre subgrid e seu poder.
 
-### [Nesting](https://developer.chrome.com/blog/help-css-nesting/)
+### [Nesting](https://www.w3.org/TR/css-nesting-1/)
 
 Todas as funcionalidades anteriores já são uma realidade e, com exceção de `@layers`, que já é suportada por todos os principais navegadores, as outras estão planejadas para funcionarem e serem implementadas em vários navegadores ainda este ano.
 
 **Infelizmente isso ainda não é uma realidade para o Nesting, mas assim como Lea Verou, também acredito que pode ser um recurso nativo inovador que trará muito mais liberdade para nós desenvolvedores. Assim que o tivermos, alguns pré-processadores não terão mais poder sobre nós. Vamos ver o que acontecerá este ano e mantenham seus dedos cruzados comigo para que tenhamos uma discussão sobre esse recurso nativamente.**
+
+Leia mais:
+
+- [Documentação do Nesting no site da W3C](https://www.w3.org/TR/css-nesting-1/)
+- [Discussão sobre Nesting no blog do Chrome](https://developer.chrome.com/blog/help-css-nesting/)
+- [Ótimo artigo sobre Nesting nativo no CSS by LogRocket](https://blog.logrocket.com/native-css-nesting/)
 
 ## Conclusão
 
