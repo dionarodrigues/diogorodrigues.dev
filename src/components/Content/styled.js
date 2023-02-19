@@ -489,6 +489,10 @@ export const Content = styled.section`
     background: transparent;
   }
 
+  code[class*="language-"] {
+    font-size: var(--text-small);
+  }
+
   .highlight pre {
     background-color: #f8f8f8;
     border: 1px solid #cccccc;
