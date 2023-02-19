@@ -91,7 +91,7 @@ I really recommend you take a look at the [React documentation about Referencing
 
 ## Conclusion
 
-I have to assume I've already created unnecessary states, who hasn't? However, the more I learn about React, the better I understand its concepts and how to write better code. I hope you learned something new from this post and I invite you to also spend some time on this new [React documentation ](https://beta.reactjs.org/)because it is full of great explanations and interactive examples.
+I have to assume I've already created unnecessary states, who hasn't? :) However, the more I learn about React, the better I understand its concepts and how to write better code. I hope you learned something new from this post and I invite you to also spend some time on this new [React documentation ](https://beta.reactjs.org/)because it is full of great explanations and interactive examples.
 
 **To recap, states should be used when we need to trigger re-renders and also maintain data between component renders. If you just need to persist information, ref might be the solution you need. Otherwise, just regular variables are enough for this case.**
 

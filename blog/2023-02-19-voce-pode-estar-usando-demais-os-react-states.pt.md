@@ -93,7 +93,7 @@ Eu realmente recomendo que você dê uma olhada na [documentação do React sobr
 
 ## Conclusão
 
-Tenho que assumir que já criei estados desnecessários, quem nunca criou? No entanto, quanto mais eu aprendo sobre o React, melhor eu entendo seus conceitos e como escrever um código melhor. Espero que você tenha aprendido algo novo com este post e convido você a também dedicar algum tempo a esta nova [documentação do React](https://beta.reactjs.org/) porque ela está repleta de ótimas explicações e exemplos interativos.
+Tenho que assumir que já criei estados desnecessários, quem nunca criou? :) No entanto, quanto mais eu aprendo sobre o React, melhor eu entendo seus conceitos e como escrever um código melhor. Espero que você tenha aprendido algo novo com este post e convido você a também dedicar algum tempo a esta nova [documentação do React](https://beta.reactjs.org/) porque ela está repleta de ótimas explicações e exemplos interativos.
 
 **Para recapitular, os estados devem ser usados quando precisamos acionar re-renderizações e também manter os dados entre as renderizações de componentes. Se você só precisa persistir informações, ref pode ser a solução que você precisa. Caso contrário, apenas variáveis regulares são suficientes para este caso.**
 
