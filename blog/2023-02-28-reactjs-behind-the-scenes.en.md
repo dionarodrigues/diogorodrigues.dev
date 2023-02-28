@@ -27,7 +27,7 @@ The documentary also showed the risky decision they took after several business 
 
 **The next step was to make React an open source tool**. And they did it by making this announcement at the US JSConf in 2013, a famous javascript-focused event. In an age where best practice was splitting HTML, CSS, and JS into separate files, the React way of creating components using JSX and mixing them all together was not well accepted by the community, and this announcement was a disaster.
 
-It was then that **Sophie Alpert, a non-Facebook developer, saw React and decided to use it. She solved some technical details by rewriting about 2,000 lines of the library's code based on the project she was working** on - and then made a pull request to the React repository. And as you can imagine, she became a member of Facebook's engineering team. https://twitter.com/sophiebits
+It was then that **[Sophie Alpert](https://twitter.com/sophiebits), a non-Facebook developer, saw React and decided to use it. She solved some technical details by rewriting about 2,000 lines of the library's code based on the project she was working** on - and then made a pull request to the React repository. And as you can imagine, she became a member of Facebook's engineering team.
 
 And then, in the same year, 2013, **they decided to announce React again at the UE JSConf, which took place in Berlin. From that point on, the community slowly started talking about the library and trying it out, realizing the simplicity of how React creates rich UIs**. And companies have also started using React. In 2014, Netflix decided to use React to rewrite its platform, which contributed a lot to the library's popularity.
 
@@ -35,7 +35,7 @@ And then, in the same year, 2013, **they decided to announce React again at the 
 
 End. :)
 
-## Software engineers in the documentary
+### Software engineers in the documentary
 
 [Vladimir Koesnikov](https://twitter.com/voloko)
 [Will Bailey](https://twitter.com/will_bailey)
@@ -54,6 +54,6 @@ End. :)
 [David Nolan](https://twitter.com/swannodette)
 [Andrew Clark](https://twitter.com/acdlite)
 
-## Additional notes
+### Additional notes
 
 An off topic that I think it’s awesome to notice is that the documentary highlighted some diversity on IT. I believe there are much more to do, however having LGBTs people as chiefs is inspirational. To be more complete, I would also like to see more black people in the film.
