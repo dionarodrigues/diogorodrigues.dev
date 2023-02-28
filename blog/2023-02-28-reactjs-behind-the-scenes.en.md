@@ -37,22 +37,22 @@ End. :)
 
 ### Software engineers in the documentary
 
-[Vladimir Koesnikov](https://twitter.com/voloko)
-[Will Bailey](https://twitter.com/will_bailey)
-[Jordan Walk](https://twitter.com/jordwalke)
-[Jin Chen](https://twitter.com/jingc)
-[Sophie Alpert](https://twitter.com/sophiebits)
-[Dan Abramov](https://twitter.com/dan_abramov)
+- [Sophie Alpert](https://twitter.com/sophiebits)
+- [Dan Abramov](https://twitter.com/dan_abramov)
+- [Vladimir Koesnikov](https://twitter.com/voloko)
+- [Will Bailey](https://twitter.com/will_bailey)
+- [Jin Chen](https://twitter.com/jingc)
+- [Jordan Walk](https://twitter.com/jordwalke)
 
-[Sebastian Markbåge](https://twitter.com/sebmarkbage)
-[Shane O’Sullivan](https://twitter.com/chofter)
-[Lee Byron](https://twitter.com/leeb)
-[Pete Hunt](https://twitter.com/floydophone)
-[Tom Occhino](https://twitter.com/tomocchino)
-[Adam Wolff](https://twitter.com/dmwlff)
-[Christopher Chedeau](https://twitter.com/Vjeux)
-[David Nolan](https://twitter.com/swannodette)
-[Andrew Clark](https://twitter.com/acdlite)
+- [Sebastian Markbåge](https://twitter.com/sebmarkbage)
+- [Shane O’Sullivan](https://twitter.com/chofter)
+- [Lee Byron](https://twitter.com/leeb)
+- [Pete Hunt](https://twitter.com/floydophone)
+- [Tom Occhino](https://twitter.com/tomocchino)
+- [Adam Wolff](https://twitter.com/dmwlff)
+- [Christopher Chedeau](https://twitter.com/Vjeux)
+- [David Nolan](https://twitter.com/swannodette)
+- [Andrew Clark](https://twitter.com/acdlite)
 
 ### Additional notes
 
