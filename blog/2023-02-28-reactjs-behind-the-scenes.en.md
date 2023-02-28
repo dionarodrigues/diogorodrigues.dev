@@ -56,4 +56,4 @@ End. :)
 
 ### Additional notes
 
-An off topic that I think it’s awesome to notice is that the documentary highlighted some diversity on IT. I believe there are much more to do, however having LGBTs people as chiefs is inspirational. To be more complete, I would also like to see more black people in the film.
+An off topic that I think it’s awesome to notice is that the documentary highlighted some diversity on IT. I believe there are much more to do, however having LGBTs people as managers is inspirational. To be more complete, I would also like to see more black people in the film.
