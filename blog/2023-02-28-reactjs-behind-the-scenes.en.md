@@ -7,7 +7,7 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/reactjs-behind-the-scenes.jpg'
 ---
 
-**Even though [React.js](https://reactjs.org/) was created inside one of the biggest technology companies, it's interesting (and inspiring) to see how an idea can grow to become one of the most used libraries in the world of front-end development. From an initial idea to solve a specific problem to an open source modern project with the collaboration of many developers around the globe. An idea that spawned others, such as Redux.**
+Even though [React.js](https://reactjs.org/) was created inside one of the biggest tech companies, it's interesting (and inspiring) to see how an idea can grow to become one of the most used libraries in the world of front-end development. From an initial idea to solve a specific problem to an open source modern project with the collaboration of many developers around the globe. An idea that spawned others, such as Redux.
 
 Watch the video and check out some key points below.
 
@@ -15,11 +15,11 @@ https://www.youtube.com/watch?v=8pDqJVdNa44&ab_channel=Honeypot
 
 ## React documentary summary (spoiler alert)
 
-**The year was 2011 when React started on Facebook - in a scenario where jQuery, Backbone.js, MooTools and other similar tools dominated front-end development. They first called it Bolt.js**, then thought about FBolt.js until it became React.js. Sometimes referred to as a framework, sometimes as a library.
+**The year was 2011 when React started on Facebook - in a scenario where jQuery, Backbone, MooTools and other similar javascript tools dominated front-end development. They first called it Bolt.js**, then thought about FBolt.js until it became React.js. Sometimes referred to as a framework, sometimes as a library.
 
 Based on the difficulties Facebook's front-end team was having in creating a complex UI at the time, two software engineers created **Bolt.js, a client-side MVC framework that tied together some existing JS tools to handle with the complex interactivity** of primitive Facebook timeline, chat, news feed and other advanced applications.
 
-However as the use of Bolt.js and also the team grew, **[Jordan Walk](https://twitter.com/jordwalke), a product engineer working in ads at the time, had some interesting ideas for changing Bolt, making it much more functional, removing its MVC architecture and adding the concept of re-rendering when something in the UI has changed - that's when React came into being**, but with its initial name as FBolt (Functional Bolt). Later they also introduced JSX syntax and, through [Jin Chen](https://twitter.com/jingc) ideas, another great software engineer, they also introduced ways for handling states in React based on Flux architecture, which was a new chapter in the framework development process.
+But as the use of Bolt.js and also the team grew, **[Jordan Walk](https://twitter.com/jordwalke), a product engineer working in ads at the time, had some interesting ideas for changing Bolt, making it much more functional, removing its MVC architecture and adding the concept of re-rendering when something in the UI has changed - that's when React came into being**, but with its initial name as FBolt (Functional Bolt). Later they also introduced JSX syntax and, through [Jin Chen](https://twitter.com/jingc) ideas, another great software engineer, they also introduced ways for handling states in React based on Flux architecture, which was a new chapter in the framework development process.
 
 But it was around 2012, when Facebook acquired Instagram, that the framework was renamed React and **the web version of Instagram was the first full end-to-end application in production developed using this modern tool**.
 
@@ -27,13 +27,13 @@ The documentary also showed the risky decision they took after several business 
 
 **The next step was to make React an open source tool. And they did it by making this announcement at the US JSConf in 2013, a famous javascript-focused event**. In an age where best practice was splitting HTML, CSS, and JS into separate files, the React way of creating components using JSX and mixing them all together was not well accepted by the community, and this announcement was a disaster.
 
-It was then that **[Sophie Alpert](https://twitter.com/sophiebits), a non-Facebook developer, saw React and decided to use it. She solved some technical details by rewriting about 2,000 lines of the library's code based on the project she was working** on - and then made a pull request to the React repository. And as you can imagine, she became a member of Facebook's engineering team.
+It was then that **[Sophie Alpert](https://twitter.com/sophiebits), a non-Facebook developer, saw React and decided to use it. She solved some technical details by rewriting about 2,000 lines of the library's code based on the project she was working on** - and then made a pull request to the React repository. And as you can imagine, she became a member of Facebook's engineering team.
 
 And then, in the same year, 2013, **they decided to announce React again at the UE JSConf, which took place in Berlin. From that point on, the community slowly started talking about the library and trying it out, realizing the simplicity of how React creates rich UIs**. And companies have also started using React. In 2014, Netflix decided to use React to rewrite its platform, which contributed a lot to the library's popularity.
 
-**2015 was the year of the first React.js Conf where they open sourced native React and started talking about GraphQL and Relay**. It was a huge hit with the community and Facebook decided to convert all of their apps to React and remove all other frameworks. **That's when a few other developers also showed up, including core team member [Dan Abramov](https://twitter.com/dan_abramov) - famous for creating Redux**.
+**2015 was the year of the first React.js Conf where they made React Native an open source project and started talking about GraphQL and Relay**. It was a huge hit with the community and Facebook decided to convert all of their apps to React and remove all other JS frameworks. **That's when a few other developers also showed up, including core team member [Dan Abramov](https://twitter.com/dan_abramov) - famous for creating Redux**.
 
-Some of the software engineers responsible for React's success no longer work at Facebook, but they certainly left their legacy there. :)
+Some of the software engineers responsible for React's success no longer work at Facebook, but they certainly left their legacy there (and in the dev world). :)
 
 ### Software engineers in the documentary
 
@@ -56,4 +56,6 @@ Some of the software engineers responsible for React's success no longer work at
 
 ### Additional notes
 
-An off topic that I think it’s awesome to notice is that the documentary highlighted some diversity on IT. I believe there are much more to do, however having LGBTs people as managers is inspirational. To be more complete, I would also like to see more black people in the film.
+One off-topic thing I think is amazing to note is that the documentary highlighted some diversity in IT. I believe there is much more to be done, but having LGBTQAI+ people as managers is inspiring. To be even more complete, I would also like to see more black people in the film.
+
+See you next time! 😁
