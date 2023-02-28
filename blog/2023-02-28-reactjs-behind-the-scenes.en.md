@@ -33,7 +33,7 @@ And then, in the same year, 2013, **they decided to announce React again at the 
 
 **2015 was the year of the first React.js Conf where they open sourced native React and started talking about GraphQL and Relay**. It was a huge hit with the community and Facebook decided to convert all of their apps to React and remove all other frameworks. **That's when a few other developers also showed up, including core team member [Dan Abramov](https://twitter.com/dan_abramov) - famous for creating Redux**.
 
-End. :)
+Some of the software engineers responsible for React's success no longer work at Facebook, but they certainly left their legacy there. :)
 
 ### Software engineers in the documentary
 
