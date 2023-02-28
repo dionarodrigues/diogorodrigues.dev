@@ -25,7 +25,7 @@ But it was around 2012, when Facebook acquired Instagram, that the framework was
 
 The documentary also showed the risky decision they took after several business discussions to continue using React instead of its initial version called Bolt, as React had not yet been fully developed and its use would impact the company's business for a while.
 
-**The next step was to make React an open source tool**. And they did it by making this announcement at the US JSConf in 2013, a famous javascript-focused event. In an age where best practice was splitting HTML, CSS, and JS into separate files, the React way of creating components using JSX and mixing them all together was not well accepted by the community, and this announcement was a disaster.
+**The next step was to make React an open source tool. And they did it by making this announcement at the US JSConf in 2013, a famous javascript-focused event**. In an age where best practice was splitting HTML, CSS, and JS into separate files, the React way of creating components using JSX and mixing them all together was not well accepted by the community, and this announcement was a disaster.
 
 It was then that **[Sophie Alpert](https://twitter.com/sophiebits), a non-Facebook developer, saw React and decided to use it. She solved some technical details by rewriting about 2,000 lines of the library's code based on the project she was working** on - and then made a pull request to the React repository. And as you can imagine, she became a member of Facebook's engineering team.
 
