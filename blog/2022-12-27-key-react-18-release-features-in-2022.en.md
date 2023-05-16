@@ -17,7 +17,7 @@ To summarise this article, check below which features this post will talk about:
 - `<Suspense>` component
 - What’s next
 
-I wrote another article recently covering [new React documentation](https://www.diogorodrigues.dev/blog/reacts-new-killer-documentation-focused-only-on-functional-components), in case you're interested in reading more about what's new in this library.
+I wrote another article recently covering [new React documentation](https://www.dionarodrigues.dev/blog/reacts-new-killer-documentation-focused-only-on-functional-components), in case you're interested in reading more about what's new in this library.
 
 ## React.DOM API, migrating to React version 18
 

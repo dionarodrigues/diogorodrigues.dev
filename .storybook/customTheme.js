@@ -33,6 +33,6 @@ export default create({
   inputBorderRadius: 4,
 
   brandTitle: 'Diogo Rodrigues',
-  brandUrl: 'https://www.diogorodrigues.dev/',
+  brandUrl: 'https://www.dionarodrigues.dev/',
   brandImage: logo,
 });

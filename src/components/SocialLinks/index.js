@@ -11,7 +11,7 @@ const SocialLinks = () => {
     <S.SocialLinksList>
       <S.SocialLinksItem>
         <S.SocialLinksLink
-          href="https://github.com/diogorodrigues/"
+          href="https://github.com/dionarodrigues/"
           title="Github"
           target="_blank"
         >
@@ -20,7 +20,7 @@ const SocialLinks = () => {
       </S.SocialLinksItem>
       <S.SocialLinksItem>
         <S.SocialLinksLink
-          href="https://twitter.com/_diogorodrigues"
+          href="https://twitter.com/_dionarodrigues"
           title="Twitter"
           target="_blank"
         >
@@ -29,7 +29,7 @@ const SocialLinks = () => {
       </S.SocialLinksItem>
       <S.SocialLinksItem>
         <S.SocialLinksLink
-          href="https://www.linkedin.com/in/diogorodrigues02"
+          href="https://www.linkedin.com/in/dionarodrigues"
           title="Linkedin"
           target="_blank"
         >

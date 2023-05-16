@@ -22,30 +22,30 @@ const AuthorCard = () => {
             <Link to={locale === 'en' ? '/about' : '/pt/sobre'}>
               <Img
                 fluid={authorPhoto.childImageSharp.fluid}
-                alt="Diogo Rodrigues"
+                alt="Diona Rodrigues"
               />
             </Link>
           )}
         </S.AuthorPhoto>
         <S.AuthorInfo>
           <p>
-            <strong>Diogo Rodrigues</strong>
+            <strong>Diona Rodrigues</strong>
           </p>
           <p>Front-end designer</p>
           <ul>
             <li>
-              <a href="https://github.com/diogorodrigues/" title="Github">
+              <a href="https://github.com/dionarodrigues/" title="Github">
                 <Github size={25} />
               </a>
             </li>
             <li>
-              <a href="https://twitter.com/_diogorodrigues" title="Twitter">
+              <a href="https://twitter.com/_dionarodrigues" title="Twitter">
                 <Twitter size={25} />
               </a>
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/in/diogorodrigues02"
+                href="https://www.linkedin.com/in/dionarodrigues"
                 title="Linkedin"
               >
                 <Linkedin size={25} />

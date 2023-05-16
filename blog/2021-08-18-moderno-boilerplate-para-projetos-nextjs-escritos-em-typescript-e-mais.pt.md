@@ -7,7 +7,7 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/modern-starter-for-nextjs-applications-written-in-typescript-and-more.jpg'
 ---
 
-**Comecei a trabalhar com o React há alguns anos e ele ainda é minha tecnologia favorita para quase todos os sites que desenvolvo. [Meu blog é desenvolvido com Gatsby](https://www.diogorodrigues.dev/pt/blog/porque-eu-decidi-desenvolver-meu-blog-com-gatsbyjs) (outro framework fantástico baseado em React), mas desde que tive minha primeira experiência com [Next.js](https://nextjs.org/) percebi que esta ferramenta faria parte de meus projetos futuros. E por causa disso eu criei este [moderno boilerplate para projetos Next.js](https://github.com/diogorodrigues/nextjs-typescript-starter)**
+**Comecei a trabalhar com o React há alguns anos e ele ainda é minha tecnologia favorita para quase todos os sites que desenvolvo. [Meu blog é desenvolvido com Gatsby](https://www.dionarodrigues.dev/pt/blog/porque-eu-decidi-desenvolver-meu-blog-com-gatsbyjs) (outro framework fantástico baseado em React), mas desde que tive minha primeira experiência com [Next.js](https://nextjs.org/) percebi que esta ferramenta faria parte de meus projetos futuros. E por causa disso eu criei este [moderno boilerplate para projetos Next.js](https://github.com/dionarodrigues/nextjs-typescript-starter)**
 
 ## Por que Next.js?
 
@@ -16,14 +16,13 @@ featuredImage: '/assets/img/blog/modern-starter-for-nextjs-applications-written-
 - Next.js também gera arquivos estáticos, o que é perfeito para criar páginas (ou sites inteiros) que não precisam ser dinâmicos.
 - Ao usá-lo, não precisamos nos preocupar com o desempenho porque este framework lida com a maior parte da complexidade para nós: minimização de javascript, code splitting, pre-fetching, caching e muito mais.
 
-
 ## Por que precisamos usar um boilerplate?
 
 Apesar de todas as vantagens do Next.js, os boilerplates (ou starters) nos ajudam a economizar tempo definindo as configurações básicas para nossos projetos: suporte para PWA, typescript, storybook, testes, lint, código consistente...
 
-**Então, com base nas necessidades dos projetos em que trabalhei, [eu criei um boilerplate que uso sempre que inicio novas aplicações web](https://github.com/diogorodrigues/nextjs-typescript-starter). E talvez também possa ser útil para você. 😁✨**
+**Então, com base nas necessidades dos projetos em que trabalhei, [eu criei um boilerplate que uso sempre que inicio novas aplicações web](https://github.com/dionarodrigues/nextjs-typescript-starter). E talvez também possa ser útil para você. 😁✨**
 
-## Principais configurações do [meu Next.js boilerplate](https://github.com/diogorodrigues/nextjs-typescript-starter)
+## Principais configurações do [meu Next.js boilerplate](https://github.com/dionarodrigues/nextjs-typescript-starter)
 
 ### Javascript com Typescript
 
@@ -37,7 +36,6 @@ _Tradução: "Quanto maior a aplicação que você está escrevendo, mais útil 
 
 Você pode verificar mais benefícios do TS assistindo este [vídeo](https://www.youtube.com/watch?v=wYgSiFaYSSo&ab_channel=MicrosoftDeveloper).
 
-
 ### Código consistente usando EditorConfig, Prettier, ESLint e typescript-eslint
 
 Especialmente quando estamos trabalhando em equipe, nosso código precisa ser consistente. **Portanto, todas essas ferramentas nos ajudam a evitar armadilhas comuns e melhorar a sintaxe dos nossos códigos**.
@@ -49,7 +47,7 @@ Especialmente quando estamos trabalhando em equipe, nosso código precisa ser co
 
 ### Estilos via Styled Components
 
-**[Styled Components](https://styled-components.com/) é uma [biblioteca CSS-in-JS](https://www.diogorodrigues.dev/pt/blog/css-in-js-e-a-morte-do-css-tradicional#o-que-e-css-in-js) que permite aos desenvolvedores escrever CSS para cada componente React diretamente (o que significa que não precisamos nos preocupar com questões relacionadas às classes e especificidade do CSS).**
+**[Styled Components](https://styled-components.com/) é uma [biblioteca CSS-in-JS](https://www.dionarodrigues.dev/pt/blog/css-in-js-e-a-morte-do-css-tradicional#o-que-e-css-in-js) que permite aos desenvolvedores escrever CSS para cada componente React diretamente (o que significa que não precisamos nos preocupar com questões relacionadas às classes e especificidade do CSS).**
 
 Eu sou um grande fã desta biblioteca e abaixo estão alguns benefícios ao usar Styled Components em nossos projetos React:
 
@@ -87,7 +85,7 @@ Existem diferentes tipos de testes e maneiras de implementá-los. Vou me concent
 - **[Jest](https://jestjs.io/)**: é uma das ferramentas mais populares e satisfatórias, pois possui diversas funcionalidades já integradas, tais como: mock, snapshot, informação de cobertura de código, entre outros. Possui ótima integração com o ecossistema React, pois também é mantido pela equipe do Facebook.
 - **[React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)**: é um grupo de funções utilitárias poderosas para Jest que tornam nossa vida como desenvolvedores mais fácil. Usando RTL, podemos selecionar os componentes pelo atributo aria-label, por exemplo - o que pode nos encorajar a escrever melhores componentes por meio de abordagens de acessibilidade.
 
-Para saber mais sobre as ferramentas Jest e React Testing Library, recomendo este artigo: [Automatizando testes de UI com Jest e React Testing Library](https://www.diogorodrigues.dev/pt/blog/automatizando-testes-de-ui-com-jest-e-react-testing-library).
+Para saber mais sobre as ferramentas Jest e React Testing Library, recomendo este artigo: [Automatizando testes de UI com Jest e React Testing Library](https://www.dionarodrigues.dev/pt/blog/automatizando-testes-de-ui-com-jest-e-react-testing-library).
 
 ### Suporte para PWA usando [next-pwa](https://www.npmjs.com/package/next-pwa)
 
@@ -119,6 +117,7 @@ _Tradução: "[Plop](https://plopjs.com/) é uma pequena ferramenta que economiz
 Assim, ao utilizar esta ferramenta, através de alguns templates, pode-se executar um comando para criar todos os arquivos necessários para novos componentes seguindo um padrão, o que torna nosso código consistente e nos economiza algum tempo.
 
 Se você executar `yarn generate button` na linha de comando, um novo diretório chamado ‘Button’ será criado em ‘src/componentes’ contendo os arquivos necessários e seus códigos básicos:
+
 - index.tsx
 - stories.tsx
 - styles.ts
@@ -128,6 +127,6 @@ Verifique toda a configuração do Plop em `./generators`.
 
 ## Conclusão
 
-**Criar este [boilerplate moderno para Next.js](https://github.com/diogorodrigues/nextjs-typescript-starter) me fez aprender muito e tentei garantir que todas as configurações e ferramentas importantes que gosto de usar em meus projetos estão aqui. Espero que este starter seja útil para você também. Depois me diga se gostou, se pretende usar e se tem alguma sugestão.**
+**Criar este [boilerplate moderno para Next.js](https://github.com/dionarodrigues/nextjs-typescript-starter) me fez aprender muito e tentei garantir que todas as configurações e ferramentas importantes que gosto de usar em meus projetos estão aqui. Espero que este starter seja útil para você também. Depois me diga se gostou, se pretende usar e se tem alguma sugestão.**
 
 Até a próxima. 😁

@@ -1,7 +1,7 @@
 ---
 title: 'CSS-in-JS e a morte do CSS tradicional'
 date: '2020-07-22 01:21:23'
-description: "Apesar da evolução do CSS nos últimos anos (como variáveis CSS, por exemplo), ele ainda apresenta vários problemas, principalmente quando usado em projetos maiores. E por causa disso, o CSS-in-JS surgiu como um conjunto de idéias para resolver problemas complexos de CSS: modularidade, especificidade, conflitos de nome de classes, escopo e muito mais."
+description: 'Apesar da evolução do CSS nos últimos anos (como variáveis CSS, por exemplo), ele ainda apresenta vários problemas, principalmente quando usado em projetos maiores. E por causa disso, o CSS-in-JS surgiu como um conjunto de idéias para resolver problemas complexos de CSS: modularidade, especificidade, conflitos de nome de classes, escopo e muito mais.'
 category: CSS
 background: '#353b48'
 featuredImage: '/assets/img/blog/css-in-js.jpg'
@@ -11,7 +11,7 @@ Desde quando comecei minha carreira como web designer até agora, como desenvolv
 
 **A maneira como pensamos as estilizações e usamos CSS está mudando e algumas discussões sobre a morte do CSS tradicional vem surgindo. Portanto, neste artigo, mostrarei a evolução do CSS desde a sua criação e apresentarei algumas reflexões pessoais sobre o estado atual dessa linguagem.**
 
-## Uma  breve história do CSS
+## Uma breve história do CSS
 
 Para entendermos o estado atual do CSS, vamos voltar rapidamente aos velhos tempos do desenvolvimento web e entender porque o CSS, como linguagem nativa, foi criado e analisar sua evolução até hoje.
 
@@ -33,7 +33,7 @@ Leia mais sobre a linha do tempo do CSS [aqui](https://www.w3.org/Style/CSS20/hi
 
 > “There has never been a CSS4. There will never be a CSS4. CSS4 is not a thing that exists.” - [Tab Atkins, 2012](https://www.xanthir.com/b4Ko0) - membro do grupo de trabalho CSS na W3C. Ele também trabalha para o Google na equipe do Google Chrome.
 
-***Tradução: “Nunca houve um CSS4. Nunca haverá um CSS4. CSS4 não é algo que existe.”***
+**_Tradução: “Nunca houve um CSS4. Nunca haverá um CSS4. CSS4 não é algo que existe.”_**
 
 Embora por muito tempo as pessoas se referiram aos novos recursos do CSS como CSS 3, agora não precisamos mais utilizar essa referência. É apenas CSS, como Rachel Andrew explicou em [seu artigo](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/). Mas eu confesso a você que sou dessa época em que o boom do CSS3 fez com que destacássemos qual versão do CSS nós sabíamos.
 
@@ -57,13 +57,13 @@ Em poucas palavras, o CSS-in-JS não é uma biblioteca específica, mas um conju
 
 > “For three years, I have styled my web apps without any `.css` files. Instead, I have written all the CSS in JavaScript. (...) I can add, change and delete CSS without any unexpected consequences. My changes to the styling of a component will not affect anything else. If I delete a component, I delete its CSS too.” - Max Stoiber, co-criador de Styled Components, a biblioteca CSS-in-JS mais popular, escreveu essas palavras nesse [seu artigo](https://twitter.com/mxstbr)
 
-***Tradução: Durante três anos, venho estilizando minhas aplicações web sem nenhum arquivo `.css`. Em vez disso, escrevo todo o CSS em JavaScript. (...) Posso adicionar, alterar e excluir CSS sem efeitos colaterais inesperados. Minhas alterações nos estilos de um componente não afetarão nenhum outro. Se eu excluir um componente, também excluo o seu respectivo CSS.”***
+**_Tradução: Durante três anos, venho estilizando minhas aplicações web sem nenhum arquivo `.css`. Em vez disso, escrevo todo o CSS em JavaScript. (...) Posso adicionar, alterar e excluir CSS sem efeitos colaterais inesperados. Minhas alterações nos estilos de um componente não afetarão nenhum outro. Se eu excluir um componente, também excluo o seu respectivo CSS.”_**
 
 O JavaScript se tornou uma parte crescente do nosso trabalho e novas técnicas estão surgindo o tempo todo. Portanto, agora também podemos usar o poder do JS para mudar a maneira como criamos nossos estilos e melhorar o desempenho de nossos aplicativos.
 
 > “CSS-in-JS has been one of the biggest developments of the past few years in the CSS world. Just like preprocessors bypassed CSS to introduce their own set of new features over a decade ago, CSS-in-JS libraries piggyback on JavaScript's power to make their own path without waiting for CSS to catch up.” - [Pesquisa The State of CSS in 2019](https://2019.stateofcss.com/technologies/css-in-js/)
 
-***Tradução: “CSS-in-JS tem sido um dos maiores desenvolvimentos dos últimos anos no mundo do CSS. Assim como os pré-processadores ignoraram o CSS para apresentar seu próprio conjunto de novos recursos há mais de uma década, as bibliotecas CSS-in-JS utilizam o poder do JavaScript de criar seu próprio caminho sem esperar que o CSS o faça.”***
+**_Tradução: “CSS-in-JS tem sido um dos maiores desenvolvimentos dos últimos anos no mundo do CSS. Assim como os pré-processadores ignoraram o CSS para apresentar seu próprio conjunto de novos recursos há mais de uma década, as bibliotecas CSS-in-JS utilizam o poder do JavaScript de criar seu próprio caminho sem esperar que o CSS o faça.”_**
 
 ### Vantagens do CSS-in-JS
 
@@ -101,14 +101,13 @@ Entre todas essas bibliotecas, uma que ganhou muita popularidade é a [Styled Co
 
 - **Manutenção simplificada e segura**: como o escopo é reduzido, possuímos mais confiança para dar manutenção no código.
 
-
-- E muito [mais recursos](https://styled-components.com/docs/basics#motivation).
+* E muito [mais recursos](https://styled-components.com/docs/basics#motivation).
 
 ## O tradicional CSS está morrendo?
 
 Como você pode ver, a arquitetura CSS tradicional não foi projetada para ser usada em projetos grandes. E em um mundo de frameworks como React, Vue, Angular e similares, que vêm sendo amplamente utilizados, precisamos de soluções melhores para resolver alguns problemas dolorosos de CSS.
 
-Os pré-processadores CSS adicionaram muito poder às folhas de estilos e coisas como CSS modularizado, nesting (aninhamento) e variáveis me ajudaram em muitos projetos diferentes - inclusive, eu criei esse [boilerplate usando Gulp e Stylus](https://github.com/diogorodrigues/iceberg-boilerplate) no passado para desenvolver minhas aplicações web. Mas agora o mundo do desenvolvimento front-end é diferente e as soluções baseadas no React (como GatsbyJS, NextJS e React Native) fazem parte da minha rotina diária atual de desenvolvimento e eu preciso de algo mais poderoso.
+Os pré-processadores CSS adicionaram muito poder às folhas de estilos e coisas como CSS modularizado, nesting (aninhamento) e variáveis me ajudaram em muitos projetos diferentes - inclusive, eu criei esse [boilerplate usando Gulp e Stylus](https://github.com/dionarodrigues/iceberg-boilerplate) no passado para desenvolver minhas aplicações web. Mas agora o mundo do desenvolvimento front-end é diferente e as soluções baseadas no React (como GatsbyJS, NextJS e React Native) fazem parte da minha rotina diária atual de desenvolvimento e eu preciso de algo mais poderoso.
 
 E com essas mudanças na maneira como pensamos as estilizações e criamos o CSS, várias discussões vêm surgindo sobre a morte do CSS tradicional como você pode ver nesse [post do Samson Zhang](https://www.samsonzhang.com/2020/05/13/the-artistry-of-css-and-its-death-a-reflection-about-css-and-js-frameworks-and-the-evolution-of-css.html) e nesse outro [post do Chris Coyer](https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/) também.
 
@@ -122,6 +121,6 @@ Mostrei uma perspectiva sobre o estado atual do CSS, seus problemas nativos e al
 
 O grande ponto positivo que eu vejo nessas novas ideias, como o CSS-in-JS, é a questão de se ter tudo em um mesmo lugar, sem muita complexidade de configuração, o que com certeza influenciará no desenvolvimento de novas features do CSS, assim como ocorreu (e vem ocorrendo) com os pré-processadores CSS.
 
-**Eu sou apaixonado por CSS e, para mim, escrever CSS é uma arte. Concordo plenamente que o CSS tradicional ainda será extensivamente usado dependendo do projeto, afinal vêm surgindo muitas features CSS sensacionais (como você pode ver [nesse artigo](https://www.diogorodrigues.dev/pt/blog/6-poderosas-tecnicas-de-css-ao-inves-de-javascript)). Mas a manutenção do CSS hoje que é um ponto crítico e que precisa ser melhorado.**.
+**Eu sou apaixonado por CSS e, para mim, escrever CSS é uma arte. Concordo plenamente que o CSS tradicional ainda será extensivamente usado dependendo do projeto, afinal vêm surgindo muitas features CSS sensacionais (como você pode ver [nesse artigo](https://www.dionarodrigues.dev/pt/blog/6-poderosas-tecnicas-de-css-ao-inves-de-javascript)). Mas a manutenção do CSS hoje que é um ponto crítico e que precisa ser melhorado.**.
 
 E você? O que você acha que está acontecendo com o CSS? Você já experimentou CSS-in-JS?

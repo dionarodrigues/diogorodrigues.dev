@@ -1,9 +1,12 @@
 {
   "items": [
-    { "label": "linkedin", "url": "https://www.linkedin.com/in/diogorodrigues02/" },
-    { "label": "github", "url": "https://github.com/diogorodrigues" },
-    { "label": "twitter", "url": "https://twitter.com/_diogorodrigues" },
-    { "label": "codepen", "url": "https://codepen.io/diogorodrigues" },
-    { "label": "dev.to", "url": "https://dev.to" }
+    {
+      "label": "linkedin",
+      "url": "https://www.linkedin.com/in/dionarodrigues/"
+    },
+    { "label": "github", "url": "https://github.com/dionarodrigues" },
+    { "label": "twitter", "url": "https://twitter.com/_dionarodrigues" },
+    { "label": "codepen", "url": "https://codepen.io/dionarodrigues" },
+    { "label": "dev.to", "url": "https://dev.to/dionarodrigues" }
   ]
 }

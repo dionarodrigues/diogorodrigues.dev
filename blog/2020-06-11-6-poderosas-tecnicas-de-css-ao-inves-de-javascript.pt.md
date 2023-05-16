@@ -33,7 +33,7 @@ html {
 }
 ```
 
-https://codepen.io/diogorodrigues/pen/PoZYYZy
+https://codepen.io/dionarodrigues/pen/PoZYYZy
 
 Enquanto escrevo esse post, a propriedade scroll-behavior funciona no Chrome e Firefox, mas ainda não no Edge, IE ou Safari (desktop ou celular). Leia mais sobre isso em [Can I Use](https://caniuse.com/#feat=mdn-css_properties_scroll-behavior).
 
@@ -48,7 +48,7 @@ header {
 }
 ```
 
-https://codepen.io/diogorodrigues/pen/vYLBBdV
+https://codepen.io/dionarodrigues/pen/vYLBBdV
 
 Mas você deve entender a lógica por trás do `position: sticky` para usá-lo de modo correto uma vez que a estrutura do HTML faz bastante diferença. (Inclusive, essa é a razão porque às vezes essa propriedade não funciona).
 
@@ -81,7 +81,7 @@ Quase [100% dos navegadores suportam essa propriedade](https://caniuse.com/#feat
 
 O CSS nos presenteou com duas propriedades fantásticas, `text-overflow` e `line-clamp`, que podem criar reticências e cortar palavras sem o uso de javascript ou outro método complexo para isso. Ambas as propriedades não são novas, mas são muito úteis.
 
-https://codepen.io/diogorodrigues/pen/NWxKKEq
+https://codepen.io/dionarodrigues/pen/NWxKKEq
 
 Vamos dar uma olhada mais de perto.
 
@@ -159,11 +159,11 @@ Desde que a Apple introduziu o Dark Mode no macOS no ano passado e o CSS nos deu
 
 > "There are also people who actually need dark mode and use it as another accessibility tool, for example, users with low vision." - Thomas Steiner, Customer Solutions Engineer at Google Germany
 
-Tradução: *"Também existem pessoas que realmente precisam do dark mode e o usam como ferramenta de acessibilidade, por exemplo, usuários com baixa visão".*
+Tradução: _"Também existem pessoas que realmente precisam do dark mode e o usam como ferramenta de acessibilidade, por exemplo, usuários com baixa visão"._
 
 > "Molly has Usher Syndrome; a condition that has left her deaf with 5–degree vision in one eye. (...) Reading the content in dark mode would be bearable for Molly, and might benefit others too — enhancing the experience for a user with a headache, or someone browsing in a poorly lit room. Designing for the few, makes things better for the many." - Charles Reynolds-Talbot, designer at the UK government
 
-Tradução: *"Molly tem Síndrome de Usher; uma condição que a deixou surda e com visão de 5 graus em um olho. (...) A leitura do conteúdo em dark mode seria suportável para Molly e também beneficiaria outras pessoas - aprimorando a experiência de um usuário com dor de cabeça ou de alguém navegando em uma sala mal iluminada. Planejar para alguns pode melhorar as coisas para muitos.”*
+Tradução: _"Molly tem Síndrome de Usher; uma condição que a deixou surda e com visão de 5 graus em um olho. (...) A leitura do conteúdo em dark mode seria suportável para Molly e também beneficiaria outras pessoas - aprimorando a experiência de um usuário com dor de cabeça ou de alguém navegando em uma sala mal iluminada. Planejar para alguns pode melhorar as coisas para muitos.”_
 
 [Leia mais sobre isso aqui](https://charlesrt.uk/blog/apple-need-a-dark-mode-for-people-like-molly-watt/).
 
@@ -171,7 +171,7 @@ E veja como o Dark Mode como fazer com que haja bastante economia de bateria [ne
 
 > "(...) dark mode is known to save a lot of energy on AMOLED screens. Android case studies that focused on popular Google apps like YouTube have shown that the power savings can be up to 60%."
 
-Tradução: *"(...) o dark mode é conhecido por economizar muita energia em telas AMOLED. Estudos de caso do Android focados em aplicativos populares do Google, como o YouTube, mostraram que a economia de energia pode ser de até 60%."*
+Tradução: _"(...) o dark mode é conhecido por economizar muita energia em telas AMOLED. Estudos de caso do Android focados em aplicativos populares do Google, como o YouTube, mostraram que a economia de energia pode ser de até 60%."_
 
 Um novo recurso que permite detectar se o usuário está com o dark mode ativado é chamado `prefers-color-scheme` e já é [compatível com Chrome, Firefox, Safari e Opera](https://caniuse.com/#feat=prefers-color-scheme).
 
@@ -215,7 +215,7 @@ body:after {
 
 No exemplo abaixo, dependendo das configurações do seu dispositivo, você verá os estilos para dark ou light mode.
 
-https://codepen.io/diogorodrigues/pen/VweZwjN
+https://codepen.io/dionarodrigues/pen/VweZwjN
 
 ## 6- @supports
 
@@ -237,11 +237,9 @@ O exemplo acima verifica se o navegador suporta a propriedade `-webkit-line-clam
 
 [Todos os navegadores modernos já suportam esse recurso](https://caniuse.com/#search=css.supports).
 
-
 [[media]]
 | ![Animated Gif](https://miro.medium.com/max/650/1*YJgEh7gAzQHsBR2Y3rFJEA.gif)
 Esse sou eu depois que fiquei sabendo desse recurso do CSS. 🤣🤣 E quanto a você?
-
 
 ## Conclusão
 
@@ -250,4 +248,3 @@ Esse sou eu depois que fiquei sabendo desse recurso do CSS. 🤣🤣 E quanto a 
 O mundo do front-end atual está mudando e novos recursos estão sendo criados para tornar nosso trabalho mais rápido e elegante. Brincar com CSS e aprender novos truques pode ser muito divertido e interessante. Experimente. ❤
 
 Espero que você tenha gostado desse post e me diga se eu deixei de fora algum outro recurso fantástico do CSS que você usa com frequência!
-

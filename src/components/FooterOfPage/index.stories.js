@@ -8,7 +8,7 @@ export default { title: 'Footer of Page' };
 export const Default = () => (
   <FooterOfPage
     circleText="I am available for freelance - get in touch -"
-    email="hello@diogorodrigues.dev"
+    email="hello@dionarodrigues.dev"
     renderMainMenu={() => (
       <Menu
         color="var(--text-color-light)"
@@ -68,7 +68,7 @@ export const Default = () => (
       <>
         <p>São Paulo / Brazil</p>
         <p>
-          All rights reserved. © Diogo Rodrigues <br />
+          All rights reserved. © Diona Rodrigues <br />
           Site made using Gatsby JS ♥.
         </p>
       </>
@@ -110,7 +110,7 @@ export const isSimplified = () => (
       <>
         <p>São Paulo / Brazil</p>
         <p>
-          All rights reserved. © Diogo Rodrigues <br />
+          All rights reserved. © Diona Rodrigues <br />
           Site made using Gatsby JS ♥.
         </p>
       </>

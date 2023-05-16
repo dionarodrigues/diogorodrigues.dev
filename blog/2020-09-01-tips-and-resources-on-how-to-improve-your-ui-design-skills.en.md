@@ -122,7 +122,7 @@ Now that you have the expertise to pay attention to details, the ability to trai
 - **[Tympanus/Codrops](https://tympanus.net/codrops/category/playground/)**
 - **[Modern CSS](https://moderncss.dev/)**
 - **[Style Stage](https://stylestage.dev/)**
-- **[6 Powerful CSS Techniques You Can Use Instead of Javascript](https://www.diogorodrigues.dev/blog/6-powerful-css-techniques-you-can-use-instead-javascript)**
+- **[6 Powerful CSS Techniques You Can Use Instead of Javascript](https://www.dionarodrigues.dev/blog/6-powerful-css-techniques-you-can-use-instead-javascript)**
 
 #### CSS effects tutorials:
 

@@ -88,10 +88,10 @@ const Page = props => {
                       meus projetos
                     </Link>{' '}
                     e me siga no{' '}
-                    <a href="https://twitter.com/_diogorodrigues">Twitter</a> e{' '}
-                    <a href="https://github.com/diogorodrigues">Github</a>.
+                    <a href="https://twitter.com/_dionarodrigues">Twitter</a> e{' '}
+                    <a href="https://github.com/dionarodrigues">Github</a>.
                     Sinta-se a vontade para visitar meu{' '}
-                    <a href="https://www.linkedin.com/in/diogorodrigues02/">
+                    <a href="https://www.linkedin.com/in/dionarodrigues/">
                       Linkedin
                     </a>{' '}
                     ou{' '}
@@ -109,10 +109,10 @@ const Page = props => {
                       my projects
                     </Link>{' '}
                     and follow me on{' '}
-                    <a href="https://twitter.com/_diogorodrigues">Twitter</a>{' '}
-                    and <a href="https://github.com/diogorodrigues">Github</a>.
+                    <a href="https://twitter.com/_dionarodrigues">Twitter</a>{' '}
+                    and <a href="https://github.com/dionarodrigues">Github</a>.
                     Feel free to visit my{' '}
-                    <a href="https://www.linkedin.com/in/diogorodrigues02/">
+                    <a href="https://www.linkedin.com/in/dionarodrigues/">
                       Linkedin
                     </a>{' '}
                     or{' '}
@@ -131,15 +131,13 @@ const Page = props => {
       {type_of_page === 'contact' && (
         <div className="container">
           <Text sizeSmall={2} sizeMedium={3} sizeLarge={4.5}>
-            <a href="mailto:diogorodrigues.dev@gmail.com">
-              diogorodrigues.dev@gmail.com
+            <a href="mailto:dionarodrigues.me@gmail.com">
+              dionarodrigues.me@gmail.com
             </a>
           </Text>
           <br />
           <Text sizeSmall={2} sizeMedium={3} sizeLarge={4.5}>
-            <a href="tel:+353830932951">
-              +353 83 093 2951
-            </a>
+            <a href="tel:+353830932951">+353 83 093 2951</a>
           </Text>
           <br />
           <br />

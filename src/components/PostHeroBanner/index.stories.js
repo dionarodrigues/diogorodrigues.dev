@@ -9,7 +9,7 @@ export const Default = () => (
     description="This is a collection of my gruesome attempts to write something interesting and useful. I will keep trying."
     imgUrl="https://h7f7z2r7.stackpathcdn.com/sites/default/files/images/articles/canada-usa-flags.jpg"
     date="24/02/2020"
-    author="Diogo Rodrigues"
+    author="Diona Rodrigues"
     category="javascript"
     timeToRead="4 min"
   />

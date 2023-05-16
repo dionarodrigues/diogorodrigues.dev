@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
 
-// import logo from '../../images/diogo-rodrigues-logo.svg';
+// import logo from '../../images/diona-rodrigues-logo.svg';
 import * as S from './styled';
 
 const Logo = ({ title, img, isTitleVisible, link }) => {

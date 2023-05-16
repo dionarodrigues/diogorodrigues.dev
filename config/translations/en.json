@@ -1,8 +1,7 @@
 {
-
   "availableMessage": "I'm available for freelance - get in touch - ",
 
-  "presentation": "<span>👋</span>Hey, I'm Diogo Rodrigues",
+  "presentation": "<span>👋</span>Hey, I'm Diona Rodrigues",
   "jobDescription": "I create <strong>digital experiences</strong> <br/>through design & code",
   "aboutMeShort": "<p> I’m a <span class='text-line'>web designer</span> front-end developer with UI/UX design skills based in Dublin, Ireland.",
 
@@ -11,10 +10,10 @@
   "contactPageDescription": "What is your challenge? I can help you and your business with UX / UI design and front-end development for web and mobile.",
   "brandsListTitle": "I've been helping brands elevate their story",
 
-  "contactTitle":"Contact",
-  "contactSubtitle":"something great",
-  "contactBeforeSubtitle":"let's create",
-  "contactAfterSubtitle":"together",
+  "contactTitle": "Contact",
+  "contactSubtitle": "something great",
+  "contactBeforeSubtitle": "let's create",
+  "contactAfterSubtitle": "together",
 
   "home": "Home",
   "articles": "articles",
@@ -35,7 +34,7 @@
   "prev": "Prev",
   "of": "of",
 
-  "copyright": "All rights reserved. © Diogo Rodrigues",
+  "copyright": "All rights reserved. © Diona Rodrigues",
   "siteInfo": "Site made using <a href='https://www.gatsbyjs.org/'>Gatsby</a> ❤.",
   "location": "Dublin / Ireland"
 }

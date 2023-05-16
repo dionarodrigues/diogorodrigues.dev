@@ -1,7 +1,7 @@
 ---
 title: 'CSS-in-JS and the death of traditional CSS'
 date: '2020-07-22 01:21:23'
-description: "Despite the evolution of CSS over the last few years (like CSS vars, for example), it still has several problems, especially when used in larger projects. And because of this CSS-in-JS emerged as a set of ideas to solve these complex CSS problems: modularity, specificity, class name conflicts, scope and more."
+description: 'Despite the evolution of CSS over the last few years (like CSS vars, for example), it still has several problems, especially when used in larger projects. And because of this CSS-in-JS emerged as a set of ideas to solve these complex CSS problems: modularity, specificity, class name conflicts, scope and more.'
 category: CSS
 background: '#353b48'
 featuredImage: '/assets/img/blog/css-in-js.jpg'
@@ -21,7 +21,7 @@ Well, to understand the current state of CSS, let's quickly go back to the old d
 
 - **1996**: CSS level 1 finally emerged as a W3C Recommendation in the end of 1996 and Microsoft Internet Explorer 3 became the first commercial browser to support it. At that time, CSS1 allowed web designers to set just basic properties, such as fonts, colors and other minimal features.
 
-- **1998**:  W3C published CSS level 2 which added support for positioning properties and table content. It also included support for media types, web fonts (the [polemic ability to embed fonts in a web document](https://www.w3.org/Fonts/Misc/eot-report-2008)) and some other properties related to user interface.
+- **1998**: W3C published CSS level 2 which added support for positioning properties and table content. It also included support for media types, web fonts (the [polemic ability to embed fonts in a web document](https://www.w3.org/Fonts/Misc/eot-report-2008)) and some other properties related to user interface.
 
 - **1999**: W3C started working on CSS Level 3 - the version we are now familiar with. The point here is also the introduction of modules to release independent features instead of new versions of the language.
 
@@ -101,7 +101,7 @@ Among all these libraries one that has gained a lot of popularity is [Styled Com
 
 As you could see, the traditional CSS architecture isn’t designed to be used with larger projects. And in a world of React, Vue, Angular and similar frameworks, that have been widely used, we need better solutions to solve some painful CSS problems.
 
-CSS preprocessors have added a lot of power to stylesheets and things like CSS modular, nesting and variables have helped me in many different projects - BTW, I created this [boilerplate using Gulp and Stylus](https://github.com/diogorodrigues/iceberg-boilerplate) in the past to develop my web applications. But now the world of front-end development is different and solutions based in React (like GatsbyJS, NextJS and React Native) are part of my current daily development routine and I need something more powerful.
+CSS preprocessors have added a lot of power to stylesheets and things like CSS modular, nesting and variables have helped me in many different projects - BTW, I created this [boilerplate using Gulp and Stylus](https://github.com/dionarodrigues/iceberg-boilerplate) in the past to develop my web applications. But now the world of front-end development is different and solutions based in React (like GatsbyJS, NextJS and React Native) are part of my current daily development routine and I need something more powerful.
 
 And because of these changes in the way we think about styling and create CSS, several discussions have been emerging about the death of traditional CSS as you can see in this [Samson Zhang article](https://www.samsonzhang.com/2020/05/13/the-artistry-of-css-and-its-death-a-reflection-about-css-and-js-frameworks-and-the-evolution-of-css.html) and in this other [Chris Coyer article](https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/) as well.
 
@@ -113,6 +113,6 @@ It's important to note that CSS-in-JS also has disadvantages as you can see [in 
 
 I showed a perspective on the current state of CSS, its default problems and some solutions that have been created over time. It's not my intention to convince you that CSS-in-JS is the best solution ever and that you should use it on all projects. But, in my perspective, if you're working with some component-based JS structures (like React, for example), I think this new way of writing CSS might be a good idea to deal with old and complex style problems.
 
-**I love CSS and, for me, writing CSS is an art. I fully agree that traditional CSS will still be used extensively depending on the project, after all, many sensational CSS features have emerged (as you can see [in this article](https://www.diogorodrigues.dev/blog/6-powerful-css-techniques-you-can-use-instead-javascript)). But the maintenance of CSS today, which is a critical point and needs to be improved.**.
+**I love CSS and, for me, writing CSS is an art. I fully agree that traditional CSS will still be used extensively depending on the project, after all, many sensational CSS features have emerged (as you can see [in this article](https://www.dionarodrigues.dev/blog/6-powerful-css-techniques-you-can-use-instead-javascript)). But the maintenance of CSS today, which is a critical point and needs to be improved.**.
 
 What about you? What do you think is happening with CSS? Have you ever tried CSS-in-JS?

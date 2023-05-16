@@ -123,7 +123,7 @@ Agora que você sabe como prestar atenção aos detalhes, aprendeu o caminho par
 - **[Tympanus/Codrops](https://tympanus.net/codrops/category/playground/)**
 - **[Modern CSS](https://moderncss.dev/)**
 - **[Style Stage](https://stylestage.dev/)**
-- **[6 poderosas técnicas de CSS que você pode usar ao invés de JS](https://www.diogorodrigues.dev/pt/blog/6-poderosas-tecnicas-de-css-ao-inves-de-javascript)**
+- **[6 poderosas técnicas de CSS que você pode usar ao invés de JS](https://www.dionarodrigues.dev/pt/blog/6-poderosas-tecnicas-de-css-ao-inves-de-javascript)**
 
 #### Tutoriais de efeitos CSS:
 

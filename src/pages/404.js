@@ -74,10 +74,10 @@ const NotFound = () => {
                   meus projetos
                 </Link>{' '}
                 e me siga no{' '}
-                <a href="https://twitter.com/_diogorodrigues">Twitter</a> e{' '}
-                <a href="https://github.com/diogorodrigues">Github</a>. Sinta-se
+                <a href="https://twitter.com/_dionarodrigues">Twitter</a> e{' '}
+                <a href="https://github.com/dionarodrigues">Github</a>. Sinta-se
                 a vontade para visitar meu{' '}
-                <a href="https://www.linkedin.com/in/diogorodrigues02/">
+                <a href="https://www.linkedin.com/in/dionarodrigues/">
                   Linkedin
                 </a>{' '}
                 ou{' '}
@@ -95,10 +95,10 @@ const NotFound = () => {
                   my projects
                 </Link>{' '}
                 and follow me on{' '}
-                <a href="https://twitter.com/_diogorodrigues">Twitter</a> and{' '}
-                <a href="https://github.com/diogorodrigues">Github</a>. Feel
+                <a href="https://twitter.com/_dionarodrigues">Twitter</a> and{' '}
+                <a href="https://github.com/dionarodrigues">Github</a>. Feel
                 free to visit my{' '}
-                <a href="https://www.linkedin.com/in/diogorodrigues02/">
+                <a href="https://www.linkedin.com/in/dionarodrigues/">
                   Linkedin
                 </a>{' '}
                 or{' '}

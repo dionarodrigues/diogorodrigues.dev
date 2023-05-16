@@ -28,7 +28,7 @@ const Post = props => {
   const { toRead } = useTranslations();
 
   const disqusConfig = {
-    shortname: 'diogorodrigues-dev',
+    shortname: 'dionarodrigues-dev',
     config: { identifier: post.fields.slug },
   };
 
@@ -46,7 +46,7 @@ const Post = props => {
           description={post.frontmatter.description}
           // imgUrl={post.frontmatter.featuredImage}
           date={post.frontmatter.date}
-          // author="Diogo Rodrigues"
+          // author="Diona Rodrigues"
           category={post.frontmatter.category}
           timeToRead={`${post.timeToRead} min ${toRead}`}
         />

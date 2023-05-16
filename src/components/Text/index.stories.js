@@ -49,7 +49,7 @@ export const Light = () => (
 
 export const Link = () => (
   <Text size={3}>
-    <a href="/">hello@diogorodrigues.dev</a>
+    <a href="/">hello@dionarodrigues.dev</a>
   </Text>
 );
 

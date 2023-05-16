@@ -3,17 +3,17 @@ title: 'About me'
 date: 2019-07-01 01:21:24
 is_page: true
 type_of_page: 'about'
-featuredImage: '/assets/img/about-me/diogo-rodrigues.jpg'
+featuredImage: '/assets/img/about-me/diona-rodrigues.jpg'
 
-subtitle: ""
-beforeSubtitle: ""
-afterSubtitle: ""
-description: ""
+subtitle: ''
+beforeSubtitle: ''
+afterSubtitle: ''
+description: ''
 ---
 
 ## About me
 
-<p class="text-hilight"><strong>Hi, I'm Diogo Rodrigues</strong>, a brazilian <span class='text-line'>web designer</span> front-end developer with UI/UX design skills (<a href='/blog/which-type-of-frontend-devoloper-am-i'><strong>front-end designer</strong></a>) based in Dublin, Ireland.</p>
+<p class="text-hilight"><strong>Hi, I'm Diona Rodrigues</strong>, a brazilian <span class='text-line'>web designer</span> front-end developer with UI/UX design skills (<a href='/blog/which-type-of-frontend-devoloper-am-i'><strong>front-end designer</strong></a>) based in Dublin, Ireland.</p>
 
 Enthusiastic front-end developer with 10 years of experience in building and maintaining modern and user-focused interfaces.
 
@@ -23,7 +23,7 @@ I had many opportunities in my previous jobs to develop strong UI / UX design sk
 
 I'm always trying to grow and learn something new. I lose track of time when I'm playing the violin, studying languages or simply reading a good book.
 
-[__Download my CV.__](https://www.diogorodrigues.dev/diogo-rodrigues-frontend-designer-cv.pdf)
+[**Download my CV.**](https://www.dionarodrigues.dev/diogo-rodrigues-frontend-designer-cv.pdf)
 
 ## Experience
 
@@ -35,25 +35,24 @@ I also have participated in amazing open source projects such as [Definitely Typ
 
 ### Front-end
 
-- __Modern and solid web development stack__, including: React, Next.js, Gatsby.js, Storybook, Typescript, unit test
-tools, ES6 features and CSS preprocessors;
-- __Use of the latest features of web development__: lazy-load, CSS Grid, async/await;
-- __Experience with APIs__: GraphQL and REST;
-- __Knowledge of mobile development__: mobile patterns and development with React Native.
-- __Others__: Experience with Webpack, Gulp, Wordpress, Material UI, Bulma, Bootstrap. Familiarity with Node.js, Docker, NPM and CI/CD environments.
-
+- **Modern and solid web development stack**, including: React, Next.js, Gatsby.js, Storybook, Typescript, unit test
+  tools, ES6 features and CSS preprocessors;
+- **Use of the latest features of web development**: lazy-load, CSS Grid, async/await;
+- **Experience with APIs**: GraphQL and REST;
+- **Knowledge of mobile development**: mobile patterns and development with React Native.
+- **Others**: Experience with Webpack, Gulp, Wordpress, Material UI, Bulma, Bootstrap. Familiarity with Node.js, Docker, NPM and CI/CD environments.
 
 ### Web Design
 
-- __Visual design process__: participation in user tests, creation of prototypes and UI guidelines using Adobe
-XD and Photoshop;
-- __User-centered design always__: big fan of the concepts of Emotional Design and Design Thinking;
-- __Understanding of design principles__: ability to create pleasant and functional interfaces capable of orienting users' eyes to what is most important;
-- __Others__: strong experience with Mobile First approach and Design System;
+- **Visual design process**: participation in user tests, creation of prototypes and UI guidelines using Adobe
+  XD and Photoshop;
+- **User-centered design always**: big fan of the concepts of Emotional Design and Design Thinking;
+- **Understanding of design principles**: ability to create pleasant and functional interfaces capable of orienting users' eyes to what is most important;
+- **Others**: strong experience with Mobile First approach and Design System;
 
 ---
 
-[__Download my CV.__](https://www.diogorodrigues.dev/diogo-rodrigues-frontend-designer-cv.pdf)
+[**Download my CV.**](https://www.dionarodrigues.dev/diogo-rodrigues-frontend-designer-cv.pdf)
 
 <!-- ---
 

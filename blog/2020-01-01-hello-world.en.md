@@ -8,4 +8,4 @@ background: '#353b48'
 
 Hello World!
 
-I'm Diogo Rodrigues, a front-end designer and this is my personal blog with articles about CSS, Javascript, Web Design and more. Feel free to explore it. ✌
+I'm Diona Rodrigues, a front-end designer and this is my personal blog with articles about CSS, Javascript, Web Design and more. Feel free to explore it. ✌

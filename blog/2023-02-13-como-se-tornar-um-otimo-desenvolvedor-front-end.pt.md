@@ -89,7 +89,7 @@ Alguns dos princípios importantes de design que eu penso que todo desenvolvedor
 - **[Gestalt](https://www.interaction-design.org/literature/topics/gestalt-principles)**: este é um conjunto de princípios da psicologia que se concentram em como as mentes humanas organizam imagens complexas quando percebemos objetos e como elas nos ajudam a entender o mundo. Podemos usá-lo para organizar o conteúdo nas interfaces a fim de criar uma estética agradável e algo fácil de entender.
 - **[Não me Faça Pensar por Steve Krung](https://www.interaction-design.org/literature/article/don-t-make-me-think-key-learning-points-for-ux-design-for-the-web)**: não é necessariamente um princípio de design, mas é um ótimo guia para melhorararmos a experiência do usuário de uma maneira muito simples e acessível.
 - **[Hierarquia Visual](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)**: uma parte importante do design eficaz é conseguir guiar os olhos dos usuários para ajudá-los a encontrar o que procuram com facilidade.
-- **[Design Emocional por Donald Norman](https://www.diogorodrigues.dev/pt/blog/como-incluir-design-emocional-em-seus-projetos)**: trata-se de entender porque as pessoas amam (ou odeiam) nossos produtos e serviços. Uma das minhas melhores leituras.
+- **[Design Emocional por Donald Norman](https://www.dionarodrigues.dev/pt/blog/como-incluir-design-emocional-em-seus-projetos)**: trata-se de entender porque as pessoas amam (ou odeiam) nossos produtos e serviços. Uma das minhas melhores leituras.
 - E há muito [mais princípios de design](https://principles.design/) que você pode aprender com o tempo.
 
 ## FASE 02 - Nível intermediário do desenvolvimento Front-end

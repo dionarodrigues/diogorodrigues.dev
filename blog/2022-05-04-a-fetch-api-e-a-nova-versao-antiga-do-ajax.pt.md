@@ -70,7 +70,7 @@ _O exemplo acima é da W3Schools._
 Antes de qualquer explicação sobre a Fetch API, quero mostrar sua sintaxe:
 
 ```js
-fetch('/https://api.github.com/users/diogorodrigues');
+fetch('/https://api.github.com/users/dionarodrigues');
 ```
 
 O código acima simplesmente fará uma solicitação HTTP ao domínio da API do GitHub para obter alguns dados JSON. Que código maravilhoso e conciso, não é?!
@@ -78,7 +78,7 @@ O código acima simplesmente fará uma solicitação HTTP ao domínio da API do 
 **Também introduzida no ES2015, a Fetch API surgiu como uma sucessora moderna de `XMLHttpRequest` e o método `fetch()` espera um caminho para um recurso como entrada e retorna uma Promise, possibilitando a execução de uma função se resolvida ou rejeitada.**
 
 ```js
-fetch('https://api.github.com/users/diogorodrigues')
+fetch('https://api.github.com/users/dionarodrigues')
   .then(response => response.json())
   .then(data => console.log(data))
   .catch(err => console.log(err));
@@ -100,7 +100,7 @@ Veja o código e sua descrição abaixo para entender melhor como implementar As
 ```js
 async function getUserData() {
   try {
-    const response = await fetch('https://api.github.com/users/diogorodrigues');
+    const response = await fetch('https://api.github.com/users/dionarodrigues');
     const data = await response.json();
     console.log(data);
   } catch (err) {
@@ -115,7 +115,7 @@ Outra maneira de usar try/catch com funções assíncronas é manipular o `catch
 
 ```js
 async function getUserData() {
-  const response = await fetch('https://api.github.com/users/diogorodrigues');
+  const response = await fetch('https://api.github.com/users/dionarodrigues');
   const data = await response.json();
   console.log(data);
 }

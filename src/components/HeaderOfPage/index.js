@@ -9,8 +9,8 @@ import Logo from '../Logo';
 import ButtonMenu from '../ButtonMenu';
 import ButtonToggleTheme from '../ButtonToggleTheme';
 
-import logoBlack from '../../images/diogo-rodrigues-logo.svg';
-import logoWhite from '../../images/diogo-rodrigues-logo-white.svg';
+import logoBlack from '../../images/diona-rodrigues-logo.svg';
+import logoWhite from '../../images/diona-rodrigues-logo-white.svg';
 
 import * as S from './styled';
 
@@ -31,7 +31,7 @@ const HeaderOfPage = ({
       <div className="container">
         <S.Brand>
           <Logo
-            title="diogo rodrigues"
+            title="diona rodrigues"
             img={isDarkMode ? logoWhite : logoBlack}
             isTitleVisible={false}
             link={`${locale === 'pt' ? '/pt' : '/'}`}

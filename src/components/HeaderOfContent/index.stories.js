@@ -6,7 +6,7 @@ export default { title: 'Header of Content' };
 export const Default = () => (
   <HeaderOfContent
     title="About"
-    subtitle="diogorodrigues"
+    subtitle="dionarodrigues"
     beforeSubtitle="hi, I'm"
     afterSubtitle="front-end designer"
     description="Lorem Ipsum is simply dummy text of the printing and typesetting industry."

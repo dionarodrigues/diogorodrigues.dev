@@ -85,7 +85,7 @@ Some of important design principles I think every front-end developer needs to k
 - **[Gestalt](https://www.interaction-design.org/literature/topics/gestalt-principles)**: this is a set of psychology principles that focus on how human minds organize complex images when we perceive objects and how they help us to understand the world. We can use it to organize the content on the interfaces in order to create a pleasant aesthetic and something easy to understand.
 - **[Don’t Make Me Think by Steve Krung](https://www.interaction-design.org/literature/article/don-t-make-me-think-key-learning-points-for-ux-design-for-the-web)**: it´s not necessarily a design principle, but it's a great guide for user experience improvements in a very simple and accessible way.
 - **[Visual Hierarchy](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)**: an important part of effective design is being able to guide users' eyes in order to help them find what they’re looking for easily.
-- **[Emotional Design by Donald Norman](https://www.diogorodrigues.dev/blog/how-to-apply-emotional-design-in-your-projects)**: It's about understanding why people love (or hate) our products and services. One of my best readings.
+- **[Emotional Design by Donald Norman](https://www.dionarodrigues.dev/blog/how-to-apply-emotional-design-in-your-projects)**: It's about understanding why people love (or hate) our products and services. One of my best readings.
 - And there are many [more design principles](https://principles.design/) that you can learn over time.
 
 ## PHASE 02 - Intermediate Level of Front-end development

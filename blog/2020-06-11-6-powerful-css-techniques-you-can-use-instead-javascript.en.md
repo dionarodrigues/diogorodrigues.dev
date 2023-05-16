@@ -33,7 +33,7 @@ html {
 }
 ```
 
-https://codepen.io/diogorodrigues/pen/PoZYYZy
+https://codepen.io/dionarodrigues/pen/PoZYYZy
 
 As I write this, the scroll-behavior property works on Chrome and Firefox, but not yet on Edge, IE, or Safari (desktop or mobile). Read more about it in [Can I Use](https://caniuse.com/#feat=mdn-css_properties_scroll-behavior).
 
@@ -48,7 +48,7 @@ header {
 }
 ```
 
-https://codepen.io/diogorodrigues/pen/vYLBBdV
+https://codepen.io/dionarodrigues/pen/vYLBBdV
 
 But you must understand the logic behind `position: sticky` to use it correctly once the structure of your HTML matters! (By the way, this is the reason because sometimes this property doesn't work).
 
@@ -72,7 +72,7 @@ The menu will only be able to stick on the area that its parent covers (main). S
 
 - **sticky item**: is the element that we defined with the `position: sticky` (nav). The element will float when the viewport position matches the position definition, for example: top: 0px .
 - **sticky container**: is the HTML element which wraps the sticky item. This is the maximum area that the sticky item can float in. This “sticky parent” determines the scope on which the “sticky item” can act.
-´´´
+  ´´´
 
 This feature can drastically enhance the user-experience, especially for websites that have a lot of scrolling.
 
@@ -82,7 +82,7 @@ Almost [100% of browsers support](https://caniuse.com/#feat=css-sticky). 🎉
 
 CSS gave us two fantastic properties, `text-overflow` and `line-clamp`, which can do things like create ellipsis and gracefully cut off words without javascript or some other complex method to achieve this. Both properties are not new, but are very useful.
 
-https://codepen.io/diogorodrigues/pen/NWxKKEq
+https://codepen.io/dionarodrigues/pen/NWxKKEq
 
 Let's take a closer look.
 
@@ -212,7 +212,7 @@ body:after {
 
 Depending on your device's settings, you'll see the styles for dark or light.
 
-https://codepen.io/diogorodrigues/pen/VweZwjN
+https://codepen.io/dionarodrigues/pen/VweZwjN
 
 ## 6- @supports
 
@@ -234,11 +234,9 @@ The above example checks whether the browser supports the `-webkit-line-clamp` p
 
 [All modern browsers already support this feature](https://caniuse.com/#search=css.supports).
 
-
 [[media]]
 | ![Animated Gif](https://miro.medium.com/max/650/1*YJgEh7gAzQHsBR2Y3rFJEA.gif)
 It's me after getting this new CSS feature. 🤣🤣 How about you?
-
 
 ## Conclusion
 

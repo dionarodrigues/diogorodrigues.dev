@@ -1,10 +1,9 @@
 # My personal website (portfolio and blog)
 
-[diogorodrigues.dev](https://www.diogorodrigues.dev/)
+[dionarodrigues.dev](https://www.dionarodrigues.dev/)
 
 <img src="./static/assets/img/cover.png" style="width:100%">
 Made with [GatsbyJS](https://www.gatsbyjs.org/) and hosted on [Netlify](https://www.netlify.com/). 💜
-
 
 ## Some features of this project:
 
@@ -21,6 +20,6 @@ Made with [GatsbyJS](https://www.gatsbyjs.org/) and hosted on [Netlify](https://
 
 ---
 
-I also developed this [Gatsby multi-language starter with CMS](https://github.com/diogorodrigues/iceberg-gatsby-multilang) that contains all features I'm using here. ✨👌🎉😎
+I also developed this [Gatsby multi-language starter with CMS](https://github.com/dionarodrigues/iceberg-gatsby-multilang) that contains all features I'm using here. ✨👌🎉😎
 
 ---

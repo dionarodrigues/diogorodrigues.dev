@@ -72,7 +72,7 @@ Mês passado, a [Microsoft publicou uma proposta para adicionar sintaxe de tipo 
 
 Espero tê-lo convencido de que o TS é muito poderoso e útil. Mas se você ainda não aprendeu essa linguagem, eu fortemente recomendo [aprender mais sobre o Typescript lendo sua documentação](https://www.typescriptlang.org/docs/handbook/intro.html) e fazendo esse [curso rárpido de TS](https://www.udemy.com/course/understanding-typescript/) se você preferir aprender desta forma.
 
-Fazendo o curso acima, desenvolvi este [pequeno projeto para experimentar todos os recursos do Typescript que aprendi e também explorei muito Classes e Decorators](https://github.com/diogorodrigues/labs/tree/master/typescript). Fique a vontade para dar uma olhada nele no meu Github.
+Fazendo o curso acima, desenvolvi este [pequeno projeto para experimentar todos os recursos do Typescript que aprendi e também explorei muito Classes e Decorators](https://github.com/dionarodrigues/labs/tree/master/typescript). Fique a vontade para dar uma olhada nele no meu Github.
 
 ## Conclusão
 
