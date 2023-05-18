@@ -131,8 +131,8 @@ const Page = props => {
       {type_of_page === 'contact' && (
         <div className="container">
           <Text sizeSmall={2} sizeMedium={3} sizeLarge={4.5}>
-            <a href="mailto:dionarodrigues.me@gmail.com">
-              dionarodrigues.me@gmail.com
+            <a href="mailto:dionarodrigues.dev@gmail.com">
+              dionarodrigues.dev@gmail.com
             </a>
           </Text>
           <br />
