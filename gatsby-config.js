@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Diogo Rodrigues`,
+    title: `Diona Rodrigues`,
     description: `A front-end developer specialized with UX/UI skills. HTML, CSS, JS, ReactJS, Responsive Web Design, Emotional Design and more.`,
     author: `@diogorodrigues`,
-    siteUrl: `https://diogorodrigues.dev`,
+    siteUrl: `https://dionarodrigues.dev`,
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
@@ -166,13 +166,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Diogo Rodrigues`,
-        short_name: `Diogo Rodrigues`,
+        name: `Diona Rodrigues`,
+        short_name: `Diona Rodrigues`,
         start_url: `/`,
         background_color: `#1e1e1e`,
         theme_color: `#1e1e1e`,
         display: `minimal-ui`,
-        icon: `src/images/diogo_rodrigues_icon.png`,
+        icon: `src/images/diona_rodrigues_icon.png`,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
