@@ -60,7 +60,7 @@ const AuthorCard = () => {
 
 const query = graphql`
   query {
-    authorPhoto: file(relativePath: { eq: "about-me/diogo-rodrigues.jpg" }) {
+    authorPhoto: file(relativePath: { eq: "about-me/diona-rodrigues.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1500) {
           ...GatsbyImageSharpFluid

@@ -1,5 +1,5 @@
 import { create } from '@storybook/theming/create';
-import logo from '../src/images/diogo-rodrigues-logo.svg';
+import logo from '../src/images/diona-rodrigues-logo.svg';
 
 export default create({
   base: 'dark',
@@ -32,7 +32,7 @@ export default create({
   inputTextColor: 'black',
   inputBorderRadius: 4,
 
-  brandTitle: 'Diogo Rodrigues',
+  brandTitle: 'Diona Rodrigues',
   brandUrl: 'https://www.dionarodrigues.dev/',
   brandImage: logo,
 });

@@ -23,7 +23,7 @@ Tive muitas oportunidades em meus empregos anteriores para desenvolver fortes ha
 
 Estou sempre tentando evoluir e aprender algo novo. Por isso, perco a noção do tempo quando estou tocando violino, estudando idiomas ou simplesmente lendo um bom livro.
 
-[**Faça download do meu CV.**](https://www.dionarodrigues.dev/diogo-rodrigues-frontend-designer-cv.pdf)
+[**Faça download do meu CV.**](https://www.dionarodrigues.dev/diona-rodrigues-frontend-designer-cv.pdf)
 
 ## Experiência
 
@@ -51,7 +51,7 @@ Além disso, também participei de fantásticos projetos open sources, como [Def
 
 ---
 
-[**Faça download do meu CV.**](https://www.dionarodrigues.dev/diogo-rodrigues-frontend-designer-cv.pdf)
+[**Faça download do meu CV.**](https://www.dionarodrigues.dev/diona-rodrigues-frontend-designer-cv.pdf)
 
 <!-- ---
 

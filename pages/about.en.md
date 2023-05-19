@@ -23,7 +23,7 @@ I had many opportunities in my previous jobs to develop strong UI / UX design sk
 
 I'm always trying to grow and learn something new. I lose track of time when I'm playing the violin, studying languages or simply reading a good book.
 
-[**Download my CV.**](https://www.dionarodrigues.dev/diogo-rodrigues-frontend-designer-cv.pdf)
+[**Download my CV.**](https://www.dionarodrigues.dev/diona-rodrigues-frontend-designer-cv.pdf)
 
 ## Experience
 
@@ -52,7 +52,7 @@ I also have participated in amazing open source projects such as [Definitely Typ
 
 ---
 
-[**Download my CV.**](https://www.dionarodrigues.dev/diogo-rodrigues-frontend-designer-cv.pdf)
+[**Download my CV.**](https://www.dionarodrigues.dev/diona-rodrigues-frontend-designer-cv.pdf)
 
 <!-- ---
 
