@@ -9,13 +9,13 @@ featuredImage: '/assets/img/blog/i-am-proud-to-be-a-transgender-it-developer.jpg
 
 **It's been a while since I met Sophie Alpert while watching the React documentary and then came across [her article about her coming out as a trans woman in the IT field](https://sophiebits.com/2017/08/26/hi-im-trans https://dionarodrigues.dev/blog/reactjs-behind-the-scenes). I was delighted with her words and since then I have wanted to do the same, and today is the day.** 😁
 
-## Diversity in IT area overview
+## Diversity in IT fiel overview
 
 The 2022 [CSS](https://2022.stateofcss.com/en-US/demographics/#gender) and [JS](https://2022.stateofjs.com/en-US/demographics/#gender) State Surveys show that more than half of the developers who participated in the survey are men. About 5% are women, 1% are non-binary/gender non-conforming, and the rest did not respond.
 
 Another [2022 development survey led by Stackoverflow](https://survey.stackoverflow.co/2022/#section-demographics-gender) shows that 92% (nearly 100%) of respondents are men.
 
-So, based on these two annual reports, we can have a big picture of gender in IT and, unsurprisingly, the **higher number of men in IT**. And these numbers also show that we still have a long way to go to change this scenario to have more diverse work environments, but I am happy to be part of this new time, where more and more people like me are showing themselves every day. And **I hope in the near future to see more and more LGBTQIA+ people taking part in these reports**.
+So, based on these two annual reports, we can have a big picture of gender in IT and, unsurprisingly, the **higher number of men in this field**. And these numbers also show that we still have a long way to go to change this scenario to have more diverse work environments, but I am happy to be part of this new time, where more and more people like me are showing themselves every day. And **I hope in the near future to see more and more LGBTQIA+ people taking part in these reports**.
 
 ## What’s gender anyway?
 
@@ -29,7 +29,7 @@ Learn more about [gender, sex and sexuality differences from Harvard](https://lg
 
 ## Overcoming pronoun issues
 
-**I am a female transgender person, which means my pronouns are she/her. And this is a good start to showing respect to myself by calling myself by the correct pronouns.**
+**I am a transfeminine person, which means my pronouns are she/her. And this is a good start to showing respect to myself by calling myself by the correct pronouns.**
 
 I confess that it's been a relatively quiet struggle to demand that people treat me as feminine and call me by the name I chose: family, friends, work... However, it's not that simple for all of us, and that's one of the reasons why I am writing this article: I want you to know how important it is to us as [many of us take our lives every day because life becomes too difficult for them](https://www.gendergp.com/what-is-the-transgender-suicide-rate/).
 
