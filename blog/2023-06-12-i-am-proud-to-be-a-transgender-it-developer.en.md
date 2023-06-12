@@ -7,7 +7,7 @@ background: '#353b48'
 featuredImage: '/assets/img/blog/i-am-proud-to-be-a-transgender-it-developer.jpg'
 ---
 
-**It's been a while since I met Sophie Alpert while watching the React documentary and then came across [her article about her coming out as a trans woman in the IT field](https://sophiebits.com/2017/08/26/hi-im-trans https://dionarodrigues.dev/blog/reactjs-behind-the-scenes). I was delighted with her words and since then I have wanted to do the same, and today is the day.** 😁
+**It's been a while since I met Sophie Alpert while watching the [React documentary](https://dionarodrigues.dev/blog/reactjs-behind-the-scenes) and then came across [her article about her coming out as a trans woman in the IT field](https://sophiebits.com/2017/08/26/hi-im-trans). I was delighted with her words and since then I have wanted to do the same, and today is the day.** 😁
 
 ## Diversity in IT fiel overview
 
