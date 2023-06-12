@@ -29,7 +29,7 @@ Learn more about [gender, sex and sexuality differences from Harvard](https://lg
 
 ## Overcoming pronoun issues
 
-**I am a female transgender person, which means my pronouns are she/she. And this is a good start to showing respect to myself by calling myself by the correct pronouns.**
+**I am a female transgender person, which means my pronouns are she/her. And this is a good start to showing respect to myself by calling myself by the correct pronouns.**
 
 I confess that it's been a relatively quiet struggle to demand that people treat me as feminine and call me by the name I chose: family, friends, work... However, it's not that simple for all of us, and that's one of the reasons why I am writing this article: I want you to know how important it is to us as [many of us take our lives every day because life becomes too difficult for them](https://www.gendergp.com/what-is-the-transgender-suicide-rate/).
 
@@ -47,7 +47,7 @@ I confess that it's been a relatively quiet struggle to demand that people treat
 
 ## Wrapping up
 
-**Hello, I'm Diona Rodrigues and my pronouns are she/she.**
+**Hello, I'm Diona Rodrigues and my pronouns are she/her.**
 
 Most of the developers are men, but we can work together to make our developement community more diverse, seeking more knowledge about people from different backgrounds, understanding that pronouns are important and that we can always do our best to respect others.
 
