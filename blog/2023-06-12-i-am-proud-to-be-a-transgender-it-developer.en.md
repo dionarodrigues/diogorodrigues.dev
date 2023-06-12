@@ -1,7 +1,7 @@
 ---
 title: 'I am proud to be a transgender IT developer'
 date: '2023-06-12 10:00:00'
-description: "I'm taking this 2023 Pride Month to share that I'm a transgender developer and would love to inspire others to do the same. Let's build together an IT area with more diversity."
+description: "I'm taking this 2023 Pride Month to share that I'm a transgender IT developer and would love to inspire others to do the same. Let's build together an IT area with more diversity."
 category: Career
 background: '#353b48'
 featuredImage: '/assets/img/blog/i-am-proud-to-be-a-transgender-it-developer.jpg'
