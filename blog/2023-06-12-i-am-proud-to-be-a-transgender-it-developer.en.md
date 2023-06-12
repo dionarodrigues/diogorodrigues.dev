@@ -15,7 +15,7 @@ The 2022 [CSS](https://2022.stateofcss.com/en-US/demographics/#gender) and [JS](
 
 Another [2022 development survey led by Stackoverflow](https://survey.stackoverflow.co/2022/#section-demographics-gender) shows that 92% (nearly 100%) of respondents are men.
 
-So, based on these two annual reports, we can have a big picture of gender in IT and, unsurprisingly, the **higher number of men in this field**. And these numbers also show that we still have a long way to go to change this scenario to have more diverse work environments, but I am happy to be part of this new time, where more and more people like me are showing themselves every day. And **I hope in the near future to see more and more LGBTQIA+ people taking part in these reports**.
+So, based on these two annual reports, we can have a big picture of gender in IT and, unsurprisingly, the **higher number of men in this field**. And these numbers also show that we still have a long way to go to change this scenario to have more diverse work environments, but I am happy to be part of this new time, where more and more people like me are showing themselves every day. And **I hope in the near future to see lots of LGBTQIA+ people taking part in these reports**.
 
 ## What’s gender anyway?
 
