@@ -11,7 +11,7 @@ featuredImage: '/assets/img/blog/i-am-proud-to-be-a-transgender-it-developer.jpg
 
 ## Diversity in IT fiel overview
 
-The 2022 [CSS](https://2022.stateofcss.com/en-US/demographics/#gender) and [JS](https://2022.stateofjs.com/en-US/demographics/#gender) State Surveys show that more than half of the developers who participated in the survey are men. About 5% are women, 1% are non-binary/gender non-conforming, and the rest did not respond.
+The 2022 [CSS](https://2022.stateofcss.com/en-US/demographics/#gender) and [JS](https://2022.stateofjs.com/en-US/demographics/#gender) State Surveys show that more than half of the developers (61.6% and 70.1% respectively) who participated in the survey are men. About 5% are women, 1% are non-binary/gender non-conforming, and the rest did not respond.
 
 Another [2022 development survey led by Stackoverflow](https://survey.stackoverflow.co/2022/#section-demographics-gender) shows that 92% (nearly 100%) of respondents are men.
 
@@ -21,7 +21,7 @@ So, based on these two annual reports, we can have a big picture of gender in IT
 
 **[New research and studies are demonstrating that gender is much more a cultural construct](https://www.who.int/news-room/questions-and-answers/item/gender-and-health) and psychological self-perception than something that can be told at our birth just by looking at our genitals**. Being transgender means someone who was assigned a gender at birth, but later discovers that they don't belong to that gender during their lifetime. So most people are cisgender, which is the opposite of trans.
 
-> "Gender refers to the characteristics of women, men, girls and boys that are socially constructed." - [WHO (World Health Organisation)](https://www.who.int/health-topics/gender
+> "Gender refers to the characteristics of women, men, girls and boys that are socially constructed." - [WHO (World Health Organisation)](https://www.who.int/health-topics/gender)
 
 **If it's too confusing to understand, don't worry, you don't have to understand everything, but respect other people and the fact that there are other genders than the cisgender male/female binary.**
 
