@@ -49,7 +49,7 @@ I confess that it's been a relatively quiet struggle to demand that people treat
 
 **Hello, I'm Diona Rodrigues and my pronouns are she/her.**
 
-Most of the developers are men, but we can work together to make our developement community more diverse, seeking more knowledge about people from different backgrounds, understanding that pronouns are important and that we can always do our best to respect others.
+Most of the developers are men, but we can work together to make our development community more diverse, seeking more knowledge about people from different backgrounds, understanding that pronouns are important and that we can always do our best to respect others.
 
 I'm proud to be a transgender developer and to share that with you. I hope to see more and more people proud of themselves in the IT field and I count on your help.
 
