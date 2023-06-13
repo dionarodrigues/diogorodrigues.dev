@@ -19,7 +19,7 @@ So, based on these three annual reports, we can have a big picture of gender in 
 
 ## What’s gender anyway?
 
-**[New research and studies are demonstrating that gender is much more a cultural construct](https://www.who.int/news-room/questions-and-answers/item/gender-and-health) and psychological self-perception than something that can be told at our birth just by looking at our genitals**. Being transgender means someone who was assigned a gender at birth, but later discovers that they don't belong to that gender during their lifetime. So most people are cisgender, which is the opposite of trans.
+**[New research and studies are demonstrating that gender is much more a cultural construct and psychological self-perception](https://www.who.int/news-room/questions-and-answers/item/gender-and-health) than something that can be told at our birth just by looking at our genitals**. Being transgender means someone who was assigned a gender at birth, but later discovers that they don't belong to that gender during their lifetime. So most people are cisgender, which is the opposite of trans.
 
 > "Gender refers to the characteristics of women, men, girls and boys that are socially constructed." - [WHO (World Health Organisation)](https://www.who.int/health-topics/gender)
 
@@ -31,7 +31,7 @@ Learn more about [gender, sex and sexuality differences from Harvard](https://lg
 
 **I am a transfeminine person, which means my pronouns are she/her. And this is a good start to showing respect to myself by calling myself by the correct pronouns.**
 
-I confess that it's been a relatively quiet struggle to demand that people treat me as feminine and call me by the name I chose: family, friends, work... However, it's not that simple for all of us, and that's one of the reasons why I am writing this article: I want you to know how important it is to us as [many of us take our lives every day because life becomes too difficult for them](https://www.gendergp.com/what-is-the-transgender-suicide-rate/).
+I confess that it's been a relatively quiet struggle to demand that people treat me as feminine and call me by the name I chose: family, friends, work... However, it's not that simple for all of us, and that's one of the reasons why I am writing this article: I want you to know how important it is to us as [many of us take their lives every day because life becomes too difficult for them](https://www.gendergp.com/what-is-the-transgender-suicide-rate/).
 
 ## How to be a better co-worker and make room for diversity in IT
 
