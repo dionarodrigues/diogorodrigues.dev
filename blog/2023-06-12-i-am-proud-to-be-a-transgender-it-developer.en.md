@@ -15,7 +15,7 @@ The 2022 [CSS](https://2022.stateofcss.com/en-US/demographics/#gender) and [JS](
 
 Another [2022 development survey led by Stackoverflow](https://survey.stackoverflow.co/2022/#section-demographics-gender) shows that 92% (nearly 100%) of respondents are men.
 
-So, based on these two annual reports, we can have a big picture of gender in IT and, unsurprisingly, the **higher number of men in this field**. And these numbers also show that we still have a long way to go to change this scenario to have more diverse work environments, but I am happy to be part of this new time, where more and more people like me are showing themselves every day. And **I hope in the near future to see lots of LGBTQIA+ people taking part in these reports**.
+So, based on these three annual reports, we can have a big picture of gender in IT and, unsurprisingly, the **higher number of men in this field**. And these numbers also show that we still have a long way to go to change this scenario to have more diverse work environments, but I am happy to be part of this new time, where more and more people like me are showing themselves every day. And **I hope in the near future to see lots of LGBTQIA+ people taking part in these reports**.
 
 ## What’s gender anyway?
 
@@ -40,7 +40,7 @@ I confess that it's been a relatively quiet struggle to demand that people treat
 > “Over a third of LGBTQ+ people still feel they have to hide who they are at work.“ - [Stonewall.org.uk](https://www.stonewall.org.uk/about-us/news/7-ways-you-can-be-lgbtq-ally-work)
 
 - **Educate yourself**. Be curious and learn from the experiences of others with different backgrounds. [Books](https://bulletin.hds.harvard.edu/sex-gender-and-sexuality/), Youtube...
-- **Don't assume people's pronouns**. If you don't know someone's pronouns, ask. It is much better for you to ask than to make mistakes, causing pain and frustration in others.
+- **Don't assume people's pronouns**. If you don't know someone's pronouns, ask them. It is much better for you to ask than to make mistakes, causing pain and frustration in others.
 - **Recognise your privileges and bring diversity to the table**. What are you doing to make the company you work for more plural?
 - **Be patient with yourself**. As long as you're doing your best, understand that it's okay to make mistakes, so apologize and correct yourself.
 - **Take action and speak up**. Do not allow any kind of discrimination, racism or sexism around you. Do not allow jokes on these subjects under any circumstances.
@@ -49,7 +49,7 @@ I confess that it's been a relatively quiet struggle to demand that people treat
 
 **Hello, I'm Diona Rodrigues and my pronouns are she/her.**
 
-Most of the developers are men, but we can work together to make our development community more diverse, seeking more knowledge about people from different backgrounds, understanding that pronouns are important and that we can always do our best to respect others.
+Annual reports show that most of the IT developers are men, but we can work together to make our development community more diverse, seeking more people from different backgrounds, understanding that pronouns are important and that we can always do our best to respect others.
 
 I'm proud to be a transgender developer and to share that with you. I hope to see more and more people proud of themselves in the IT field and I count on your help.
 
